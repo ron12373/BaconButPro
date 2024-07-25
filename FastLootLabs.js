@@ -33,22 +33,25 @@ async function lootlabs() {
 function createNotificationBox() {
     const modal = document.createElement("div");
     modal.style.position = "fixed";
-    modal.style.top = "50%";
-    modal.style.left = "50%";
-    modal.style.transform = "translate(-50%, -50%)";
+    modal.style.top = "10px";
+    modal.style.left = "10px";
     modal.style.backgroundColor = "#fff";
-    modal.style.padding = "20px";
-    modal.style.boxShadow = "0 0 10px rgba(0, 0, 0, 0.5)";
+    modal.style.padding = "40px";
+    modal.style.boxShadow = "0 0 20px rgba(0, 0, 0, 0.5)";
     modal.style.zIndex = "1000";
     modal.style.textAlign = "center";
+    modal.style.width = "300px"; // Increase the width of the modal
 
     const message = document.createElement("p");
     message.textContent = "Do you want to use the API bypass?";
+    message.style.fontSize = "18px"; // Increase the font size for better readability
     modal.appendChild(message);
 
     const yesButton = document.createElement("button");
     yesButton.textContent = "Yes";
-    yesButton.style.margin = "0 10px";
+    yesButton.style.margin = "20px";
+    yesButton.style.padding = "10px 20px"; // Increase padding for the button
+    yesButton.style.fontSize = "16px"; // Increase font size for the button
     yesButton.onclick = () => {
         modal.remove();
         lootlabs();
@@ -57,7 +60,9 @@ function createNotificationBox() {
 
     const noButton = document.createElement("button");
     noButton.textContent = "No";
-    noButton.style.margin = "0 10px";
+    noButton.style.margin = "20px";
+    noButton.style.padding = "10px 20px"; // Increase padding for the button
+    noButton.style.fontSize = "16px"; // Increase font size for the button
     noButton.onclick = () => {
         modal.remove();
     };
