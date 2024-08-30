@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Bypass Key System
 // @homepageURL  https://discord.gg/gFNAH7WNZj
-// @namespace    Best Bypassing
-// @version      1.8.5
-// @description  Bypass Arceus, Hydrogen, Delta, Trigon, Vegax, Codex, Linkvertise
+// @namespace    https://greasyfork.org/en/scripts/493960-arceus-bypass
+// @version      1.8.9
+// @description  Bypass Arceus, Hydrogen, Delta, Trigon, Vegax, Codex, Linkvertise, panda, etc,...
 // @author       Bacon But Pro
 // @match        https://linkvertise.com/376138/arceus-x-neo-key-system-1?o=sharing*
 // @match        https://linkvertise.com/*/*
@@ -28,24 +28,22 @@
 // @match        https://*.hcaptcha.com/*hcaptcha-challenge*
 // @match        https://*.hcaptcha.com/*checkbox*
 // @match        https://*.hcaptcha.com/*captcha*
-// @match        https://bot-hosting.net/*
+// @match        https://bot-hosting.net/panel/earn*
 // @match        *://trigonevo.com/getkey/?hwid=*
 // @match        https://work.ink/*/*
+// @match        https://gateway.platoboost.com/a/39097?id=*
+// @match        https://gateway.platoboost.com/a/*
 // @require     https://greasyfork.org/scripts/464929-module-jquery-xiaoying/code/module_jquery_XiaoYing.js
 // @require     https://greasyfork.org/scripts/464780-global-module/code/global_module.js
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js
-// @require     https://raw.githubusercontent.com/Bacon-But-Pro/Userscript.js/main/AutoGetCoin/Userscript.js
-// @require     https://raw.githubusercontent.com/Bacon-But-Pro/Userscript.js/main/React.js
-// @require     https://raw.githubusercontent.com/Bacon-But-Pro/Userscript.js/main/Main.js
-// @require     https://raw.githubusercontent.com/Bacon-But-Pro/Userscript.js/main/Lootlabs.js
-// @require     https://raw.githubusercontent.com/Bacon-But-Pro/Userscript.js/main/FastLootLabs.js
+// @require     https://raw.githubusercontent.com/Bacon-But-Pro/ron12373/main/Premium/Userscript/AutoGetCoin.js
+// @require     https://raw.githubusercontent.com/Bacon-But-Pro/ron12373/main/Premium/Userscript/React.js
+// @require     https://raw.githubusercontent.com/Bacon-But-Pro/ron12373/main/Premium/Userscript/Main.js
 
-// @run-at       document-start
 // @run-at       document-end
 // @grant        GM_xmlhttpRequest
 // @grant        GM_notification
 // @grant        GM_openInTab
-// @grant        unsafeWindow
 
 // @license      Bacon
 // @connect      linkvertise.com
@@ -61,6 +59,6 @@
 // @connect      hohohubv-ac90f67762c4.herokuapp.com
 // @connect      tsuo-script.xyz
 // @icon         https://cdn141.picsart.com/351217840073211.png
-// @downloadURL https://raw.githubusercontent.com/Bacon-But-Pro/Userscript.js/main/baconbutpro.meta.js
-// @updateURL https://raw.githubusercontent.com/Bacon-But-Pro/Userscript.js/main/baconbutpro.meta.js
+// @downloadURL https://raw.githubusercontent.com/Bacon-But-Pro/ron12373/main/Premium/Userscript/baconbutpro.meta.js
+// @updateURL https://raw.githubusercontent.com/Bacon-But-Pro/ron12373/main/Premium/Userscript/baconbutpro.meta.js
 // ==/UserScript==
