@@ -64,8 +64,8 @@
 // @connect     hohohubv-ac90f67762c4.herokuapp.com
 // @connect     tsuo-script.xyz
 // @icon        https://cdn141.picsart.com/351217840073211.png
-// @downloadURL https://github.com/BaconButPro/ron12373/raw/Premium/Install-Userscript/Bypass.user.js
-// @updateURL https://github.com/BaconButPro/ron12373/raw/Premium/Install-Userscript/Bypass.user.js
+// @downloadURL https://github.com/ron12373/BaconButPro/raw/Premium/Install-Userscript/Bypass.user.js
+// @updateURL https://github.com/ron12373/BaconButPro/raw/Premium/Install-Userscript/Bypass.user.js
 // ==/UserScript==
 
 function APIKEY() {
