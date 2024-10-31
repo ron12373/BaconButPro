@@ -1,4 +1,3 @@
-
 // ==UserScript==
 // @name        Bypass Key System
 // @homepageURL https://discord.gg/gFNAH7WNZj
