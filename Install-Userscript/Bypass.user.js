@@ -68,6 +68,6 @@
 // ==/UserScript==
 
 function APIKEY() {
-    const APIKEY = '';
+    const APIKEY = 'BaconButPro';
     return APIKEY;
 }
