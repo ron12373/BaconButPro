@@ -12,7 +12,7 @@ API_KEY = "3527a2333c63c3691c8b2f76ebe904e69718f6ede4f59d1568ebb02e49016599"
 # Base URL for the API
 BASE_URL = "https://ethos.kys.gay/api/bypass?url="
 
-@app.route("/fetch", methods=["GET"])
+@app.route("/api/bypass", methods=["GET"])
 def fetch_api():
     # Get the URL parameter from the request
     target_url = request.args.get("url")
