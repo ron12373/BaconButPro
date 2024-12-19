@@ -17,7 +17,7 @@ def fetch_api():
     # Get the URL parameter from the request
     target_url = request.args.get("url")
     if not target_url:
-        return jsonify({"status": "error", "message": "Missing 'url' parameter"}), 400
+        return jsonify({"status": "error", "result": "Missing 'url' parameter"}), 400
 
     # Encode the URL
     encoded_url = urllib.parse.quote(target_url)
@@ -27,7 +27,7 @@ def fetch_api():
     response = requests.get(f"{BASE_URL}{encoded_url}", headers=headers)
 
     if response.status_code != 200:
-        return jsonify({"status": "error", "message": "Failed to fetch API"}), response.status_code
+        return jsonify({"status": "error", "result": "Failed to fetch API"}), response.status_code
 
     api_data = response.json()
 
