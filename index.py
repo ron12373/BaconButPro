@@ -27,7 +27,7 @@ def fetch_api():
     response = requests.get(f"{BASE_URL}{encoded_url}", headers=headers)
 
     if response.status_code != 200:
-        return jsonify({"status": "error", "result": "Failed to fetch API"}), response.status_code
+        return jsonify({"status": "error", "result": "Failed to Bypass"}), response.status_code
 
     api_data = response.json()
 
