@@ -22,8 +22,13 @@ def fetch_api():
     # Encode the URL
     encoded_url = urllib.parse.quote(target_url)
 
+    # Define headers with User-Agent and API key
+    headers = {
+        "x-api-key": API_KEY,
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    }
+
     # Make the request to the external API
-    headers = {"x-api-key": API_KEY}
     response = requests.get(f"{BASE_URL}{encoded_url}", headers=headers)
 
     if response.status_code != 200:
