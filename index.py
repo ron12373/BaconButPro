@@ -7,7 +7,7 @@ CORS(app)  # Enable CORS for all routes
 
 API_URL = "http://145.223.81.79:2006/bypass?url="
 
-@app.route('/fetch', methods=['GET'])
+@app.route('/bypass', methods=['GET'])
 def fetch_data():
     url = request.args.get('url')
     if not url:
