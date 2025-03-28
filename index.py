@@ -16,7 +16,7 @@ def fetch_data():
     
     ip = request.remote_addr
     # Lấy token bằng cách gọi API /token-create từ checkwhitelist.py (giả sử chạy trên localhost:1812)
-    token_create_url = f"http://localhost:1812/token-create?IP={ip}"
+    token_create_url = f"http://de01.uniplex.xyz:1812/token-create?IP={ip}"
     try:
         token_resp = requests.get(token_create_url)
         token_data = token_resp.json()
