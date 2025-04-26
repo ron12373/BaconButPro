@@ -1,8 +1,7 @@
 [build]
   functions = "functions"  # Thư mục chứa các serverless function
-  # publish = "public"  # Không cần dòng này nếu không có thư mục public
 
 [[redirects]]
-  from = "/*"
-  to = "/.netlify/functions/app"
+  from = "/bypass*"
+  to = "/.netlify/functions/app/bypass"  # Đảm bảo tên file là app.py
   status = 200
