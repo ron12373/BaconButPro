@@ -1,6 +1,6 @@
 [build]
   functions = "functions"  # Thư mục chứa các serverless function
-  publish = "public"  # Thư mục xuất bản (nếu có)
+  # publish = "public"  # Không cần dòng này nếu không có thư mục public
 
 [[redirects]]
   from = "/*"
