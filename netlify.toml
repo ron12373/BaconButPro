@@ -1,7 +1,0 @@
-[build]
-  functions = "functions"  # Thư mục chứa các serverless function
-
-[[redirects]]
-  from = "/bypass*"
-  to = "/.netlify/functions/app/bypass"  # Đảm bảo tên file là app.py
-  status = 200
