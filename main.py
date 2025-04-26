@@ -26,6 +26,7 @@ def fetch_data():
         if not token:
             return jsonify({"error": "Failed to generate token"}), 500
     except Exception:
+        # Không hiện lỗi chi tiết, chỉ trả về message chung
         return jsonify({"error": "Error while connect to Main server"}), 500
 
     # Gọi API bypass của token.js với thêm token và IP
@@ -37,7 +38,5 @@ def fetch_data():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-# Entry point for Netlify Functions
-def handler(event, context):
-    with app.app_context():
-        return app(event, context)
+if __name__ == '__main__':
+    app.run(debug=True)
