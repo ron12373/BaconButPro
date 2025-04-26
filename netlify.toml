@@ -1,0 +1,8 @@
+[build]
+  functions = "functions"  # Thư mục chứa các serverless function
+  publish = "public"  # Thư mục xuất bản (nếu có)
+
+[[redirects]]
+  from = "/*"
+  to = "/.netlify/functions/app"
+  status = 200
