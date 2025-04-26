@@ -5,7 +5,7 @@ import requests
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
-API_URL = "http://145.223.81.79:2006/bypass?url="
+API_URL = "http://melo.pylex.xyz:10211/bypass?url="
 
 @app.route('/bypass', methods=['GET'])
 def fetch_data():
