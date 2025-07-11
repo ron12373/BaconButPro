@@ -3,6 +3,7 @@
 // @version      1.1
 // @description  Still working on others link & and improving
 // @author       Bacon
+// @homepageURL  https://discord.gg/gFNAH7WNZj
 // @match        *://loot-link.com/s?*
 // @match        *://loot-links.com/s?*
 // @match        *://lootlink.org/s?*
@@ -15,5 +16,6 @@
 // @match        *://mobile.codex.lol/*
 // @match        *://87.106.44.40:6357/bypass.html?url=*
 // @require      https://github.com/ron12373/BaconButPro/raw/main/Main.js
+// @icon         https://cdn141.picsart.com/351217840073211.png
 // @grant        none
 // ==/UserScript==
