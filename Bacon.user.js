@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bypass Link (Beta)
-// @version      1.0
+// @version      1.1
 // @description  Still working on others link & and improving
 // @author       Bacon
 // @match        *://loot-link.com/s?*
