@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bypass Link (Beta)
-// @version      1.1.2
+// @version      1.1.3
 // @description  Still working on others link & and improving
 // @author       Bacon
 // @homepageURL  https://discord.gg/gFNAH7WNZj
@@ -31,7 +31,11 @@
 // @match        *://sub2unlock.top/*
 // @match        *://*.sub2get.com/*
 // @match        *://socialwolvez.com/*
-// @match        *://87.106.44.40:6357/bypass.html?url=*
+// @match        *://auth.platoboost.com/*
+// @match        *://auth.platoboost.click/*
+// @match        *://auth.platoboost.net/*
+// @match        *://auth.platorelay.com/*
+// @match        *://bypass-linkv2.vercel.app/bypass.html?url=*
 // @require      https://github.com/ron12373/BaconButPro/raw/main/Main.js
 // @icon         https://cdn141.picsart.com/351217840073211.png
 // @grant        none
