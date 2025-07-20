@@ -6,6 +6,7 @@ Userscript Support Status
 🟡  In progress  
 🟠  Planned to be added  
 ❌  Will not be added
+🛑 Patched – no longer working due to site update
 
 Platform List
 -------------
@@ -13,12 +14,13 @@ Platform List
 pandadevelopment     🟠
 Keyrblx              🟠
 Krnl                 🟠
+Arceus               🟡
 LootLabs             ✅
 social-unlock        ✅  
 Bstlar               ✅
 Fluxus               ✅
 Codex                ✅
-Delta (IOS)          🟡 (fixing)
+Delta (IOS)          ✅
 Delta (android)      🟠
 linkvertise          ✅
 adfoc                ✅
