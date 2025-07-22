@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bypass Link (Beta)
-// @version      1.1.7
+// @version      1.1.8
 // @description  Still working on others link & and improving
 // @author       Bacon
 // @homepageURL  https://discord.gg/gFNAH7WNZj
@@ -47,3 +47,11 @@
 // @icon         https://cdn141.picsart.com/351217840073211.png
 // @grant        none
 // ==/UserScript==
+
+window.WebsiteUrl = 'https://bypass-linkv2.vercel.app' // default is https://bypass-linkv2.vercel.app
+function config() {
+    return {
+        timer: '0', // Timer wait before bypass
+        redirect: 'false' // Auto redirect: 'true' or 'false'
+    };
+}
