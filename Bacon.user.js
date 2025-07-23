@@ -48,7 +48,6 @@
 // @grant        none
 // ==/UserScript==
 
-window.WebsiteUrl = 'https://bypass-linkv2.vercel.app' // default is https://bypass-linkv2.vercel.app
 function config() {
     return {
         timer: '0', // Timer wait before bypass
