@@ -11,8 +11,9 @@ Userscript Support Status
 Platform List
 -------------
 
-pandadevelopment     🟠
-Keyrblx              🟠
+pandadevelopment     🟡
+Delta (android)      🟡
+Keyrblx              🟡
 Krnl                 🟠
 Arceus               ✅
 LootLabs             ✅
@@ -21,7 +22,6 @@ Bstlar               ✅
 Fluxus               ✅
 Codex                ✅
 Delta (IOS)          ✅
-Delta (android)      🟠
 linkvertise          ✅
 adfoc                ✅
 linkify              ✅
