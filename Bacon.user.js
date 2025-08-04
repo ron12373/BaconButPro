@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bypass Link (Beta)
-// @version      2.0.1
+// @version      2.0.2
 // @description  Still working on others link & and improving
 // @author       Bacon
 // @homepageURL  https://discord.gg/gFNAH7WNZj
