@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bypass Link (Beta)
-// @version      2.0.2
+// @version      2.0.3
 // @description  Still working on others link & and improving
 // @author       Bacon
 // @homepageURL  https://discord.gg/gFNAH7WNZj
@@ -51,6 +51,6 @@
 function config() {
     return {
         timer: '0', // Timer wait before bypass
-        redirect: 'false' // Auto redirect: 'true' or 'false'
+        redirect: 'true' // Auto redirect: 'true' or 'false'
     };
 }
