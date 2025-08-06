@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Bypass Link (Beta)
-// @version      2.0.3
-// @description  Still working on others link & and improving
+// @name         Bacon Bypass Userscript
+// @version      2.0.4
+// @description  Made by Bacon But Pro
 // @author       Bacon
 // @homepageURL  https://discord.gg/gFNAH7WNZj
 // @match        *://loot-link.com/s?*
@@ -40,6 +40,7 @@
 // @match        *://mobile.codex.lol/*
 // @match        *://social-unlock.com/*
 // @match        *://spdmteam.com/key-system*
+// @match        *://krnl.cat/checkpoint/*
 // @match        *://bypass-linkv2.vercel.app/bypass.html?url=*
 // @require      https://cdn.rawgit.com/ricmoo/aes-js/e27b99df/index.js
 // @require      https://github.com/ron12373/BaconButPro/raw/main/Notify.js
