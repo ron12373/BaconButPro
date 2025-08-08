@@ -11,12 +11,10 @@ Userscript Support Status
 Platform List
 -------------
 
-pandadevelopment     🟡
-Keyrblx              🟡
-sub2unlock (.me|.io) 🟢
-sub4unlock (.co|.io) 🟢
-volcano              🟡
-adsluarmor           🟢
+pandadevelopment     ✅
+Keyrblx              ✅
+volcano              ✅
+adsluarmor           ✅
 Krnl                 ✅
 Delta (IOS/android)  ✅
 Arceus               ✅
@@ -35,8 +33,8 @@ link-unlock          ✅
 rekonise             ✅
 rkns.link            ✅
 mboost               ✅
-sub4unlock           ✅
+sub4unlock (all)     ✅
 linkunlocker         ✅
-sub2unlock           ✅
+sub2unlock (all)     ✅
 sub2get              ✅
 socialwolvez         ✅
