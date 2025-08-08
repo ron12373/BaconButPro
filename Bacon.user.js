@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bacon Bypass Userscript
-// @version      2.0.4
+// @version      2.0.5
 // @description  Made by Bacon But Pro
 // @author       Bacon
 // @homepageURL  https://discord.gg/gFNAH7WNZj
@@ -41,13 +41,29 @@
 // @match        *://social-unlock.com/*
 // @match        *://spdmteam.com/key-system*
 // @match        *://krnl.cat/checkpoint/*
+// @match        *://ads.luarmor.net/*
+// @match        *://dusarisalary.com/*
+// @match        *://bloggingdaze.com/*
+// @match        *://key.volcano.wtf/*
+// @match        *://keyrblx.com/*
+// @match        *://pandadevelopment.net/getkey?*
 // @match        *://bypass-linkv2.vercel.app/bypass.html?url=*
 // @require      https://cdn.rawgit.com/ricmoo/aes-js/e27b99df/index.js
 // @require      https://raw.githubusercontent.com/ron12373/BaconButPro/refs/heads/main/Notify.js
 // @require      https://raw.githubusercontent.com/ron12373/BaconButPro/main/notifyVS.js
 // @require      https://raw.githubusercontent.com/ron12373/BaconButPro/refs/heads/main/Main.js
 // @icon         https://cdn141.picsart.com/351217840073211.png
-// @grant        none
+// @grant        GM_xmlhttpRequest
+// @connect      linkvertise.com
+// @connect      loot-link.com
+// @connect      loot-links.com
+// @connect      lootlink.org
+// @connect      lootlinks.co
+// @connect      lootdest.info
+// @connect      lootdest.org
+// @connect      lootdest.com
+// @connect      links-loot.com
+// @connect      linksloot.net
 // ==/UserScript==
 
 function config() {
