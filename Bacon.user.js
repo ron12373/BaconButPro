@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bacon Bypass Userscript
-// @version      2.0.5
+// @version      2.0.6
 // @description  Made by Bacon But Pro
 // @author       Bacon
 // @homepageURL  https://discord.gg/gFNAH7WNZj
@@ -47,6 +47,11 @@
 // @match        *://key.volcano.wtf/*
 // @match        *://keyrblx.com/*
 // @match        *://pandadevelopment.net/getkey?*
+// @match        *://ldnesfspublic.org/*
+// @match        *://*/recaptcha/*
+// @match        *://*.hcaptcha.com/*hcaptcha-challenge*
+// @match        *://*.hcaptcha.com/*checkbox*
+// @match        *://*.hcaptcha.com/*captcha*
 // @match        *://bypass-linkv2.vercel.app/bypass.html?url=*
 // @require      https://cdn.rawgit.com/ricmoo/aes-js/e27b99df/index.js
 // @require      https://raw.githubusercontent.com/ron12373/BaconButPro/refs/heads/main/Notify.js
