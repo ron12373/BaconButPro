@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bacon Bypass Userscript
-// @version      2.0.7
+// @version      2.0.8
 // @description  Made by Bacon But Pro
 // @author       Bacon
 // @homepageURL  https://discord.gg/gFNAH7WNZj
