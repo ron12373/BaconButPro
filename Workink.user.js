@@ -1,8 +1,7 @@
 // ==UserScript==
 // @name            Auto Work ink
-// @version         1.0
+// @version         1.1
 // @description     Work.ink + Timer Hooker (By Tiger 27)
-// @include         *
 // @require         https://greasyfork.org/scripts/372672-everything-hook/code/Everything-Hook.js?version=881251
 // @author          Buicon999
 // @match           https://work.ink/*
