@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bacon Bypass Userscript
-// @version      2.0.8
+// @version      2.0.9
 // @description  Made by Bacon But Pro
 // @author       Bacon
 // @homepageURL  https://discord.gg/gFNAH7WNZj
@@ -72,6 +72,7 @@
 function config() {
     return {
         timer: '0', // Timer wait before bypass
-        redirect: 'true' // Auto redirect: 'true' or 'false'
+        redirect: 'true', // Auto redirect: 'true' or 'false'
+        lootlabsv2: 'false' // Use lootlabs v2: 'true' or 'false'
     };
 }
