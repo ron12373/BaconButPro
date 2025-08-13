@@ -52,8 +52,8 @@
 // @match        *://linkvertise.com/?iwantbypass=*
 // @match        *://bypass-linkv2.vercel.app/bypass.html?url=*
 // @require      https://cdn.rawgit.com/ricmoo/aes-js/e27b99df/index.js
-// @require      https://raw.githubusercontent.com/ron12373/BaconButPro/main/notifyVS.js
-// @require      https://raw.githubusercontent.com/ron12373/BaconButPro/refs/heads/main/Main.js
+// @require      https://github.com/ron12373/BaconButPro/raw/main/notifyVS.js
+// @require      https://github.com/ron12373/BaconButPro/raw/main/Main.js
 // @icon         https://cdn141.picsart.com/351217840073211.png
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setClipboard
