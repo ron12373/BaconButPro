@@ -1,8 +1,9 @@
 // ==UserScript==
-// @name         Bypass Link (Beta) Dev
+// @name         Bacon Bypass Userscript
 // @version      2.1.0
-// @description  Still working on others link & and improving
+// @description  Made by Bacon But Pro
 // @author       Bacon
+// @homepageURL  https://discord.gg/gFNAH7WNZj
 // @match        *://loot-link.com/s?*
 // @match        *://loot-links.com/s?*
 // @match        *://lootlink.org/s?*
@@ -28,7 +29,6 @@
 // @match        *://linkunlocker.com/*
 // @match        *://sub2unlock.com/*
 // @match        *://sub2unlock.top/*
-// @match        *://sub2unlock.me/*
 // @match        *://*.sub2get.com/*
 // @match        *://socialwolvez.com/*
 // @match        *://auth.platoboost.com/*
@@ -50,10 +50,11 @@
 // @match        *://ldnesfspublic.org/*
 // @match        *://tapvietcode.com/*
 // @match        *://linkvertise.com/?iwantbypass=*
-// @match        *://localhost:3000/bypass.html?url=*
+// @match        *://bypass-linkv2.vercel.app/bypass.html?url=*
 // @require      https://cdn.rawgit.com/ricmoo/aes-js/e27b99df/index.js
 // @require      https://raw.githubusercontent.com/ron12373/BaconButPro/main/notifyVS.js
-// @run-at       document-end
+// @require      https://raw.githubusercontent.com/ron12373/BaconButPro/refs/heads/main/Main.js
+// @icon         https://cdn141.picsart.com/351217840073211.png
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setClipboard
 // @connect      linkvertise.com
