@@ -7,6 +7,6 @@
 // @match           *://work.ink/*
 // @match           *://workink.net/*
 // @run-at          document-end
-// @require         https://raw.githubusercontent.com/ron12373/BaconButPro/refs/heads/main/workink.js
+// @require         https://github.com/ron12373/BaconButPro/raw/main/workink.js
 // @grant           none
 // ==/UserScript==
