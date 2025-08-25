@@ -52,6 +52,8 @@
 // @match        *://ldnesfspublic.org/*
 // @match        *://tapvietcode.com/*
 // @match        *://paster.so/*
+// @match        *://sub2unlock.io/*
+// @match        *://getkey.farrghii.com/check1.php*
 // @match        *://bypass-linkv2.vercel.app/bypass.html?url=*
 // @require      https://cdn.rawgit.com/ricmoo/aes-js/e27b99df/index.js
 // @require      https://github.com/ron12373/BaconButPro/raw/main/notifyVS.js
