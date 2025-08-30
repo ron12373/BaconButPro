@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bacon Bypass Userscript
-// @version      2.1.6
+// @version      2.1.7
 // @description  Made by Bacon But Pro
 // @author       Bacon
 // @homepageURL  https://discord.gg/gFNAH7WNZj
@@ -59,10 +59,7 @@
 // @require      https://github.com/ron12373/BaconButPro/raw/main/notifyVS.js
 // @require      https://github.com/ron12373/BaconButPro/raw/main/Main.js
 // @icon         https://cdn141.picsart.com/351217840073211.png
-// @grant        GM_xmlhttpRequest
-// @grant        GM.xmlHttpRequest
-// @grant        GM_setClipboard
-// @grant        unsafeWindow
+// @grant        none
 // @connect      linkvertise.com
 // @connect      loot-link.com
 // @connect      loot-links.com
@@ -74,16 +71,3 @@
 // @connect      links-loot.com
 // @connect      linksloot.net
 // ==/UserScript==
-
-function config() {
-    return {
-        timer: '0', // Timer wait before bypass
-        redirect: 'true', // Auto redirect: 'true' or 'false'
-        redirectv2: 'false', // Auto redirect without button: 'true' or 'false'
-        redirectv2Delay: 0, // Delay in seconds before auto redirect (0 = no delay)
-        lootlabsv2: 'true', // Use lootlabs v2: 'true' or 'false'
-        redirectURLButton: ['krnl.cat', 'ads.luarmor.net'], // URLs that should show button instead of auto redirect (only working if you use redirectv2)
-        cooldownButton: 'default', // Button cooldown: 'default', number (0 = no cooldown, custom number = all links use that cooldown)
-        auto_copy: 'true' // Auto Copy: 'true' or 'false'
-    };
-}
