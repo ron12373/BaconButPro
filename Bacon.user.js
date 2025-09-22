@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bacon Bypass Userscript
-// @version      2.1.7
+// @version      2.1.8
 // @description  Made by Bacon But Pro
 // @author       Bacon
 // @homepageURL  https://discord.gg/gFNAH7WNZj
@@ -37,7 +37,6 @@
 // @match        *://auth.platoboost.click/*
 // @match        *://auth.platoboost.net/*
 // @match        *://auth.platorelay.com/*
-// @match        *://flux.li/android/external/*
 // @match        *://bstlar.com/*
 // @match        *://mobile.codex.lol/*
 // @match        *://social-unlock.com/*
@@ -46,12 +45,10 @@
 // @match        *://ads.luarmor.net/*
 // @match        *://dusarisalary.com/*
 // @match        *://bloggingdaze.com/*
-// @match        *://key.volcano.wtf/*
 // @match        *://keyrblx.com/*
 // @match        *://pandadevelopment.net/getkey?*
 // @match        *://ldnesfspublic.org/*
 // @match        *://tapvietcode.com/*
-// @match        *://paster.so/*
 // @match        *://sub2unlock.io/*
 // @match        *://getkey.farrghii.com/check1.php*
 // @match        *://bypass-linkv2.vercel.app/bypass.html?url=*
@@ -59,7 +56,10 @@
 // @require      https://github.com/ron12373/BaconButPro/raw/main/notifyVS.js
 // @require      https://github.com/ron12373/BaconButPro/raw/main/Main.js
 // @icon         https://cdn141.picsart.com/351217840073211.png
-// @grant        none
+// @run-at       document-end
+// @grant        GM_xmlhttpRequest
+// @grant        GM_setClipboard
+// @grant        unsafeWindow
 // @connect      linkvertise.com
 // @connect      loot-link.com
 // @connect      loot-links.com
