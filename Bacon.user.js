@@ -71,3 +71,15 @@
 // @connect      links-loot.com
 // @connect      linksloot.net
 // ==/UserScript==
+function config() {
+    return {
+        timer: '0', // Timer wait before bypass
+        redirect: 'false', // Auto redirect: 'true' or 'false'
+        redirectv2: 'true', // Auto redirect without button: 'true' or 'false'
+        redirectv2Delay: 0, // Delay in seconds before auto redirect (0 = no delay)
+        lootlabsv2: 'true', // Use lootlabs v2: 'true' or 'false'
+        redirectURLButton: ['krnl.cat', 'ads.luarmor.net', 'buicon.com'], // URLs that should show button instead of auto redirect (only working if you use redirectv2)
+        cooldownButton: 'default', // Button cooldown: 'default', number (0 = no cooldown, custom number = all links use that cooldown)
+        auto_copy: 'true' // Auto Copy: 'true' or 'false'
+    };
+}
