@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name            Auto Work ink
-// @version         1.6
-// @description     Work.ink + Timer Hooker (By Tiger 27)
-// @require         https://greasyfork.org/scripts/372672-everything-hook/code/Everything-Hook.js?version=881251
-// @author          Bacon But Pro
-// @match           *://work.ink/*
-// @match           *://workink.net/*
-// @run-at          document-end
-// @require         https://github.com/ron12373/BaconButPro/raw/main/workink.js
-// @grant           none
+// @name         Work.ink Userscript
+// @namespace    http://tampermonkey.net/
+// @version      1.1
+// @description  Help you doing step
+// @author       Bacon But Pro
+// @match        *://work.ink/*/*
+// @match        *://workink.net/*/*
+// @grant        none
+// @run-at       document-start
+// @require      https://github.com/ron12373/BaconButPro/raw/main/workink.js
 // ==/UserScript==
