@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Work.ink Userscript
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.3
 // @description  Help you doing step
 // @author       Bacon But Pro
 // @match        *://work.ink/*/*
