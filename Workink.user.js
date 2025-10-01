@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Work.ink Userscript
 // @namespace    http://tampermonkey.net/
-// @version      1.4.2
+// @version      1.4.3
 // @description  Help you doing step
 // @author       Bacon But Pro
 // @match        *://work.ink/*/*
@@ -12,4 +12,4 @@
 // @downloadURL https://github.com/ron12373/BaconButPro/raw/main/Workink.user.js
 // @updateURL https://github.com/ron12373/BaconButPro/raw/main/Workink.user.js
 // ==/UserScript==
-const config = { time: 15 };
+const config = { time: 21 }; // time config
